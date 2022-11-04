@@ -19,7 +19,6 @@ BODMAS = **B**racket over **D**ivision, **M**ultiplication, **A**ddition, and **
 
 
 ### Watch
-Watch this [video](https://youtu.be/ClYdw4d4OmA) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ClYdw4d4OmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -27,7 +26,7 @@ Watch this [video](https://youtu.be/ClYdw4d4OmA)
 
 ::: callout-note
 
-Bodmas problem can get viral on internet. Watch this [video](https://youtu.be/URcUvFIUIhQ)
+Bodmas problem can get viral on internet. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/URcUvFIUIhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 :::
