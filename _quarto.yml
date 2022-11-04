@@ -11,8 +11,10 @@ website:
       - href: index.qmd
         text: Preface
       - week1.qmd
-
-
+      - week2.qmd
+      - week3.qmd
+      - week4.qmd
+   
 bibliography: references.bib
 
 
@@ -21,6 +23,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    number-sections: true
     
 editor: visual
 

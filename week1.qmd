@@ -1,5 +1,12 @@
 # Week 5
 
+## Learning goals
+
+* Understand BODMAS rule
+* Prime numbers and factorisation
+* Understand highest common factors
+* Understand lowest common factors
+
 ## Order or Operations: BODMAS rule
 ### Problem
 
@@ -45,14 +52,41 @@ Note: * symbol is the same as $\times$
 
 5. (10 : 2) * 3 - 2 = ...
 
-## Significant Figures
+## Prime Numbers 
+### Problem
 
-Watch this [video]([https://youtu.be/Gn97hpEkTiM](https://youtu.be/Gn97hpEkTiM)
-)
+Is 5 a primer number?
 
+### Watch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gn97hpEkTiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mIStB5X4U8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Your turn
+
+1. Is 13 a prime number?
+
+2. Is 33 a prime number?
+
+## Prime Factorization
+
+### Problem
+
+Find the prime factorization of 75.
+
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKKDTfHcsG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Your Turn
+
+1. Find the prime factorization of 80.
+
+2. Find the prime factorization of 100.
+
+3. Find the prime factorization of 125.
 
 ## Weekly Test (Graded)
+
+Ready to take the test? 
 
 Go to Moodle, and click `Week 5 Test`
