@@ -4,7 +4,7 @@
 
 * Understand BODMAS rule
 * Prime numbers and factorisation
-* Understand highest common factors
+* Understand highest common factors/greatest common divisor
 * Understand lowest common factors
 
 ## Order or Operations: BODMAS rule
@@ -84,6 +84,24 @@ Find the prime factorization of 75.
 2. Find the prime factorization of 100.
 
 3. Find the prime factorization of 125.
+
+## Finding greatest common factors
+
+The greatest common divisor (gcd) is also called the highest common factor (hcf). Don't let the terms confuse you.
+
+### Problem
+
+What is the greatest common divisor of 18 and 21?
+
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uE9O8N5JYB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Your Turn
+
+1. Find the highest common factor of 12 and 20.
+
+2. Find the highest common factor of 35 and 100.
 
 ## Weekly Test (Graded)
 
