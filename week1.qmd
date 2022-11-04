@@ -1,8 +1,21 @@
 # Week 5
 
 ## Order or Operations: BODMAS rule
+### Problem
 
+How to work this out: 5+2(2+4)?
+
+### Concept
 BODMAS = **B**racket over **D**ivision, **M**ultiplication, **A**ddition, and **S**ubtraction.
+
+| Symbol |Operation| Priority | 
+|:----:|:----:|:----:|
+| B   | $()$  | 1   | 
+| D   | $\div$  | 2  | 
+| A    | $+$ |3  |
+| M     |$\times$| 3  |
+| M     |$-$| 3  |
+: Priority
 
 
 
