@@ -3,9 +3,10 @@
 ## Learning goals
 
 * Understand BODMAS rule
-* Prime numbers and factorisation
-* Understand highest common factors/greatest common divisor
-* Understand lowest common factors
+* Understand Prime numbers 
+* Know to do prime factorisation
+* Understand highest common factors (hcf) / greatest common divisor (gcd)
+* Understand lowest common factors (lcm)
 
 ## Order or Operations: BODMAS rule
 ### Problem
@@ -85,9 +86,10 @@ Find the prime factorization of 75.
 
 3. Find the prime factorization of 125.
 
-## Finding greatest common factors
+## Greatest common factors (gcd)
 
-The greatest common divisor (gcd) is also called the highest common factor (hcf). Don't let the terms confuse you.
+The greatest common divisor (gcd) is also called the highest common factor (hcf). 
+GCD of two numbers is the number that divides them both. For instance GCD of 3 and 6 is 3. 
 
 ### Problem
 
@@ -99,9 +101,55 @@ What is the greatest common divisor of 18 and 21?
 
 ### Your Turn
 
-1. Find the highest common factor of 12 and 20.
+1. Find the hcf of 12 and 20.
 
-2. Find the highest common factor of 35 and 100.
+2. Find the gcd of 35 and 100.
+
+3. Find the gcd of 3 and 12.
+
+4. Find the gcd of 3, 6, and 12.
+
+### Check Your Calculation
+
+::: callout-warning
+## Excel
+Type in:
+
+= GCD(3,6,12)
+
+press `Enter`
+:::
+
+## Lowest common factors (lcm)
+
+The lowest common factors is also called the the lowest common multiple.  LCM of number A (say 2) and B (say 5) is the lowest number that can be divided by A and B without a remainder. For example, the lcm for 2 and 5 is 10 because 10 can be divided by 2 and 5 without a remainder.  
+
+### Problem
+
+Find the lcm of 6 and 10.
+
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RMJs_I9Nydw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Your Turn
+
+1. Find the lcm of 2 and 5.
+
+2. Find the lcm of 3 and 6.
+
+### Check Your Calculation
+
+::: callout-warning
+
+## Excel
+
+Type in
+
+= LCM (3,6)
+
+press `Enter`
+:::
 
 ## Weekly Test (Graded)
 

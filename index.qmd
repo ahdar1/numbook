@@ -18,7 +18,7 @@ At the end of the course, I want you to say this: I love marketing and don't avo
 
 
 ## How to Study {.unnumbered}
-In topic, you should approach the materials according this flowchart:
+In learning a topic, in a section covering the topic, your learning journey is described by this flowchart:
 
 ```{mermaid}
 flowchart LR
@@ -50,4 +50,8 @@ The module runs from week 5 - 8 in the Michaelmas term.
 
 ## Textbook {.unnumbered}
 
-No textbook is needed. But if you want to buy a book, I recommend @Dar2020. This is a compilation book (I dont create it!) in which chapters are taken from @Croft2006 and @Berenson2012 (Honestly, this is my quickest route of having a book with my name on it). I used this book in the past but realized that students were complaining the book was too thin to put under their pillows. 
+No textbook is needed. But if you want to buy a book, I recommend @Dar2020. This is a compilation book (I don't create it!) in which the chapters are taken from @Croft2006 and @Berenson2012 (Honestly, this is my quickest route of having a book with my name on it). I used this book in the past but realized that students were complaining the book was too thin to put under their pillows. 
+
+## Excel {.unnumbered}
+
+I provide `Excel` command to answer problems where appropriate. This is a nice tool but also dangerous. Without an understanding, the use of `Excel` can put you in the dark forever. Therefore, make sure you understand how to solve problems manually before using `Excel`.
