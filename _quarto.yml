@@ -8,7 +8,6 @@ book:
   date: "11/04/2022"
   chapters:
     - index.qmd
-    - intro.qmd
     - week1.qmd
     - references.qmd
 

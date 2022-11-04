@@ -1,3 +1,7 @@
 # Preface {.unnumbered}
 
 I am a marketeer and like numbers
+
+## Textbook
+
+No textbook is needed. But if you want to buy a book, I recommend @Dar2020. This is a compilation book (I dont create it!) where chapters of this book are taken from @Croft2006 and @Berenson2012. I used this book in the past but realized that students were complaining the book was too thin to put under their pillows. 

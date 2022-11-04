@@ -30,11 +30,4 @@
   year      = {2020},
 }
 
-@Article{Berenson2012,
-  author    = {Berenson, Mark and Levine, David and Szabat, Kathryn A and Krehbiel, Timothy C},
-  title     = {Basic business statistics: Concepts and applications},
-  year      = {2012},
-  publisher = {Pearson higher education AU},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}

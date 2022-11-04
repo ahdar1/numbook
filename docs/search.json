@@ -4,34 +4,27 @@
     "href": "index.html",
     "title": "MKTG100: Numeracy Skills",
     "section": "",
-    "text": "I am a marketeer and like numbers"
-  },
-  {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "This is a book to support MKTG100 Numeracy"
+    "text": "I am a marketeer and like numbers\n\n\nNo textbook is needed. But if you want to buy a book, I recommend Daryanto (2020). This is a compilation book (I dont create it!) where chapters of this book are taken from Croft, Croft, and Davison (2006) and Berenson et al. (2012). I used this book in the past but realized that students were complaining the book was too thin to put under their pillows.\n\n\n\n\nBerenson, Mark, David Levine, Kathryn A Szabat, and Timothy C Krehbiel. 2012. “Basic Business Statistics: Concepts and Applications.”\n\n\nCroft, Anthony, Tony Croft, and Robert Davison. 2006. Foundation Maths. Pearson Education.\n\n\nDaryanto, Ahmad. 2020. Basic Numeracy and Statistics (Complied by Ahmad Daryanto). Pearson."
   },
   {
     "objectID": "week1.html",
     "href": "week1.html",
-    "title": "2  Week 5",
+    "title": "1  Week 5",
     "section": "",
-    "text": "How to work this out: 5+2(2+4) = ?\n\n\n\nBODMAS = Bracket over Division, Multiplication, Addition, and Subtraction.\n\nOrder of Operations and Priority\n\n\nSymbol\nOperation\nPriority\n\n\n\n\nB\n\\(()\\)\n1\n\n\nD\n\\(\\div\\)\n2\n\n\nA\n\\(+\\)\n3\n\n\nM\n\\(\\times\\)\n3\n\n\nM\n\\(-\\)\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nBodmas problem can get viral on internet.\n\n\n\n\n\n\n\n\n(1+2)5-2*3\n5:(2+1)2"
+    "text": "How to work this out: 5+2(2+4) = ?\n\n\n\nBODMAS = Bracket over Division, Multiplication, Addition, and Subtraction.\n\nOrder of Operations and Priority\n\n\nSymbol\nOperation\nPriority\n\n\n\n\nB\n\\(()\\)\n1\n\n\nD\n\\(\\div\\)\n2\n\n\nA\n\\(+\\)\n3\n\n\nM\n\\(\\times\\)\n3\n\n\nM\n\\(-\\)\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nBodmas problem can get viral on internet.\n\n\n\n\n\n\n\nNote: * symbol is the same as \\(\\times\\)\n\n3 + 4 * 2 = …\n( 1 + 2 ) 5 - 2 * 3 = …\n5 : ( 2 + 1 ) 2 = …\n2 - 2 + 2 = …\n(10 : 2) * 3 - 2 = …"
   },
   {
     "objectID": "week1.html#significant-figures",
     "href": "week1.html#significant-figures",
-    "title": "2  Week 5",
-    "section": "2.2 Significant Figures",
-    "text": "2.2 Significant Figures\nWatch this video"
+    "title": "1  Week 5",
+    "section": "1.2 Significant Figures",
+    "text": "1.2 Significant Figures\nWatch this video"
   },
   {
     "objectID": "week1.html#weekly-test-graded",
     "href": "week1.html#weekly-test-graded",
-    "title": "2  Week 5",
-    "section": "2.3 Weekly Test (Graded)",
-    "text": "2.3 Weekly Test (Graded)\nGo to Moodle, and click Week 5 Test"
+    "title": "1  Week 5",
+    "section": "1.3 Weekly Test (Graded)",
+    "text": "1.3 Weekly Test (Graded)\nGo to Moodle, and click Week 5 Test"
   }
 ]
