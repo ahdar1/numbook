@@ -1,72 +1,78 @@
-# Week 5
+# Week 5 
 
 ## Learning goals
 
-* Understand BODMAS rule
-* Understand Prime numbers 
-* Know to do prime factorisation
-* Understand highest common factors (hcf) / greatest common divisor (gcd)
-* Understand lowest common factors (lcm)
+-   Understand BODMAS rule
+-   Understand Prime numbers
+-   Know to do prime factorisation
+-   Understand highest common factors (hcf) / greatest common divisor (gcd)
+-   Understand lowest common factors (lcm)
 
 ## Order or Operations: BODMAS rule
+
 ### Problem
 
 How to work this out: 5+2(2+4) = ?
 
 ### Concept
+
 BODMAS = **B**racket over **D**ivision, **M**ultiplication, **A**ddition, and **S**ubtraction.
 
-| Symbol |Operation| Priority | 
-|:----:|:----:|:----:|
-| B   | $()$  | 1   | 
-| D   | $\div$  | 2  | 
-| A    | $+$ |3  |
-| M     |$\times$| 3  |
-| M     |$-$| 3  |
-: Order of Operations and Priority
+| Symbol | Operation | Priority |
+|:------:|:---------:|:--------:|
+|   B    |   $()$    |    1     |
+|   D    |  $\div$   |    2     |
+|   A    |    $+$    |    3     |
+|   M    | $\times$  |    3     |
+|   M    |    $-$    |    3     |
 
+: Order of Operations and Priority
 
 ### Watch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ClYdw4d4OmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ClYdw4d4OmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
-
+</iframe>
 
 ::: callout-note
+Bodmas problem can get viral on internet.
 
-Bodmas problem can get viral on internet. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/URcUvFIUIhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/URcUvFIUIhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</iframe>
 :::
 
 ### Your Turn
 
-Note: * symbol is the same as $\times$
+Note: \* symbol is the same as $\times$
 
-1. 3 + 4 * 2 = ...
+1.  3 + 4 \* 2 = ...
 
-2. ( 1 + 2 ) 5 - 2 * 3 = ...
+2.  ( 1 + 2 ) 5 - 2 \* 3 = ...
 
-3. 5 : ( 2 + 1 ) 2 = ...
+3.  5 : ( 2 + 1 ) 2 = ...
 
-4. 2 - 2 + 2 = ...
+4.  2 - 2 + 2 = ...
 
-5. (10 : 2) * 3 - 2 = ...
+5.  (10 : 2) \* 3 - 2 = ...
 
-## Prime Numbers 
+## Prime Numbers
+
 ### Problem
 
 Is 5 a primer number?
 
 ### Watch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mIStB5X4U8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mIStB5X4U8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
 
 ### Your turn
 
-1. Is 13 a prime number?
+1.  Is 13 a prime number?
 
-2. Is 33 a prime number?
+2.  Is 33 a prime number?
 
 ## Prime Factorization
 
@@ -76,20 +82,21 @@ Find the prime factorization of 75.
 
 ### Watch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKKDTfHcsG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKKDTfHcsG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
 
 ### Your Turn
 
-1. Find the prime factorization of 80.
+1.  Find the prime factorization of 80.
 
-2. Find the prime factorization of 100.
+2.  Find the prime factorization of 100.
 
-3. Find the prime factorization of 125.
+3.  Find the prime factorization of 125.
 
 ## Greatest common factors (gcd)
 
-The greatest common divisor (gcd) is also called the highest common factor (hcf). 
-GCD of two numbers is the number that divides them both. For instance GCD of 3 and 6 is 3. 
+The greatest common divisor (gcd) is also called the highest common factor (hcf). GCD of two numbers is the number that divides them both. For instance GCD of 3 and 6 is 3.
 
 ### Problem
 
@@ -97,22 +104,25 @@ What is the greatest common divisor of 18 and 21?
 
 ### Watch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uE9O8N5JYB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uE9O8N5JYB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
 
 ### Your Turn
 
-1. Find the hcf of 12 and 20.
+1.  Find the hcf of 12 and 20.
 
-2. Find the gcd of 35 and 100.
+2.  Find the gcd of 35 and 100.
 
-3. Find the gcd of 3 and 12.
+3.  Find the gcd of 3 and 12.
 
-4. Find the gcd of 3, 6, and 12.
+4.  Find the gcd of 3, 6, and 12.
 
 ### Check Your Calculation
 
 ::: callout-warning
 ## Excel
+
 Type in:
 
 = GCD(3,6,12)
@@ -122,7 +132,7 @@ press `Enter`
 
 ## Lowest common factors (lcm)
 
-The lowest common factors is also called the the lowest common multiple.  LCM of number A (say 2) and B (say 5) is the lowest number that can be divided by A and B without a remainder. For example, the lcm for 2 and 5 is 10 because 10 can be divided by 2 and 5 without a remainder.  
+The lowest common factors is also called the the lowest common multiple. LCM of number A (say 2) and B (say 5) is the lowest number that can be divided by A and B without a remainder. For example, the lcm for 2 and 5 is 10 because 10 can be divided by 2 and 5 without a remainder.
 
 ### Problem
 
@@ -130,18 +140,19 @@ Find the lcm of 6 and 10.
 
 ### Watch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RMJs_I9Nydw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RMJs_I9Nydw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
 
 ### Your Turn
 
-1. Find the lcm of 2 and 5.
+1.  Find the lcm of 2 and 5.
 
-2. Find the lcm of 3 and 6.
+2.  Find the lcm of 3 and 6.
 
 ### Check Your Calculation
 
 ::: callout-warning
-
 ## Excel
 
 Type in
@@ -153,6 +164,6 @@ press `Enter`
 
 ## Weekly Test (Graded)
 
-Ready to take the test? 
+Ready to take the test?
 
 Go to Moodle, and click `Week 5 Test`

@@ -2,22 +2,22 @@
 
 ## Author {.unnumbered}
 
-My name is Ahmad Daryanto (Anto). I am the module leader and developed this website. This is my personal website [https://sites.google.com/view/ahmaddaryanto/](https://sites.google.com/view/ahmaddaryanto/)
+My name is Ahmad Daryanto (Anto). I am the module leader and developed this website. This is my personal website <https://sites.google.com/view/ahmaddaryanto/>
 
 ## Aim {.unnumbered}
 
-At the end of the course, I want you to say this: I love marketing and don't avoid numbers. 
+At the end of the course, I want you to say this: I love marketing and don't avoid numbers.
 
 ## Learning Objectives {.unnumbered}
 
-1.	To improve basic numeracy skills and understand basic statistical concepts (statistics in MKTG200)
+1.  To improve basic numeracy skills and understand basic statistical concepts (statistics in MKTG200)
 
-2.	To increase students’ appreciation of the importance of gaining those skills in the marketing environment
+2.  To increase students' appreciation of the importance of gaining those skills in the marketing environment
 
-3.	As a preparation for advanced modules in Part 2
-
+3.  As a preparation for advanced modules in Part 2
 
 ## How to Study {.unnumbered}
+
 In learning a topic, in a section covering the topic, your learning journey is described by this flowchart:
 
 ```{mermaid}
@@ -36,21 +36,21 @@ The module runs from week 5 - 8 in the Michaelmas term.
 
 ## Contents {.unnumbered}
 
-| Week | Topic |  
-|:----:|:----:|
-| 5  | Arithmetic  of whole numbers  |   
-| 5  | Fraction  |   
-| 5  | Decimal numbers  |   
-| 6  | Percentage and ratio  |   
-| 6  | Algebra	  |   
-| 7  | Indices	  |   
-| 7  | Simplifying algebraic expressions  |   
-| 8  | Functions	  |   
-  
+| Week |               Topic               |
+|:----:|:---------------------------------:|
+|  5   |    Arithmetic of whole numbers    |
+|  5   |             Fraction              |
+|  5   |          Decimal numbers          |
+|  6   |       Percentage and ratio        |
+|  6   |              Algebra              |
+|  7   |              Indices              |
+|  7   | Simplifying algebraic expressions |
+|  8   |             Functions             |
 
 ## Textbook {.unnumbered}
 
-No textbook is needed. But if you want to buy a book, I recommend @Dar2020. This is a compilation book (I don't create it!) in which the chapters are taken from @Croft2006 and @Berenson2012 (Honestly, this is my quickest route of having a book with my name on it). I used this book in the past but realized that students were complaining the book was too thin to put under their pillows. 
+No textbook is needed. But if you want to buy a book, I recommend @Dar2020. This is a compilation book (I don't create it!) in which the chapters are taken from @Croft2006 and @Berenson2012 (Honestly, this is my quickest route of having a book with my name on it). I used this book in the past but realized that students were complaining the book was too thin to put under their pillows.
 
 ## Excel {.unnumbered}
+
 I assume you know how to use `Excel` to calculate a basic mathematical operation e.g., 1+1. To answer certain problems in this manual, I provide `Excel` commands. This is a nice tool to use but also dangerous. Without an understanding, the use of `Excel` can put you in the dark forever. Make sure you understand how to solve the problems manually before using `Excel`.
