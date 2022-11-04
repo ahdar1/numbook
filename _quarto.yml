@@ -1,0 +1,24 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "numbook"
+  author: "Ahmad Daryanto (Anto)"
+  date: "11/04/2022"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - week1.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
