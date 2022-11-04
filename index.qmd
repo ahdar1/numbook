@@ -1,7 +1,21 @@
 # Preface {.unnumbered}
 
-I am a marketeer and like numbers
+I want you to say this: I love marketing and am not afraid of numbers.
+
+## How to Study
+
+```{mermaid}
+flowchart LR
+  A[Problem] --> B{Got it?}
+  B --> D[Yes]
+  D --> F[Go to 'Your Turn']
+  B --> E[No]
+  E --> G[Watch Video]
+  G --> F[Go to 'Your Turn']
+```
+
+## Contents
 
 ## Textbook
 
-No textbook is needed. But if you want to buy a book, I recommend @Dar2020. This is a compilation book (I dont create it!) where chapters of this book are taken from @Croft2006 and @Berenson2012. I used this book in the past but realized that students were complaining the book was too thin to put under their pillows. 
+No textbook is needed. But if you want to buy a book, I recommend @Dar2020. This is a compilation book (I dont create it!) in which chapters are taken from @Croft2006 and @Berenson2012 (Honestly, this is my quickest route of having a book with my name on it). I used this book in the past but realized that students were complaining the book was too thin to put under their pillows. 

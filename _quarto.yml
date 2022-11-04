@@ -1,23 +1,26 @@
 project:
-  type: book
+  type: website
   output-dir: docs
 
-book:
+website:
   title: "MKTG100: Numeracy Skills"
   author: "Ahmad Daryanto (Anto)"
   date: "11/04/2022"
-  chapters:
-    - index.qmd
-    - week1.qmd
-    - references.qmd
+  navbar:
+    left:
+      - href: index.qmd
+        text: Preface
+      - week1.qmd
+
 
 bibliography: references.bib
+
 
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
-
+    css: styles.css
+    toc: true
+    
 editor: visual
 
