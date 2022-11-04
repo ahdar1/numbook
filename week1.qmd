@@ -18,9 +18,7 @@ BODMAS = **B**racket over **D**ivision, **M**ultiplication, **A**ddition, and **
 : Priority
 
 
-
-
-
+### Watch
 Watch this [video](https://youtu.be/ClYdw4d4OmA) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ClYdw4d4OmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
