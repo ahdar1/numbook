@@ -3,7 +3,7 @@
 ## Order or Operations: BODMAS rule
 ### Problem
 
-How to work this out: 5+2(2+4)?
+How to work this out: 5+2(2+4) = ?
 
 ### Concept
 BODMAS = **B**racket over **D**ivision, **M**ultiplication, **A**ddition, and **S**ubtraction.
