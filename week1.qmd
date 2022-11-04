@@ -10,21 +10,24 @@
 
 ## Order or Operations: BODMAS rule
 
+"Operations" refer to mathematical operations such as addition, subtraction, multiplication, division, taking square ($5^2$) or square roots ($\sqrt{5}$). 
+
 ### Problem
 
-How to work this out: 5+2(2+4) = ?
+How to work this out: 10:2(2+1) = ?
 
-### Concept
+What to do first? The answer is BODMAS.
 
-BODMAS = **B**racket over **D**ivision, **M**ultiplication, **A**ddition, and **S**ubtraction.
+BODMAS = **B**racket, **O**rder, **D**ivision, **M**ultiplication, **A**ddition, and **S**ubtraction.
 
-| Symbol | Operation | Priority |
-|:------:|:---------:|:--------:|
-|   B    |   $()$    |    1     |
-|   D    |  $\div$   |    2     |
-|   A    |    $+$    |    3     |
-|   M    | $\times$  |    3     |
-|   M    |    $-$    |    3     |
+| Symbol| Meaning | Operation | Priority |
+|:------:|:---------:|:---------:|:--------:|
+|   B   | Bracket |   $()$    |    1     |
+|   O  | Order  |   e.g., $5^2$, $\sqrt{5}$    |    1     |
+|   D   | Division |  $\div$   |    2     |
+|   M   | Multiplication | $\times$        |    2     |
+|   A   | Addition | $+$ |    3     |
+|   S   | Subtraction |    $-$    |    3     |
 
 : Order of Operations and Priority
 
@@ -35,14 +38,18 @@ BODMAS = **B**racket over **D**ivision, **M**ultiplication, **A**ddition, and **
 </iframe>
 
 ::: callout-note
-Bodmas problem can get viral on internet.
+A BODMAS problem 6:2(1+2) got viral on the internet. Read the news here
+
+[https://www.newsweek.com/this-viral-math-problem-has-internet-frenzy-1584710](https://www.newsweek.com/this-viral-math-problem-has-internet-frenzy-1584710)
+
+Watch the explanation in the video below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/URcUvFIUIhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 :::
 
-### Your Turn
+### Exercises
 
 Note: \* symbol is the same as $\times$
 
@@ -56,6 +63,8 @@ Note: \* symbol is the same as $\times$
 
 5.  (10 : 2) \* 3 - 2 = ...
 
+6. 5 * $2^2$ = ...
+
 ## Prime Numbers
 
 ### Problem
@@ -68,7 +77,7 @@ Is 5 a primer number?
 
 </iframe>
 
-### Your turn
+### Exercises
 
 1.  Is 13 a prime number?
 
@@ -86,7 +95,7 @@ Find the prime factorization of 75.
 
 </iframe>
 
-### Your Turn
+### Exercises
 
 1.  Find the prime factorization of 80.
 
@@ -108,7 +117,7 @@ What is the greatest common divisor of 18 and 21?
 
 </iframe>
 
-### Your Turn
+### Exercises
 
 1.  Find the hcf of 12 and 20.
 
@@ -144,7 +153,7 @@ Find the lcm of 6 and 10.
 
 </iframe>
 
-### Your Turn
+### Exercises
 
 1.  Find the lcm of 2 and 5.
 
@@ -162,8 +171,6 @@ Type in
 press `Enter`
 :::
 
-## Weekly Test (Graded)
 
-Ready to take the test?
 
-Go to Moodle, and click `Week 5 Test`
+

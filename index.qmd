@@ -1,40 +1,42 @@
 # Outline {.unnumbered}
 
-## Author {.unnumbered}
+## Module Leader and Tutor {.unnumbered}
 
-My name is Ahmad Daryanto (Anto). I am the module leader and developed this website. This is my personal website <https://sites.google.com/view/ahmaddaryanto/>
-
-## Aim {.unnumbered}
-
-At the end of the course, I want you to say this: I love marketing and don't avoid numbers.
+Module leader: [Ahmad Daryanto (Anto](https://sites.google.com/view/ahmaddaryanto)) who also developed and maintain this website.
 
 ## Learning Objectives {.unnumbered}
 
-1.  To improve basic numeracy skills and understand basic statistical concepts (statistics in MKTG200)
+1.  To improve basic numeracy skills.
 
-2.  To increase students' appreciation of the importance of gaining those skills in the marketing environment
+2.  To increase students' appreciation of the importance of gaining those skills in the marketing environment.
 
-3.  As a preparation for advanced modules in Part 2
+3.  As a preparation for advanced modules in Part 2.
 
 ## How to Study {.unnumbered}
 
-In learning a topic, in a section covering the topic, your learning journey is described by this flowchart:
+In studying a topic, your learning journey can take the following routes as described by this flowchart:
 
 ```{mermaid}
 flowchart LR
   A[Problem] --> B{Got it?}
   B --> D[Yes]
-  D --> F[Go to 'Your Turn']
+  D --> G[Watch Video]
+  D --> F[Go to Exercises]
   B --> E[No]
   E --> G[Watch Video]
-  G --> F[Go to 'Your Turn']
+  G --> F[Go to Exercises]
 ```
 
 ## Program Structure {.unnumbered}
 
-The module runs from week 5 - 8 in the Michaelmas term.
+The module runs from week 5 - 9 in the Michaelmas term. In week 9, you take a test in your workshop slot.
 
-## Contents {.unnumbered}
+All workshop activities are conducted online. You must log onto **teams**. Your tutors are available virtually during workshop time. If you need any help, you can send a message or request to talk to your tutors.
+
+During the workshops, you must attempt the weekly exercises. If you cannot finish them during the workshop, you must complete them outside of the workshop time and make sure they are finished before the next session the week after. 
+
+The structure of the program can be seen below.
+
 
 | Week |               Topic               |
 |:----:|:---------------------------------:|
@@ -46,6 +48,13 @@ The module runs from week 5 - 8 in the Michaelmas term.
 |  7   |              Indices              |
 |  7   | Simplifying algebraic expressions |
 |  8   |             Functions             |
+|  9   |             Test            |
+
+## Assessment {.unnumbered}
+
+Exam or test will take place on Moodle in the last workshop of week 9. The exam will last for 40 min for 20 questions. The pass mark is 40%. If you fail, you will have a chance to take a resit -- the fails will be contacted by a module leader. The link on Moodle for week 9 test is `password protected`. Your tutor will reveal the password in the workshop. 
+
+Make sure you don’t miss out your examinations as they are mandatory for completion of your module. 
 
 ## Textbook {.unnumbered}
 
