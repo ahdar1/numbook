@@ -24,24 +24,24 @@ website:
           - index.qmd
       - section: "Week 5"
         contents:
-          - week1a.qmd
-          - week1b.qmd
+          - week5a.qmd
+          - week5b.qmd
       - section: "Week 6"
         contents:
-          - week2a.qmd
-          - week2b.qmd
+          - week6a.qmd
+          - week6b.qmd
       - section: "Week 7"
         contents:
-          - week3a.qmd
-          - week3b.qmd
+          - week7a.qmd
+          - week7b.qmd
       - section: "Week 8"
         contents:
-          - week4.qmd        
-      - week5.qmd
+          - week8.qmd        
+      - week9.qmd
       - section: "Solutions"
         contents:
-          - sol1a.qmd
-          - sol1b.qmd
+          - sol5a.qmd
+          - sol5b.qmd
     
       
 bibliography: references.bib
