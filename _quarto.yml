@@ -9,7 +9,7 @@ website:
   body-header: | 
       Michaelmas Term 2023
   margin-header: | 
-      ![](Lancaster-University.png)
+      ![](cover.png)
   theme:
       light: flatly
       dark: darkly
