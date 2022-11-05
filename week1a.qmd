@@ -32,7 +32,7 @@ What is the answer to a multiplication problem called?
 
 ## Order or Operations: BODMAS rule
 
-"Operations" refer to mathematical operations such as addition, subtraction, multiplication, division, taking power ($a^n$) or roots ($\sqrt[n]{a}$).
+"Operations" refer to mathematical operations such as addition, subtraction, multiplication, division, taking power ($a^n$) or roots ($\sqrt[n]{a}$) (note: $\sqrt[n]{a}=a^{1/n}$).
 
 ### Problem
 
@@ -45,7 +45,7 @@ BODMAS = **B**racket, **O**rder, **D**ivision, **M**ultiplication, **A**ddition,
 | Symbol |    Meaning     |        Operation        | Priority |
 |:------:|:--------------:|:-----------------------:|:--------:|
 |   B    |    Bracket     |          $()$           |    1     |
-|   O    |     Order      | $a^n$, $\sqrt[n]{a}$ |    1     |
+|   O    |     Order      | $a^n$ |    1     |
 |   D    |    Division    |         $\div$          |    2     |
 |   M    | Multiplication |        $\times$         |    2     |
 |   A    |    Addition    |           $+$           |    3     |
