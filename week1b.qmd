@@ -3,7 +3,7 @@
 ## Learning goals
 
 -   Understand fraction and decimal number
--   Understanding rounding a number
+-   Understand rounding a number
 -   Understand significant figures
 
 ## Fraction and Decimal Number
