@@ -50,7 +50,7 @@ Find the prime factorization of 75. `3*5*5` = 3\*$5^2$
 
 ## 1.6 Greatest Common Factor {.unnumbered}
 
-What is the greatest common divisor of 18 and 21? `1`
+What is the greatest common divisor of 18 and 21? `3`
 
 1.  Find the hcf of 12 and 20. `4`
 
@@ -67,4 +67,3 @@ Find the lcm of 6 and 10. `30`
 1.  Find the lcm of 2 and 5. `10`
 
 2.  Find the lcm of 3 and 6. `6`
-
