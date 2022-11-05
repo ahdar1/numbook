@@ -13,6 +13,8 @@ website:
   theme:
       light: flatly
       dark: darkly
+  page-navigation: true
+  page-footer: " Creator Ahmad Daryanto, 2022"
   sidebar:
     style: "docked"
     search: true
