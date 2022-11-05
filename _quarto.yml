@@ -7,7 +7,6 @@ website:
   subtitle: "Michaelmas Term"
   author: "Ahmad Daryanto (Anto)"
   date: "11/04/2022"
-  logo: cover.png
   sidebar:
     style: "docked"
     search: true
