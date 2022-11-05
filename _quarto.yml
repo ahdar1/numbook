@@ -14,7 +14,7 @@ website:
       light: flatly
       dark: darkly
   page-navigation: true
-  page-footer: " Creator Ahmad Daryanto"
+  page-footer: " Creator Ahmad Daryanto, Last Update: Nov 2022"
   sidebar:
     style: "docked"
     search: true
