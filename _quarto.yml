@@ -32,7 +32,8 @@ website:
           - week2b.qmd
       - section: "Week 7"
         contents:
-          - week3.qmd
+          - week3a.qmd
+          - week3b.qmd
       - section: "Week 8"
         contents:
           - week4.qmd        
