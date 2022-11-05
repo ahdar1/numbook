@@ -1,4 +1,21 @@
----
-title: "Week 6a"
-editor: visual
----
+# Week 6a
+
+## Learning goals
+- Understand the meaning of percentages and ratio.
+- Know how to perform calculation with percentages and ratio.
+
+### Percentages and Ratio
+
+Transform 3.6 into a percentage.
+
+### Problem
+
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JeVSmq1Nrpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Exercises
+
+1. Transform 2.5 into a percentage.
+
+2. Calculate 12% of 60.

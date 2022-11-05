@@ -39,17 +39,17 @@ During the workshops, you must attempt the weekly exercises. If you cannot finis
 The structure of the program can be seen below.
 
 
-| Week |               Topic               |
-|:----:|:---------------------------------:|
-|  5   |    Arithmetic of whole numbers    |
-|  5   |             Fraction              |
-|  5   |          Decimal numbers          |
-|  6   |       Percentage and ratio        |
-|  6   |              Algebra              |
-|  7   |              Indices              |
-|  7   | Simplifying algebraic expressions |
-|  8   |             Functions             |
-|  9   |             Test            |
+| Week | Section    |           Topic               |
+|:----:|:----:|:---------------------------------:|
+|  5   |  5a    | Arithmetic of whole numbers    |
+|  5   |  5b    |       Fraction              |
+|  5   |  5b    |    Decimal numbers          |
+|  6   |  6a    | Percentage and ratio        |
+|  6   |  6b    |       Algebra              |
+|  7   |  7a    |        Indices              |
+|  7   |  7b    |Simplifying algebraic expressions |
+|  8   |  8    | Functions             |
+|  9   |      |       Test            |
 
 ## Assessment {.unnumbered}
 
