@@ -1,4 +1,4 @@
-# Week 5a 
+# Week 5a
 
 ## Learning goals
 
@@ -15,20 +15,21 @@
 
 What is the answer to a multiplication problem called?
 
-
 ### Watch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IwW0GJWKH98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IwW0GJWKH98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
 
 ### Exercises
 
-1. What is the answer to a multiplication problem called?
+1.  What is the answer to a multiplication problem called?
 
-2. What is the answer to a division problem called?
+2.  What is the answer to a division problem called?
 
-3. What is the answer to an addition problem called?
+3.  What is the answer to an addition problem called?
 
-4. What is the answer to a subtraction problem called?
+4.  What is the answer to a subtraction problem called?
 
 ## Order or Operations: BODMAS rule
 
@@ -42,18 +43,18 @@ What to do first? The answer is BODMAS.
 
 BODMAS = **B**racket, **O**rder, **D**ivision, **M**ultiplication, **A**ddition, and **S**ubtraction.
 
-| Symbol |    Meaning     |        Operation        | Priority |
-|:------:|:--------------:|:-----------------------:|:--------:|
-|   B    |    Bracket     |          $()$           |    1     |
-|   O    |     Order      | $a^n$ |    1     |
-|   D    |    Division    |         $\div$          |    2     |
-|   M    | Multiplication |        $\times$         |    2     |
-|   A    |    Addition    |           $+$           |    3     |
-|   S    |  Subtraction   |           $-$           |    3     |
+| Symbol |    Meaning     | Operation | Priority |
+|:------:|:--------------:|:---------:|:--------:|
+|   B    |    Bracket     |   $()$    |    1     |
+|   O    |     Order      |   $a^n$   |    1     |
+|   D    |    Division    |  $\div$   |    2     |
+|   M    | Multiplication | $\times$  |    2     |
+|   A    |    Addition    |    $+$    |    3     |
+|   S    |  Subtraction   |    $-$    |    3     |
 
 : Order of Operations and Priority
 
-::: callout-note
+::: callout-important
 You work out an expression from left to right in the order of BODMAS. Division and Multiplication are interchangeable (i.e., they have the same priority) and depend on which comes first in the expression. Similar rule applies for addition and subtraction as they have the same priority.
 :::
 
@@ -83,7 +84,7 @@ Note: \* symbol is the same as $\times$
 
 2.  ( 1 + 2 ) 5 - 2 \* 3 = ...
 
-3.  8 : 2 ( 2 + 1 )  = ...
+3.  8 : 2 ( 2 + 1 ) = ...
 
 4.  2 - 2 + 2 = ...
 
