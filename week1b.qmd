@@ -2,12 +2,11 @@
 
 ## Learning goals
 
--   Know how to simplify fraction
--   Understand mixed fraction
--   Understand decimal numbers
+-   Understand fraction and decimal number
+-   Understanding rounding a number
 -   Understand significant figures
 
-## Decimal Numbers
+## Fraction and Decimal Number
 ### Problem
 
 Express 0.142 as a proper fraction in its simplest form.
@@ -20,6 +19,8 @@ Express 0.142 as a proper fraction in its simplest form.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mst8iZjIpFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qRL_taeUAPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Exercises
 
 1. Express 0.015 as a proper fraction in its simplest form.
@@ -27,6 +28,10 @@ Express 0.142 as a proper fraction in its simplest form.
 2. Express 4.6 as a mixed fraction in its simplest form.
 
 3. Write $\frac{1}{100}+\frac{5}{1000}$ as a decimal number.
+
+4. Round 24.362 to 3 decimal places (3 dp).
+
+5. Round 0.0452 to 2 dp.
 
 ## Significant Figures 
 

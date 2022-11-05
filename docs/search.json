@@ -21,11 +21,11 @@
     "text": "Solutions to weekly problems and exercises"
   },
   {
-    "objectID": "sol1b.html#decimal-numbers",
-    "href": "sol1b.html#decimal-numbers",
+    "objectID": "sol1b.html#fraction-and-decimal-number",
+    "href": "sol1b.html#fraction-and-decimal-number",
     "title": " MKTG100 Numeracy Skills",
-    "section": "1.1 Decimal Numbers",
-    "text": "1.1 Decimal Numbers\nExpress 0.142 as a proper fraction in its simplest form. \\(1\\frac{3}{200}\\)\n\nExpress 0.015 as a proper fraction in its simplest form. \\(\\frac{83}{250}\\)\nExpress 4.6 as a mixed fraction in its simplest form. \\(4\\frac{3}{5}\\)\nWrite \\(\\frac{1}{100}+\\frac{5}{1000}\\) as a decimal number. 0.015"
+    "section": "1.1 Fraction and Decimal Number",
+    "text": "1.1 Fraction and Decimal Number\nExpress 0.142 as a proper fraction in its simplest form. \\(1\\frac{3}{200}\\)\n\nExpress 0.015 as a proper fraction in its simplest form. \\(\\frac{83}{250}\\)\nExpress 4.6 as a mixed fraction in its simplest form. \\(4\\frac{3}{5}\\)\nWrite \\(\\frac{1}{100}+\\frac{5}{1000}\\) as a decimal number. 0.015\nRound 24.362 to 3 decimal places (3 dp). 24.4\nRound 0.0452 to 2 dp. 0.05"
   },
   {
     "objectID": "sol1b.html#significant-figures",
@@ -102,7 +102,7 @@
     "href": "week1b.html",
     "title": " MKTG100 Numeracy Skills",
     "section": "",
-    "text": "Know how to simplify fraction\nUnderstand mixed fraction\nUnderstand decimal numbers\nUnderstand significant figures\n\n\n\n\n\n\nExpress 0.142 as a proper fraction in its simplest form.\n\n\n\n\n\n\n\n\n\n\n\n\n\nExpress 0.015 as a proper fraction in its simplest form.\nExpress 4.6 as a mixed fraction in its simplest form.\nWrite \\(\\frac{1}{100}+\\frac{5}{1000}\\) as a decimal number.\n\n\n\n\n\n\n\nWrite 76 to one significant figure (1 sf).\n\n\n\n\n\n\n\n\n\nWrite 52 to one significant figure (3 sf).\nWrite 35.572 to 3 sf.\nWrite 0.0473 to 1 sf.\nWrite 695.3 to 2 sf.\nWrite 49.222 to 2 s.f."
+    "text": "Understand fraction and decimal number\nUnderstanding rounding a number\nUnderstand significant figures\n\n\n\n\n\n\nExpress 0.142 as a proper fraction in its simplest form.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExpress 0.015 as a proper fraction in its simplest form.\nExpress 4.6 as a mixed fraction in its simplest form.\nWrite \\(\\frac{1}{100}+\\frac{5}{1000}\\) as a decimal number.\nRound 24.362 to 3 decimal places (3 dp).\nRound 0.0452 to 2 dp.\n\n\n\n\n\n\n\nWrite 76 to one significant figure (1 sf).\n\n\n\n\n\n\n\n\n\nWrite 52 to one significant figure (3 sf).\nWrite 35.572 to 3 sf.\nWrite 0.0473 to 1 sf.\nWrite 695.3 to 2 sf.\nWrite 49.222 to 2 s.f."
   },
   {
     "objectID": "week1a.html",
