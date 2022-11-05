@@ -1,8 +1,10 @@
 # Outline {.unnumbered}
 
-## Module Leader and Tutor {.unnumbered}
+## Module Leader/Tutor {.unnumbered}
 
-Module leader: [Ahmad Daryanto (Anto](https://sites.google.com/view/ahmaddaryanto)) who also develops and maintains this website.
+Module leader/tutor: [Ahmad Daryanto (Anto](https://sites.google.com/view/ahmaddaryanto)) who also develops and maintains this website. Email a.daryanto[at]lancaster.ac.uk.
+
+Tutor: Felix Martin. Email: f.martin[at]lancaster.ac.uk
 
 ## Learning Objectives {.unnumbered}
 
@@ -13,8 +15,7 @@ Module leader: [Ahmad Daryanto (Anto](https://sites.google.com/view/ahmaddaryant
 3.  As a preparation for advanced modules in Part 2.
 
 ## How to Study {.unnumbered}
-
-In studying a topic, your learning journey can take the following routes as described by this flowchart:
+Each section in this website relates to a particular topic. The section has a skeleton that includes `Problem`, `Watch`, and `Exercises`. Your learning journey on a topic will take the following routes described by this flowchart:
 
 ```{mermaid}
 flowchart LR
@@ -24,7 +25,7 @@ flowchart LR
   D --> F[Go to Exercises]
   B --> E[No]
   E --> G[Watch Video]
-  G --> F[Go to Exercises]
+  G --> F[Do Exercises]
 ```
 
 ## Program Structure {.unnumbered}
@@ -52,7 +53,7 @@ The structure of the program can be seen below.
 
 ## Assessment {.unnumbered}
 
-Exam or test will take place on Moodle in the last workshop of week 9. The exam will last for 40 min for 20 questions. The pass mark is 40%. If you fail, you will have a chance to take a resit -- the fails will be contacted by a module leader. The link on Moodle for week 9 test is `password protected`. Your tutor will reveal the password in the workshop. 
+Exam or test will take place on Moodle in the last workshop of week 9. The exam will last for 40 min for 20 questions. The pass mark is 40%. If you fail, you will have a chance to take a resit -- the fails will be contacted by a module leader. The test link on Moodle for week 9 test is `password protected`. Your tutor will reveal the password in the workshop. 
 
 Make sure you don’t miss out your examinations as they are mandatory for completion of your module. 
 

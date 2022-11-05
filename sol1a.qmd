@@ -1,0 +1,70 @@
+Solutions to weekly problems and exercises
+
+# Week 5a {.unnumbered}
+
+## 1.1 What is arithmetic {.unnumbered}
+
+What is the answer to a multiplication problem called? `Product`
+
+1.  What is the answer to a multiplication problem called? `Product`
+
+2.  What is the answer to a division problem called? `Quotient`
+
+3.  What is the answer to a addition problem called? `Sum`
+
+4.  What is the answer to a subtraction problem called? `Difference`
+
+## 1.2 Order or Operations: BODMAS rule {.unnumbered}
+
+How to work this out: 10:2(2+1) = 15
+
+1.  3 + 4 \* 2 = 11
+
+2.  ( 1 + 2 ) 5 - 2 \* 3 = 9
+
+3.  8 : 2 ( 2 + 1 ) = 12
+
+4.  2 - 2 + 2 = 2
+
+5.  (10 : 2) \* 3 - 2 = 13
+
+6.  5 \* $5^2$ = 125
+
+## 1.3 Prime Numbers {.unnumbered}
+
+Is 5 a prime number? `Yes`
+
+1.  Is 13 a prime number? `Yes`
+
+2.  Is 33 a prime number? `No`
+
+## 1.4 Prime Factorization {.unnumbered}
+
+Find the prime factorization of 75. `3*5*5` = 3\*$5^2$
+
+1.  Find the prime factorization of 136. `2*2*2*17`= $2^3*17$
+
+2.  Find the prime factorization of 100. `2*2*5*5`= $2^2*5^2$
+
+3.  Find the prime factorization of 124. `2*2*31`= $2^2 * 31$
+
+## 1.6 Greatest Common Factor {.unnumbered}
+
+What is the greatest common divisor of 18 and 21? `1`
+
+1.  Find the hcf of 12 and 20. `4`
+
+2.  Find the gcd of 35 and 100. `5`
+
+3.  Find the gcd of 3 and 12. `3`
+
+4.  Find the gcd of 3, 6, and 12.`3`
+
+## 1.7 Lowest Common Factors {.unnumbered}
+
+Find the lcm of 6 and 10. `30`
+
+1.  Find the lcm of 2 and 5. `10`
+
+2.  Find the lcm of 3 and 6. `6`
+

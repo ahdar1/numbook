@@ -3,19 +3,36 @@ project:
   output-dir: docs
 
 website:
-  title: "MKTG100: Numeracy Skills"
+  title: " MKTG100 Numeracy Skills" 
+  subtitle: "Michaelmas Term"
   author: "Ahmad Daryanto (Anto)"
   date: "11/04/2022"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Preface
-      - week1.qmd
-      - week2.qmd
-      - week3.qmd
-      - week4.qmd
+  logo: cover.png
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - index.qmd
+      - section: "Week 5"
+        contents:
+          - week1a.qmd
+          - week1b.qmd
+      - section: "Week 6"
+        contents:
+          - week2a.qmd
+          - week2b.qmd
+      - section: "Week 7"
+        contents:
+          - week3.qmd
+      - section: "Week 8"
+        contents:
+          - week4.qmd        
       - week5.qmd
-   
+      - section: "Solutions"
+        contents:
+          - sol1a.qmd
+          - sol1b.qmd
+      
 bibliography: references.bib
 
 

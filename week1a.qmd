@@ -1,16 +1,38 @@
-# Week 5 
+# Week 5a 
 
 ## Learning goals
 
+-   Understand what arithmetic is
 -   Understand BODMAS rule
 -   Understand Prime numbers
--   Know to do prime factorisation
+-   Know to how do prime factorisation
 -   Understand highest common factors (hcf) / greatest common divisor (gcd)
 -   Understand lowest common factors (lcm)
 
+## What is arithmetic?
+
+### Problem
+
+What is the answer to a multiplication problem called?
+
+
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IwW0GJWKH98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Exercises
+
+1. What is the answer to a multiplication problem called?
+
+2. What is the answer to a division problem called?
+
+3. What is the answer to a addition problem called?
+
+4. What is the answer to a subtraction problem called?
+
 ## Order or Operations: BODMAS rule
 
-"Operations" refer to mathematical operations such as addition, subtraction, multiplication, division, taking square ($5^2$) or square roots ($\sqrt{5}$). 
+"Operations" refer to mathematical operations such as addition, subtraction, multiplication, division, taking square ($5^2$) or square roots ($\sqrt{5}$).
 
 ### Problem
 
@@ -20,19 +42,19 @@ What to do first? The answer is BODMAS.
 
 BODMAS = **B**racket, **O**rder, **D**ivision, **M**ultiplication, **A**ddition, and **S**ubtraction.
 
-| Symbol| Meaning | Operation | Priority |
-|:------:|:---------:|:---------:|:--------:|
-|   B   | Bracket |   $()$    |    1     |
-|   O  | Order  |   e.g., $5^2$, $\sqrt{5}$    |    1     |
-|   D   | Division |  $\div$   |    2     |
-|   M   | Multiplication | $\times$        |    2     |
-|   A   | Addition | $+$ |    3     |
-|   S   | Subtraction |    $-$    |    3     |
+| Symbol |    Meaning     |        Operation        | Priority |
+|:------:|:--------------:|:-----------------------:|:--------:|
+|   B    |    Bracket     |          $()$           |    1     |
+|   O    |     Order      | $a^b$, $\sqrt{a}$ |    1     |
+|   D    |    Division    |         $\div$          |    2     |
+|   M    | Multiplication |        $\times$         |    2     |
+|   A    |    Addition    |           $+$           |    3     |
+|   S    |  Subtraction   |           $-$           |    3     |
 
 : Order of Operations and Priority
 
 ::: callout-note
-You work out an expression from left to right in the order of BODMAS. Division and Multiplication are interchangeable (i.e., they have the same priority) and depend on which comes first in the expression. Similar rule applies for addition and subtraction as they have the same priority. 
+You work out an expression from left to right in the order of BODMAS. Division and Multiplication are interchangeable (i.e., they have the same priority) and depend on which comes first in the expression. Similar rule applies for addition and subtraction as they have the same priority.
 :::
 
 ### Watch
@@ -44,7 +66,7 @@ You work out an expression from left to right in the order of BODMAS. Division a
 ::: callout-note
 A BODMAS problem 6:2(1+2) got viral on the internet. Read the news here
 
-[https://www.newsweek.com/this-viral-math-problem-has-internet-frenzy-1584710](https://www.newsweek.com/this-viral-math-problem-has-internet-frenzy-1584710)
+<https://www.newsweek.com/this-viral-math-problem-has-internet-frenzy-1584710>
 
 Watch the explanation in the video below.
 
@@ -61,19 +83,19 @@ Note: \* symbol is the same as $\times$
 
 2.  ( 1 + 2 ) 5 - 2 \* 3 = ...
 
-3.  5 : ( 2 + 1 ) 2 = ...
+3.  8 : 2 ( 2 + 1 )  = ...
 
 4.  2 - 2 + 2 = ...
 
 5.  (10 : 2) \* 3 - 2 = ...
 
-6. 5 * $2^2$ = ...
+6.  5 \* $5^2$ = ...
 
 ## Prime Numbers
 
 ### Problem
 
-Is 5 a primer number?
+Is 5 a prime number?
 
 ### Watch
 
@@ -101,11 +123,11 @@ Find the prime factorization of 75.
 
 ### Exercises
 
-1.  Find the prime factorization of 80.
+1.  Find the prime factorization of 136.
 
 2.  Find the prime factorization of 100.
 
-3.  Find the prime factorization of 125.
+3.  Find the prime factorization of 124.
 
 ## Greatest common factors (gcd)
 
@@ -174,7 +196,3 @@ Type in
 
 press `Enter`
 :::
-
-
-
-

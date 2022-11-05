@@ -1,0 +1,52 @@
+# Week 5b
+
+## Learning goals
+
+-   Know how to simplify fraction
+-   Understand mixed fraction
+-   Understand decimal numbers
+-   Understand significant figures
+
+## Decimal Numbers
+### Problem
+
+Express 0.142 as a proper fraction in its simplest form.
+
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CA9XLJpQp3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AtBUQH8Tkqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mst8iZjIpFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Exercises
+
+1. Express 0.015 as a proper fraction in its simplest form.
+
+2. Express 4.6 as a mixed fraction in its simplest form.
+
+3. Write $\frac{1}{100}+\frac{5}{1000}$ as a decimal number.
+
+## Significant Figures 
+
+### Problem
+
+Write 76 to one significant figure (1 sf).
+
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-X0amVzMKFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Exercises
+
+1. Write 52 to one significant figure (3 sf).
+
+2. Write 35.572 to 3 sf.
+
+3. Write 0.0473 to 1 sf.
+
+4. Write 695.3 to 2 sf.
+
+5. Write 49.222 to 2 s.f.
+

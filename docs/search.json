@@ -2,37 +2,93 @@
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "MKTG100: Numeracy Skills",
+    "title": " MKTG100 Numeracy Skills",
     "section": "",
     "text": "This is a book to support MKTG100 Numeracy"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "MKTG100: Numeracy Skills",
+    "title": " MKTG100 Numeracy Skills",
     "section": "",
     "text": "References\n\nBerenson, Mark, David Levine, Kathryn A Szabat, and Timothy C Krehbiel. 2012. “Basic Business Statistics: Concepts and Applications.”\n\n\nCroft, Anthony, Tony Croft, and Robert Davison. 2006. Foundation Maths. Pearson Education.\n\n\nDaryanto, Ahmad. 2020. Basic Numeracy and Statistics (Complied by Ahmad Daryanto). Pearson."
   },
   {
-    "objectID": "week1.html",
-    "href": "week1.html",
-    "title": "MKTG100: Numeracy Skills",
+    "objectID": "sol1b.html",
+    "href": "sol1b.html",
+    "title": " MKTG100 Numeracy Skills",
     "section": "",
-    "text": "Understand BODMAS rule\nUnderstand Prime numbers\nKnow to do prime factorisation\nUnderstand highest common factors (hcf) / greatest common divisor (gcd)\nUnderstand lowest common factors (lcm)\n\n\n\n\n“Operations” refer to mathematical operations such as addition, subtraction, multiplication, division, taking square (\\(5^2\\)) or square roots (\\(\\sqrt{5}\\)).\n\n\nHow to work this out: 10:2(2+1) = ?\nWhat to do first? The answer is BODMAS.\nBODMAS = Bracket, Order, Division, Multiplication, Addition, and Subtraction.\n\nOrder of Operations and Priority\n\n\nSymbol\nMeaning\nOperation\nPriority\n\n\n\n\nB\nBracket\n\\(()\\)\n1\n\n\nO\nOrder\ne.g., \\(5^2\\), \\(\\sqrt{5}\\)\n1\n\n\nD\nDivision\n\\(\\div\\)\n2\n\n\nM\nMultiplication\n\\(\\times\\)\n2\n\n\nA\nAddition\n\\(+\\)\n3\n\n\nS\nSubtraction\n\\(-\\)\n3\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nYou work out an expression from left to right in the order of BODMAS. Division and Multiplication are interchangeable (i.e., they have the same priority) and depend on which comes first in the expression. Similar rule applies for addition and subtraction as they have the same priority.\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nA BODMAS problem 6:2(1+2) got viral on the internet. Read the news here\nhttps://www.newsweek.com/this-viral-math-problem-has-internet-frenzy-1584710\nWatch the explanation in the video below.\n\n\n\n\n\n\n\nNote: * symbol is the same as \\(\\times\\)\n\n3 + 4 * 2 = …\n( 1 + 2 ) 5 - 2 * 3 = …\n5 : ( 2 + 1 ) 2 = …\n2 - 2 + 2 = …\n(10 : 2) * 3 - 2 = …\n5 * \\(2^2\\) = …\n\n\n\n\n\n\n\nIs 5 a primer number?\n\n\n\n\n\n\n\n\n\nIs 13 a prime number?\nIs 33 a prime number?\n\n\n\n\n\n\n\nFind the prime factorization of 75.\n\n\n\n\n\n\n\n\n\nFind the prime factorization of 80.\nFind the prime factorization of 100.\nFind the prime factorization of 125.\n\n\n\n\n\nThe greatest common divisor (gcd) is also called the highest common factor (hcf). GCD of two numbers is the number that divides them both. For instance GCD of 3 and 6 is 3.\n\n\nWhat is the greatest common divisor of 18 and 21?\n\n\n\n\n\n\n\n\n\nFind the hcf of 12 and 20.\nFind the gcd of 35 and 100.\nFind the gcd of 3 and 12.\nFind the gcd of 3, 6, and 12.\n\n\n\n\n\n\n\n\n\n\nExcel\n\n\n\nType in:\n= GCD(3,6,12)\npress Enter\n\n\n\n\n\n\nThe lowest common factors is also called the the lowest common multiple. LCM of number A (say 2) and B (say 5) is the lowest number that can be divided by A and B without a remainder. For example, the lcm for 2 and 5 is 10 because 10 can be divided by 2 and 5 without a remainder.\n\n\nFind the lcm of 6 and 10.\n\n\n\n\n\n\n\n\n\nFind the lcm of 2 and 5.\nFind the lcm of 3 and 6.\n\n\n\n\n\n\n\n\n\n\nExcel\n\n\n\nType in\n= LCM (3,6)\npress Enter"
+    "text": "Solutions to weekly problems and exercises"
+  },
+  {
+    "objectID": "sol1b.html#decimal-numbers",
+    "href": "sol1b.html#decimal-numbers",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.1 Decimal Numbers",
+    "text": "1.1 Decimal Numbers\nExpress 0.142 as a proper fraction in its simplest form. \\(1\\frac{3}{200}\\)\n\nExpress 0.015 as a proper fraction in its simplest form. \\(\\frac{83}{250}\\)\nExpress 4.6 as a mixed fraction in its simplest form. \\(4\\frac{3}{5}\\)\nWrite \\(\\frac{1}{100}+\\frac{5}{1000}\\) as a decimal number. 0.015"
+  },
+  {
+    "objectID": "sol1b.html#significant-figures",
+    "href": "sol1b.html#significant-figures",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.2 Significant Figures",
+    "text": "1.2 Significant Figures\nWrite 76 to one significant figure (1 sf). 80\n\nWrite 52 to one significant figure (3 sf). 52.0\nWrite 35.572 to 3 sf. 35.6\nWrite 0.0473 to 1 sf. 0.05\nWrite 695.3 to 2 sf. 700\nWrite 49.222 to 2 sf. 49"
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "MKTG100: Numeracy Skills",
+    "title": " MKTG100 Numeracy Skills",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "week3.html",
-    "href": "week3.html",
-    "title": "Week 7",
+    "objectID": "sol1a.html",
+    "href": "sol1a.html",
+    "title": " MKTG100 Numeracy Skills",
     "section": "",
-    "text": "Watch this video"
+    "text": "Solutions to weekly problems and exercises"
+  },
+  {
+    "objectID": "sol1a.html#what-is-arithmetic",
+    "href": "sol1a.html#what-is-arithmetic",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.1 What is arithmetic",
+    "text": "1.1 What is arithmetic\nWhat is the answer to a multiplication problem called? Product\n\nWhat is the answer to a multiplication problem called? Product\nWhat is the answer to a division problem called? Quotient\nWhat is the answer to a addition problem called? Sum\nWhat is the answer to a subtraction problem called? Difference"
+  },
+  {
+    "objectID": "sol1a.html#order-or-operations-bodmas-rule",
+    "href": "sol1a.html#order-or-operations-bodmas-rule",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.2 Order or Operations: BODMAS rule",
+    "text": "1.2 Order or Operations: BODMAS rule\nHow to work this out: 10:2(2+1) = 15\n\n3 + 4 * 2 = 11\n( 1 + 2 ) 5 - 2 * 3 = 9\n8 : 2 ( 2 + 1 ) = 12\n2 - 2 + 2 = 2\n(10 : 2) * 3 - 2 = 13\n5 * \\(5^2\\) = 125"
+  },
+  {
+    "objectID": "sol1a.html#prime-numbers",
+    "href": "sol1a.html#prime-numbers",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.3 Prime Numbers",
+    "text": "1.3 Prime Numbers\nIs 5 a prime number? Yes\n\nIs 13 a prime number? Yes\nIs 33 a prime number? No"
+  },
+  {
+    "objectID": "sol1a.html#prime-factorization",
+    "href": "sol1a.html#prime-factorization",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.4 Prime Factorization",
+    "text": "1.4 Prime Factorization\nFind the prime factorization of 75. 3*5*5 = 3*\\(5^2\\)\n\nFind the prime factorization of 136. 2*2*2*17= \\(2^3*17\\)\nFind the prime factorization of 100. 2*2*5*5= \\(2^2*5^2\\)\nFind the prime factorization of 124. 2*2*31= \\(2^2 * 31\\)"
+  },
+  {
+    "objectID": "sol1a.html#greatest-common-factor",
+    "href": "sol1a.html#greatest-common-factor",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.6 Greatest Common Factor",
+    "text": "1.6 Greatest Common Factor\nWhat is the greatest common divisor of 18 and 21? 1\n\nFind the hcf of 12 and 20. 4\nFind the gcd of 35 and 100. 5\nFind the gcd of 3 and 12. 3\nFind the gcd of 3, 6, and 12.3"
+  },
+  {
+    "objectID": "sol1a.html#lowest-common-factors",
+    "href": "sol1a.html#lowest-common-factors",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.7 Lowest Common Factors",
+    "text": "1.7 Lowest Common Factors\nFind the lcm of 6 and 10. 30\n\nFind the lcm of 2 and 5. 10\nFind the lcm of 3 and 6. 6"
   },
   {
     "objectID": "week5.html",
@@ -40,5 +96,19 @@
     "title": "Week 9",
     "section": "",
     "text": "Now, go to Moodle, and click a link `Week 9 Test`"
+  },
+  {
+    "objectID": "week1b.html",
+    "href": "week1b.html",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "",
+    "text": "Know how to simplify fraction\nUnderstand mixed fraction\nUnderstand decimal numbers\nUnderstand significant figures\n\n\n\n\n\n\nExpress 0.142 as a proper fraction in its simplest form.\n\n\n\n\n\n\n\n\n\n\n\n\n\nExpress 0.015 as a proper fraction in its simplest form.\nExpress 4.6 as a mixed fraction in its simplest form.\nWrite \\(\\frac{1}{100}+\\frac{5}{1000}\\) as a decimal number.\n\n\n\n\n\n\n\nWrite 76 to one significant figure (1 sf).\n\n\n\n\n\n\n\n\n\nWrite 52 to one significant figure (3 sf).\nWrite 35.572 to 3 sf.\nWrite 0.0473 to 1 sf.\nWrite 695.3 to 2 sf.\nWrite 49.222 to 2 s.f."
+  },
+  {
+    "objectID": "week1a.html",
+    "href": "week1a.html",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "",
+    "text": "Understand what arithmetic is\nUnderstand BODMAS rule\nUnderstand Prime numbers\nKnow to how do prime factorisation\nUnderstand highest common factors (hcf) / greatest common divisor (gcd)\nUnderstand lowest common factors (lcm)\n\n\n\n\n\n\nWhat is the answer to a multiplication problem called?\n\n\n\n\n\n\n\n\n\nWhat is the answer to a multiplication problem called?\nWhat is the answer to a division problem called?\nWhat is the answer to a addition problem called?\nWhat is the answer to a subtraction problem called?\n\n\n\n\n\n“Operations” refer to mathematical operations such as addition, subtraction, multiplication, division, taking square (\\(5^2\\)) or square roots (\\(\\sqrt{5}\\)).\n\n\nHow to work this out: 10:2(2+1) = ?\nWhat to do first? The answer is BODMAS.\nBODMAS = Bracket, Order, Division, Multiplication, Addition, and Subtraction.\n\nOrder of Operations and Priority\n\n\nSymbol\nMeaning\nOperation\nPriority\n\n\n\n\nB\nBracket\n\\(()\\)\n1\n\n\nO\nOrder\n\\(a^b\\), \\(\\sqrt{a}\\)\n1\n\n\nD\nDivision\n\\(\\div\\)\n2\n\n\nM\nMultiplication\n\\(\\times\\)\n2\n\n\nA\nAddition\n\\(+\\)\n3\n\n\nS\nSubtraction\n\\(-\\)\n3\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nYou work out an expression from left to right in the order of BODMAS. Division and Multiplication are interchangeable (i.e., they have the same priority) and depend on which comes first in the expression. Similar rule applies for addition and subtraction as they have the same priority.\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nA BODMAS problem 6:2(1+2) got viral on the internet. Read the news here\nhttps://www.newsweek.com/this-viral-math-problem-has-internet-frenzy-1584710\nWatch the explanation in the video below.\n\n\n\n\n\n\n\nNote: * symbol is the same as \\(\\times\\)\n\n3 + 4 * 2 = …\n( 1 + 2 ) 5 - 2 * 3 = …\n8 : 2 ( 2 + 1 ) = …\n2 - 2 + 2 = …\n(10 : 2) * 3 - 2 = …\n5 * \\(5^2\\) = …\n\n\n\n\n\n\n\nIs 5 a prime number?\n\n\n\n\n\n\n\n\n\nIs 13 a prime number?\nIs 33 a prime number?\n\n\n\n\n\n\n\nFind the prime factorization of 75.\n\n\n\n\n\n\n\n\n\nFind the prime factorization of 136.\nFind the prime factorization of 100.\nFind the prime factorization of 124.\n\n\n\n\n\nThe greatest common divisor (gcd) is also called the highest common factor (hcf). GCD of two numbers is the number that divides them both. For instance GCD of 3 and 6 is 3.\n\n\nWhat is the greatest common divisor of 18 and 21?\n\n\n\n\n\n\n\n\n\nFind the hcf of 12 and 20.\nFind the gcd of 35 and 100.\nFind the gcd of 3 and 12.\nFind the gcd of 3, 6, and 12.\n\n\n\n\n\n\n\n\n\n\nExcel\n\n\n\nType in:\n= GCD(3,6,12)\npress Enter\n\n\n\n\n\n\nThe lowest common factors is also called the the lowest common multiple. LCM of number A (say 2) and B (say 5) is the lowest number that can be divided by A and B without a remainder. For example, the lcm for 2 and 5 is 10 because 10 can be divided by 2 and 5 without a remainder.\n\n\nFind the lcm of 6 and 10.\n\n\n\n\n\n\n\n\n\nFind the lcm of 2 and 5.\nFind the lcm of 3 and 6.\n\n\n\n\n\n\n\n\n\n\nExcel\n\n\n\nType in\n= LCM (3,6)\npress Enter"
   }
 ]
