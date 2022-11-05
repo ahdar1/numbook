@@ -17,7 +17,9 @@ website:
     style: "docked"
     search: true
     contents:
-      - index.qmd
+      - section: "Introduction"
+        contents:
+          - index.qmd
       - section: "Week 5"
         contents:
           - week1a.qmd
