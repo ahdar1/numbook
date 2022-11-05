@@ -4,28 +4,98 @@
     "href": "week2a.html",
     "title": " MKTG100 Numeracy Skills",
     "section": "",
-    "text": "Understand the meaning of percentages and ratio.\nKnow how to perform calculation with percentages and ratio.\n\n\n\nTransform 3.6 into a percentage.\n\n\n\n\n\n\n\n\n\n\n\n\n\nTransform 2.5 into a percentage.\nCalculate 12% of 60."
+    "text": "Michaelmas Term 2023"
+  },
+  {
+    "objectID": "week2a.html#learning-goals",
+    "href": "week2a.html#learning-goals",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.1 Learning goals",
+    "text": "1.1 Learning goals\n\nUnderstand the meaning of percentages and ratio.\nKnow how to perform calculation with percentages and ratio.\n\n\n1.1.1 Percentages and Ratio\nTransform 3.6 into a percentage.\n\n\n1.1.2 Problem\n\n\n1.1.3 Watch"
+  },
+  {
+    "objectID": "week2a.html#exercises",
+    "href": "week2a.html#exercises",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.2 Exercises",
+    "text": "1.2 Exercises\n\nTransform 2.5 into a percentage.\nCalculate 12% of 60."
+  },
+  {
+    "objectID": "week2b.html",
+    "href": "week2b.html",
+    "title": "Week 6b",
+    "section": "",
+    "text": "Michaelmas Term 2023"
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": " MKTG100 Numeracy Skills",
     "section": "",
-    "text": "This is a book to support MKTG100 Numeracy"
+    "text": "1 Introduction\nThis is a book to support MKTG100 Numeracy"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": " MKTG100 Numeracy Skills",
     "section": "",
-    "text": "References\n\nBerenson, Mark, David Levine, Kathryn A Szabat, and Timothy C Krehbiel. 2012. “Basic Business Statistics: Concepts and Applications.”\n\n\nCroft, Anthony, Tony Croft, and Robert Davison. 2006. Foundation Maths. Pearson Education.\n\n\nDaryanto, Ahmad. 2020. Basic Numeracy and Statistics (Complied by Ahmad Daryanto). Pearson."
+    "text": "Michaelmas Term 2023"
+  },
+  {
+    "objectID": "index.html#module-leadertutor",
+    "href": "index.html#module-leadertutor",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "Module Leader/Tutor",
+    "text": "Module Leader/Tutor\nModule leader/tutor: Ahmad Daryanto (Anto) who also develops and maintains this website. Email a.daryanto[at]lancaster.ac.uk.\nTutor: Felix Martin. Email: f.martin[at]lancaster.ac.uk"
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\nTo improve basic numeracy skills.\nTo increase students’ appreciation of the importance of gaining those skills in the marketing environment.\nAs a preparation for advanced modules in Part 2."
+  },
+  {
+    "objectID": "index.html#how-to-study",
+    "href": "index.html#how-to-study",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "How to Study",
+    "text": "How to Study\nEach section in this website relates to a particular topic. The section has a skeleton that includes Problem, Watch, and Exercises. Your learning journey on a topic will take the following routes described by this flowchart:\n\n\n\n\nflowchart LR\n  A[Problem] --> B{Got it?}\n  B --> D[Yes]\n  D --> G[Watch Video]\n  D --> F[Go to Exercises]\n  B --> E[No]\n  E --> G[Watch Video]\n  G --> F[Do Exercises]"
+  },
+  {
+    "objectID": "index.html#program-structure",
+    "href": "index.html#program-structure",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "Program Structure",
+    "text": "Program Structure\nThe module runs from week 5 - 9 in the Michaelmas term. In week 9, you take a test in your workshop slot.\nAll workshop activities are conducted online. You must log onto teams. Your tutors are available virtually during workshop time. If you need any help, you can send a message or request to talk to your tutors.\nDuring the workshops, you must attempt the weekly exercises. If you cannot finish them during the workshop, you must complete them outside of the workshop time and make sure they are finished before the next session the week after.\nThe structure of the program can be seen below.\n\n\n\nWeek\nSection\nTopic\n\n\n\n\n5\n5a\nArithmetic of whole numbers\n\n\n5\n5b\nFraction\n\n\n5\n5b\nDecimal numbers\n\n\n6\n6a\nPercentage and ratio\n\n\n6\n6b\nAlgebra\n\n\n7\n7a\nIndices\n\n\n7\n7b\nSimplifying algebraic expressions\n\n\n8\n8\nFunctions\n\n\n9\n\nTest"
+  },
+  {
+    "objectID": "index.html#assessment",
+    "href": "index.html#assessment",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "Assessment",
+    "text": "Assessment\nExam or test will take place on Moodle in the last workshop of week 9. The exam will last for 40 min for 20 questions. The pass mark is 40%. If you fail, you will have a chance to take a resit – the fails will be contacted by a module leader. The test link on Moodle for week 9 test is password protected. Your tutor will reveal the password in the workshop.\nMake sure you don’t miss out your examinations as they are mandatory for completion of your module."
+  },
+  {
+    "objectID": "index.html#textbook",
+    "href": "index.html#textbook",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "Textbook",
+    "text": "Textbook\nNo textbook is needed. But if you want to buy a book, I recommend Daryanto (2020). This is a compilation book whereby its chapters are taken from Croft, Croft, and Davison (2006) and Berenson et al. (2012). The book had been used as a textbook of the module in previous years. It also contains chapters on basic statistics covered in MKTG200 Basic Statistics, which you will take in your second year. Several copies of the book are available in the library."
+  },
+  {
+    "objectID": "index.html#excel",
+    "href": "index.html#excel",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "Excel",
+    "text": "Excel\nI assume you know how to use Excel to calculate a basic mathematical operation e.g., 1+1. To answer certain problems in this manual, I provide Excel commands. This is a nice tool to use but also dangerous. Without an understanding, the use of Excel can put you in the dark forever. Make sure you understand how to solve the problems manually before using Excel."
   },
   {
     "objectID": "sol1b.html",
     "href": "sol1b.html",
     "title": " MKTG100 Numeracy Skills",
     "section": "",
-    "text": "Solutions to weekly problems and exercises"
+    "text": "Michaelmas Term 2023\nSolutions to weekly problems and exercises"
   },
   {
     "objectID": "sol1b.html#fraction-and-decimal-number",
@@ -46,14 +116,14 @@
     "href": "summary.html",
     "title": " MKTG100 Numeracy Skills",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+    "text": "1 Summary\nIn summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "sol1a.html",
     "href": "sol1a.html",
     "title": " MKTG100 Numeracy Skills",
     "section": "",
-    "text": "Solutions to weekly problems and exercises"
+    "text": "Michaelmas Term 2023\nSolutions to weekly problems and exercises"
   },
   {
     "objectID": "sol1a.html#what-is-arithmetic",
@@ -98,24 +168,115 @@
     "text": "1.7 Lowest Common Factors\nFind the lcm of 6 and 10. 30\n\nFind the lcm of 2 and 5. 10\nFind the lcm of 3 and 6. 6"
   },
   {
+    "objectID": "week3.html",
+    "href": "week3.html",
+    "title": "Week 7",
+    "section": "",
+    "text": "Michaelmas Term 2023"
+  },
+  {
+    "objectID": "week4.html",
+    "href": "week4.html",
+    "title": "Week 8",
+    "section": "",
+    "text": "Michaelmas Term 2023"
+  },
+  {
     "objectID": "week5.html",
     "href": "week5.html",
     "title": "Week 9",
     "section": "",
-    "text": "Now, go to Moodle, and click a link `Week 9 Test`"
+    "text": "This is an exam week for this module. The exam will last for 40 min on Moodle. Make sure you don’t miss out your examinations as they are mandatory for completion of your module. The link on Moodle for week 9 test is password protected. Your tutor will reveal the password for you in your workshop.\nNow, go to Moodle, and click a link `Week 9 Test`"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "",
+    "text": "References"
   },
   {
     "objectID": "week1b.html",
     "href": "week1b.html",
     "title": " MKTG100 Numeracy Skills",
     "section": "",
-    "text": "Understand fraction and decimal number\nUnderstand rounding a number\nUnderstand significant figures\n\n\n\n\n\n\nExpress 0.142 as a proper fraction in its simplest form.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExpress 0.015 as a proper fraction in its simplest form.\nExpress 4.6 as a mixed fraction in its simplest form.\nWrite \\(\\frac{1}{100}+\\frac{5}{1000}\\) as a decimal number.\nRound 24.362 to 3 decimal places (3 dp).\nRound 0.0452 to 2 dp.\n\n\n\n\n\n\n\nWrite 76 to one significant figure (1 sf).\n\n\n\n\n\n\n\n\n\nWrite 52 to one significant figure (3 sf).\nWrite 35.572 to 3 sf.\nWrite 0.0473 to 1 sf.\nWrite 695.3 to 2 sf.\nWrite 49.222 to 2 s.f."
+    "text": "Michaelmas Term 2023"
+  },
+  {
+    "objectID": "week1b.html#learning-goals",
+    "href": "week1b.html#learning-goals",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.1 Learning goals",
+    "text": "1.1 Learning goals\n\nUnderstand fraction and decimal number\nUnderstand rounding a number\nUnderstand significant figures"
+  },
+  {
+    "objectID": "week1b.html#fraction-and-decimal-number",
+    "href": "week1b.html#fraction-and-decimal-number",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.2 Fraction and Decimal Number",
+    "text": "1.2 Fraction and Decimal Number\n\n1.2.1 Problem\nExpress 0.142 as a proper fraction in its simplest form.\n\n\n1.2.2 Watch\n\n\n\n\n\n\n\n\n\n\n1.2.3 Exercises\n\nExpress 0.015 as a proper fraction in its simplest form.\nExpress 4.6 as a mixed fraction in its simplest form.\nWrite \\(\\frac{1}{100}+\\frac{5}{1000}\\) as a decimal number.\nRound 24.362 to 3 decimal places (3 dp).\nRound 0.0452 to 2 dp."
+  },
+  {
+    "objectID": "week1b.html#significant-figures",
+    "href": "week1b.html#significant-figures",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.3 Significant Figures",
+    "text": "1.3 Significant Figures\n\n1.3.1 Problem\nWrite 76 to one significant figure (1 sf).\n\n\n1.3.2 Watch\n\n\n\n\n1.3.3 Exercises\n\nWrite 52 to one significant figure (3 sf).\nWrite 35.572 to 3 sf.\nWrite 0.0473 to 1 sf.\nWrite 695.3 to 2 sf.\nWrite 49.222 to 2 s.f."
   },
   {
     "objectID": "week1a.html",
     "href": "week1a.html",
     "title": " MKTG100 Numeracy Skills",
     "section": "",
-    "text": "Understand what arithmetic is\nUnderstand BODMAS rule\nUnderstand Prime numbers\nKnow to how do prime factorisation\nUnderstand highest common factors (hcf) / greatest common divisor (gcd)\nUnderstand lowest common factors (lcm)\n\n\n\n\n\n\nWhat is the answer to a multiplication problem called?\n\n\n\n\n\n\n\n\n\nWhat is the answer to a multiplication problem called?\nWhat is the answer to a division problem called?\nWhat is the answer to a addition problem called?\nWhat is the answer to a subtraction problem called?\n\n\n\n\n\n“Operations” refer to mathematical operations such as addition, subtraction, multiplication, division, taking square (\\(5^2\\)) or square roots (\\(\\sqrt{5}\\)).\n\n\nHow to work this out: 10:2(2+1) = ?\nWhat to do first? The answer is BODMAS.\nBODMAS = Bracket, Order, Division, Multiplication, Addition, and Subtraction.\n\nOrder of Operations and Priority\n\n\nSymbol\nMeaning\nOperation\nPriority\n\n\n\n\nB\nBracket\n\\(()\\)\n1\n\n\nO\nOrder\n\\(a^b\\), \\(\\sqrt{a}\\)\n1\n\n\nD\nDivision\n\\(\\div\\)\n2\n\n\nM\nMultiplication\n\\(\\times\\)\n2\n\n\nA\nAddition\n\\(+\\)\n3\n\n\nS\nSubtraction\n\\(-\\)\n3\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nYou work out an expression from left to right in the order of BODMAS. Division and Multiplication are interchangeable (i.e., they have the same priority) and depend on which comes first in the expression. Similar rule applies for addition and subtraction as they have the same priority.\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nA BODMAS problem 6:2(1+2) got viral on the internet. Read the news here\nhttps://www.newsweek.com/this-viral-math-problem-has-internet-frenzy-1584710\nWatch the explanation in the video below.\n\n\n\n\n\n\n\nNote: * symbol is the same as \\(\\times\\)\n\n3 + 4 * 2 = …\n( 1 + 2 ) 5 - 2 * 3 = …\n8 : 2 ( 2 + 1 ) = …\n2 - 2 + 2 = …\n(10 : 2) * 3 - 2 = …\n5 * \\(5^2\\) = …\n\n\n\n\n\n\n\nIs 5 a prime number?\n\n\n\n\n\n\n\n\n\nIs 13 a prime number?\nIs 33 a prime number?\n\n\n\n\n\n\n\nFind the prime factorization of 75.\n\n\n\n\n\n\n\n\n\nFind the prime factorization of 136.\nFind the prime factorization of 100.\nFind the prime factorization of 124.\n\n\n\n\n\nThe greatest common divisor (gcd) is also called the highest common factor (hcf). GCD of two numbers is the number that divides them both. For instance GCD of 3 and 6 is 3.\n\n\nWhat is the greatest common divisor of 18 and 21?\n\n\n\n\n\n\n\n\n\nFind the hcf of 12 and 20.\nFind the gcd of 35 and 100.\nFind the gcd of 3 and 12.\nFind the gcd of 3, 6, and 12.\n\n\n\n\n\n\n\n\n\n\nExcel\n\n\n\nType in:\n= GCD(3,6,12)\npress Enter\n\n\n\n\n\n\nThe lowest common factors is also called the the lowest common multiple. LCM of number A (say 2) and B (say 5) is the lowest number that can be divided by A and B without a remainder. For example, the lcm for 2 and 5 is 10 because 10 can be divided by 2 and 5 without a remainder.\n\n\nFind the lcm of 6 and 10.\n\n\n\n\n\n\n\n\n\nFind the lcm of 2 and 5.\nFind the lcm of 3 and 6.\n\n\n\n\n\n\n\n\n\n\nExcel\n\n\n\nType in\n= LCM (3,6)\npress Enter"
+    "text": "Michaelmas Term 2023"
+  },
+  {
+    "objectID": "week1a.html#learning-goals",
+    "href": "week1a.html#learning-goals",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.1 Learning goals",
+    "text": "1.1 Learning goals\n\nUnderstand what arithmetic is\nUnderstand BODMAS rule\nUnderstand Prime numbers\nKnow to how do prime factorisation\nUnderstand highest common factors (hcf) / greatest common divisor (gcd)\nUnderstand lowest common factors (lcm)"
+  },
+  {
+    "objectID": "week1a.html#what-is-arithmetic",
+    "href": "week1a.html#what-is-arithmetic",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.2 What is arithmetic?",
+    "text": "1.2 What is arithmetic?\n\n1.2.1 Problem\nWhat is the answer to a multiplication problem called?\n\n\n1.2.2 Watch\n\n\n\n\n1.2.3 Exercises\n\nWhat is the answer to a multiplication problem called?\nWhat is the answer to a division problem called?\nWhat is the answer to a addition problem called?\nWhat is the answer to a subtraction problem called?"
+  },
+  {
+    "objectID": "week1a.html#order-or-operations-bodmas-rule",
+    "href": "week1a.html#order-or-operations-bodmas-rule",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.3 Order or Operations: BODMAS rule",
+    "text": "1.3 Order or Operations: BODMAS rule\n“Operations” refer to mathematical operations such as addition, subtraction, multiplication, division, taking square (\\(5^2\\)) or square roots (\\(\\sqrt{5}\\)).\n\n1.3.1 Problem\nHow to work this out: 10:2(2+1) = ?\nWhat to do first? The answer is BODMAS.\nBODMAS = Bracket, Order, Division, Multiplication, Addition, and Subtraction.\n\nOrder of Operations and Priority\n\n\nSymbol\nMeaning\nOperation\nPriority\n\n\n\n\nB\nBracket\n\\(()\\)\n1\n\n\nO\nOrder\n\\(a^b\\), \\(\\sqrt{a}\\)\n1\n\n\nD\nDivision\n\\(\\div\\)\n2\n\n\nM\nMultiplication\n\\(\\times\\)\n2\n\n\nA\nAddition\n\\(+\\)\n3\n\n\nS\nSubtraction\n\\(-\\)\n3\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nYou work out an expression from left to right in the order of BODMAS. Division and Multiplication are interchangeable (i.e., they have the same priority) and depend on which comes first in the expression. Similar rule applies for addition and subtraction as they have the same priority.\n\n\n\n\n1.3.2 Watch\n\n\n\n\n\n\n\n\nNote\n\n\n\nA BODMAS problem 6:2(1+2) got viral on the internet. Read the news here\nhttps://www.newsweek.com/this-viral-math-problem-has-internet-frenzy-1584710\nWatch the explanation in the video below.\n\n\n\n\n\n\n1.3.3 Exercises\nNote: * symbol is the same as \\(\\times\\)\n\n3 + 4 * 2 = …\n( 1 + 2 ) 5 - 2 * 3 = …\n8 : 2 ( 2 + 1 ) = …\n2 - 2 + 2 = …\n(10 : 2) * 3 - 2 = …\n5 * \\(5^2\\) = …"
+  },
+  {
+    "objectID": "week1a.html#prime-numbers",
+    "href": "week1a.html#prime-numbers",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.4 Prime Numbers",
+    "text": "1.4 Prime Numbers\n\n1.4.1 Problem\nIs 5 a prime number?\n\n\n1.4.2 Watch\n\n\n\n\n1.4.3 Exercises\n\nIs 13 a prime number?\nIs 33 a prime number?"
+  },
+  {
+    "objectID": "week1a.html#prime-factorization",
+    "href": "week1a.html#prime-factorization",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.5 Prime Factorization",
+    "text": "1.5 Prime Factorization\n\n1.5.1 Problem\nFind the prime factorization of 75.\n\n\n1.5.2 Watch\n\n\n\n\n1.5.3 Exercises\n\nFind the prime factorization of 136.\nFind the prime factorization of 100.\nFind the prime factorization of 124."
+  },
+  {
+    "objectID": "week1a.html#greatest-common-factors-gcd",
+    "href": "week1a.html#greatest-common-factors-gcd",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.6 Greatest common factors (gcd)",
+    "text": "1.6 Greatest common factors (gcd)\nThe greatest common divisor (gcd) is also called the highest common factor (hcf). GCD of two numbers is the number that divides them both. For instance GCD of 3 and 6 is 3.\n\n1.6.1 Problem\nWhat is the greatest common divisor of 18 and 21?\n\n\n1.6.2 Watch\n\n\n\n\n1.6.3 Exercises\n\nFind the hcf of 12 and 20.\nFind the gcd of 35 and 100.\nFind the gcd of 3 and 12.\nFind the gcd of 3, 6, and 12.\n\n\n\n1.6.4 Check Your Calculation\n\n\n\n\n\n\nExcel\n\n\n\nType in:\n= GCD(3,6,12)\npress Enter"
+  },
+  {
+    "objectID": "week1a.html#lowest-common-factors-lcm",
+    "href": "week1a.html#lowest-common-factors-lcm",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.7 Lowest common factors (lcm)",
+    "text": "1.7 Lowest common factors (lcm)\nThe lowest common factors is also called the the lowest common multiple. LCM of number A (say 2) and B (say 5) is the lowest number that can be divided by A and B without a remainder. For example, the lcm for 2 and 5 is 10 because 10 can be divided by 2 and 5 without a remainder.\n\n1.7.1 Problem\nFind the lcm of 6 and 10.\n\n\n1.7.2 Watch\n\n\n\n\n1.7.3 Exercises\n\nFind the lcm of 2 and 5.\nFind the lcm of 3 and 6.\n\n\n\n1.7.4 Check Your Calculation\n\n\n\n\n\n\nExcel\n\n\n\nType in\n= LCM (3,6)\npress Enter"
   }
 ]

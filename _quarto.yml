@@ -6,6 +6,13 @@ website:
   title: " MKTG100 Numeracy Skills" 
   author: "Ahmad Daryanto (Anto)"
   date: "11/04/2022"
+  body-header: | 
+      Michaelmas Term 2023
+  margin-header: | 
+      ![](cover.png)
+  theme:
+      light: flatly
+      dark: darkly
   sidebar:
     style: "docked"
     search: true
@@ -30,6 +37,7 @@ website:
         contents:
           - sol1a.qmd
           - sol1b.qmd
+    
       
 bibliography: references.bib
 
