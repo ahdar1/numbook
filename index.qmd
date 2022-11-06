@@ -41,14 +41,12 @@ The structure of the program can be seen below.
 
 | Week | Section    |           Topic               |
 |:----:|:----:|:---------------------------------:|
-|  5   |  5a    | Arithmetic of whole numbers    |
-|  5   |  5b    |       Fraction              |
-|  5   |  5b    |    Decimal numbers          |
-|  6   |  6a    | Percentage and ratio        |
-|  6   |  6b    |       Algebra              |
-|  7   |  7a    |        Indices              |
-|  7   |  7b    |Simplifying algebraic expressions |
-|  8   |  8    | Basic Marketing Math            |
+|  5   |  5    | Arithmetic of whole numbers    |
+|  6   |  6   |       Fraction and Decimal Numbers              |
+|  7   |  7a    | Percentage and Ratio        |
+|  7   |  7b    |        Exponent and Roots              |
+|  8   |  8a    | Basic Marketing Math: Profit           |
+|  8   |  8b    | Basic Marketing Math: Market Share and Growth            |
 |  9   |      |       Test            |
 
 ## Assessment {.unnumbered}

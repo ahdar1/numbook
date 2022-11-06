@@ -1,80 +1,45 @@
 [
   {
-    "objectID": "sol5a.html",
-    "href": "sol5a.html",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "",
-    "text": "Michaelmas Term 2023\nSolutions to weekly problems and exercises"
-  },
-  {
-    "objectID": "sol5a.html#what-is-arithmetic",
-    "href": "sol5a.html#what-is-arithmetic",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.1 What Is Arithmetic",
-    "text": "1.1 What Is Arithmetic\nWhat is the answer to a multiplication problem called? Product\n\nWhat is the answer to a multiplication problem called? Product\nWhat is the answer to a division problem called? Quotient\nWhat is the answer to a addition problem called? Sum\nWhat is the answer to a subtraction problem called? Difference"
-  },
-  {
-    "objectID": "sol5a.html#order-of-operations-bodmas-rule",
-    "href": "sol5a.html#order-of-operations-bodmas-rule",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.2 Order of Operations: BODMAS rule",
-    "text": "1.2 Order of Operations: BODMAS rule\nHow to work this out: 10:2(2+1) = 15\n\n3 + 4 * 2 = 11\n( 1 + 2 ) 5 - 2 * 3 = 9\n8 : 2 ( 2 + 1 ) = 12\n2 - 2 + 2 = 2\n(10 : 2) * 3 - 2 = 13\n5 * \\(5^2\\) = 125"
-  },
-  {
-    "objectID": "sol5a.html#prime-numbers",
-    "href": "sol5a.html#prime-numbers",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.3 Prime Numbers",
-    "text": "1.3 Prime Numbers\nIs 5 a prime number? Yes\n\nIs 13 a prime number? Yes\nIs 33 a prime number? No"
-  },
-  {
-    "objectID": "sol5a.html#prime-factorization",
-    "href": "sol5a.html#prime-factorization",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.4 Prime Factorization",
-    "text": "1.4 Prime Factorization\nFind the prime factorization of 75. 3*5*5 = 3*\\(5^2\\)\n\nFind the prime factorization of 136. 2*2*2*17= \\(2^3*17\\)\nFind the prime factorization of 100. 2*2*5*5= \\(2^2*5^2\\)\nFind the prime factorization of 124. 2*2*31= \\(2^2 * 31\\)"
-  },
-  {
-    "objectID": "sol5a.html#greatest-common-factor",
-    "href": "sol5a.html#greatest-common-factor",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.6 Greatest Common Factor",
-    "text": "1.6 Greatest Common Factor\nWhat is the greatest common divisor of 18 and 21? 3\n\nFind the hcf of 12 and 20. 4\nFind the gcd of 35 and 100. 5\nFind the gcd of 3 and 12. 3\nFind the gcd of 3, 6, and 12.3"
-  },
-  {
-    "objectID": "sol5a.html#lowest-common-factors",
-    "href": "sol5a.html#lowest-common-factors",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.7 Lowest Common Factors",
-    "text": "1.7 Lowest Common Factors\nFind the lcm of 6 and 10. 30\n\nFind the lcm of 2 and 5. 10\nFind the lcm of 3 and 6. 6"
-  },
-  {
-    "objectID": "sol5b.html",
-    "href": "sol5b.html",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "",
-    "text": "Michaelmas Term 2023\nSolutions to weekly problems and exercises"
-  },
-  {
-    "objectID": "sol5b.html#fraction-and-decimal-number",
-    "href": "sol5b.html#fraction-and-decimal-number",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.1 Fraction and Decimal Number",
-    "text": "1.1 Fraction and Decimal Number\nExpress 0.142 as a proper fraction in its simplest form. \\(1\\frac{3}{200}\\)\n\nExpress 0.015 as a proper fraction in its simplest form. \\(\\frac{83}{250}\\)\nExpress 4.6 as a mixed fraction in its simplest form. \\(4\\frac{3}{5}\\)\nWrite \\(\\frac{1}{100}+\\frac{5}{1000}\\) as a decimal number. 0.015\nRound 24.362 to 3 decimal places (3 dp). 24.4\nRound 0.0452 to 2 dp. 0.05"
-  },
-  {
-    "objectID": "sol5b.html#significant-figures",
-    "href": "sol5b.html#significant-figures",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.2 Significant Figures",
-    "text": "1.2 Significant Figures\nWrite 76 to one significant figure (1 sf). 80\n\nWrite 52 to one significant figure (3 sf). 52.0\nWrite 35.572 to 3 sf. 35.6\nWrite 0.0473 to 1 sf. 0.05\nWrite 695.3 to 2 sf. 700\nWrite 49.222 to 2 sf. 49"
-  },
-  {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": " MKTG100 Numeracy Skills",
     "section": "",
     "text": "1 Introduction\nThis is a book to support MKTG100 Numeracy"
+  },
+  {
+    "objectID": "week8a.html",
+    "href": "week8a.html",
+    "title": "Week 8a",
+    "section": "",
+    "text": "Michaelmas Term 2023"
+  },
+  {
+    "objectID": "week8a.html#learning-goals",
+    "href": "week8a.html#learning-goals",
+    "title": "Week 8a",
+    "section": "1 Learning Goals",
+    "text": "1 Learning Goals\nKnow how to calculate\n\nProfitability ratios\nOperating profit and profit margin\nGross profit and gross profit margin"
+  },
+  {
+    "objectID": "week8a.html#profit",
+    "href": "week8a.html#profit",
+    "title": "Week 8a",
+    "section": "2 Profit",
+    "text": "2 Profit\n\n2.1 Problem\n\n\n2.2 Watch\n\n\n\n\n2.3 Exercises\n\n\n2.4 Operating profit and profit margin\n\n\n2.5 Problem\n\n\n2.6 Watch\n\n\n\n\n2.7 Exercises\n\n\n2.8 Gross profit and gross profit margin\n\n\n2.9 Problem\n\n\n2.10 Watch\n\n\n\n\n2.11 Exercises"
+  },
+  {
+    "objectID": "week8a.html#market-share",
+    "href": "week8a.html#market-share",
+    "title": "Week 8a",
+    "section": "3 Market Share",
+    "text": "3 Market Share\n\n3.1 Problem\n\n\n3.2 Watch\n\n\n\n\n3.3 Exercises"
+  },
+  {
+    "objectID": "week8a.html#market-growth",
+    "href": "week8a.html#market-growth",
+    "title": "Week 8a",
+    "section": "4 Market Growth",
+    "text": "4 Market Growth\n\n4.1 Problem\n\n\n4.2 Watch\n\n\n\n\n4.3 Exercises"
   },
   {
     "objectID": "week8.html",
@@ -88,7 +53,14 @@
     "href": "week8.html#learning-goals",
     "title": "Week 8",
     "section": "1 Learning Goals",
-    "text": "1 Learning Goals\nKnow how to calculate\n\nProfit\nMarket share\nMarket growth\nElasticity\nReturn on investment (ROI)"
+    "text": "1 Learning Goals\nKnow how to calculate\n\nProfitability ratios\nOperating profit and profit margin\nGross profit and gross profit margin\nMarket share\nMarket growth"
+  },
+  {
+    "objectID": "week8.html#profit",
+    "href": "week8.html#profit",
+    "title": "Week 8",
+    "section": "2 Profit",
+    "text": "2 Profit\n\n2.1 Problem\n\n\n2.2 Watch\n\n\n\n\n2.3 Exercises\n\n\n2.4 Operating profit and profit margin\n\n\n2.5 Problem\n\n\n2.6 Watch\n\n\n\n\n2.7 Exercises\n\n\n2.8 Gross profit and gross profit margin\n\n\n2.9 Problem\n\n\n2.10 Watch\n\n\n\n\n2.11 Exercises"
   },
   {
     "objectID": "week9.html",
@@ -98,60 +70,32 @@
     "text": "This is an exam week for this module. The exam will last for 40 min on Moodle. Make sure you don’t miss out your examinations as they are mandatory for completion of your module. The link on Moodle for week 9 test is password protected. Your tutor will reveal the password for you in your workshop.\nNow, go to Moodle, and click a link `Week 9 Test`"
   },
   {
-    "objectID": "week5a.html",
-    "href": "week5a.html",
-    "title": " MKTG100 Numeracy Skills",
+    "objectID": "week8b.html",
+    "href": "week8b.html",
+    "title": "Week 8b",
     "section": "",
     "text": "Michaelmas Term 2023"
   },
   {
-    "objectID": "week5a.html#learning-goals",
-    "href": "week5a.html#learning-goals",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.1 Learning Goals",
-    "text": "1.1 Learning Goals\n\nUnderstand what arithmetic is\nUnderstand BODMAS rule\nUnderstand Prime numbers\nKnow to how do prime factorisation\nUnderstand highest common factors (hcf) / greatest common divisor (gcd)\nUnderstand lowest common factors (lcm)"
+    "objectID": "week8b.html#learning-goals",
+    "href": "week8b.html#learning-goals",
+    "title": "Week 8b",
+    "section": "1 Learning Goals",
+    "text": "1 Learning Goals\n\nUnderstand market share\nUnderstand market growth"
   },
   {
-    "objectID": "week5a.html#what-is-arithmetic",
-    "href": "week5a.html#what-is-arithmetic",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.2 What Is Arithmetic?",
-    "text": "1.2 What Is Arithmetic?\n\n1.2.1 Problem\nWhat is the answer to a multiplication problem called?\n\n\n1.2.2 Watch\n\n\n\n\n1.2.3 Exercises\n\nWhat is the answer to a multiplication problem called?\nWhat is the answer to a division problem called?\nWhat is the answer to an addition problem called?\nWhat is the answer to a subtraction problem called?"
+    "objectID": "week8b.html#market-share",
+    "href": "week8b.html#market-share",
+    "title": "Week 8b",
+    "section": "2 Market Share",
+    "text": "2 Market Share\n\n2.1 Problem\n\n\n2.2 Watch\n\n\n\n\n2.3 Exercises"
   },
   {
-    "objectID": "week5a.html#order-of-operations-bodmas-rule",
-    "href": "week5a.html#order-of-operations-bodmas-rule",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.3 Order of Operations: BODMAS rule",
-    "text": "1.3 Order of Operations: BODMAS rule\n“Operations” refer to mathematical operations such as addition, subtraction, multiplication, division, taking power (\\(a^n\\)) or roots (\\(\\sqrt[n]{a}\\)) (note: \\(\\sqrt[n]{a}=a^{1/n}\\)).\n\n1.3.1 Problem\nHow to work this out: 10:2(2+1) = ?\nWhat to do first? The answer is BODMAS.\nBODMAS = Bracket, Order, Division, Multiplication, Addition, and Subtraction.\n\nOrder of Operations and Priority\n\n\nSymbol\nMeaning\nOperation\nPriority\n\n\n\n\nB\nBracket\n\\(()\\)\n1\n\n\nO\nOrder\n\\(a^n\\)\n1\n\n\nD\nDivision\n\\(\\div\\)\n2\n\n\nM\nMultiplication\n\\(\\times\\)\n2\n\n\nA\nAddition\n\\(+\\)\n3\n\n\nS\nSubtraction\n\\(-\\)\n3\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nYou work out an expression from left to right in the order of BODMAS. Division and Multiplication are interchangeable (i.e., they have the same priority) and depend on which comes first in the expression. Similar rule applies for addition and subtraction as they have the same priority.\n\n\n\n\n1.3.2 Watch\n\n\n\n\n\n\n\n\nNote\n\n\n\nA BODMAS problem 6:2(1+2) got viral on the internet. Read the news here\nhttps://www.newsweek.com/this-viral-math-problem-has-internet-frenzy-1584710\nWatch the explanation in the video below.\n\n\n\n\n\n\n1.3.3 Exercises\nNote: * symbol is the same as \\(\\times\\)\n\n3 + 4 * 2 = …\n( 1 + 2 ) 5 - 2 * 3 = …\n8 : 2 ( 2 + 1 ) = …\n2 - 2 + 2 = …\n(10 : 2) * 3 - 2 = …\n5 * \\(5^2\\) = …"
-  },
-  {
-    "objectID": "week5a.html#prime-numbers",
-    "href": "week5a.html#prime-numbers",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.4 Prime Numbers",
-    "text": "1.4 Prime Numbers\n\n1.4.1 Problem\nIs 5 a prime number?\n\n\n1.4.2 Watch\n\n\n\n\n1.4.3 Exercises\n\nIs 13 a prime number?\nIs 33 a prime number?"
-  },
-  {
-    "objectID": "week5a.html#prime-factorization",
-    "href": "week5a.html#prime-factorization",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.5 Prime Factorization",
-    "text": "1.5 Prime Factorization\n\n1.5.1 Problem\nFind the prime factorization of 75.\n\n\n1.5.2 Watch\n\n\n\n\n1.5.3 Exercises\n\nFind the prime factorization of 136.\nFind the prime factorization of 100.\nFind the prime factorization of 124."
-  },
-  {
-    "objectID": "week5a.html#greatest-common-factors-gcd",
-    "href": "week5a.html#greatest-common-factors-gcd",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.6 Greatest common factors (gcd)",
-    "text": "1.6 Greatest common factors (gcd)\nThe greatest common divisor (gcd) is also called the highest common factor (hcf). GCD of two numbers is the number that divides them both. For instance GCD of 3 and 6 is 3.\n\n1.6.1 Problem\nWhat is the greatest common divisor of 18 and 21?\n\n\n1.6.2 Watch\n\n\n\n\n1.6.3 Exercises\n\nFind the hcf of 12 and 20.\nFind the gcd of 35 and 100.\nFind the gcd of 3 and 12.\nFind the gcd of 3, 6, and 12.\n\n\n\n1.6.4 Check Your Calculation\n\n\n\n\n\n\nExcel\n\n\n\nType in:\n= GCD(3,6,12)\npress Enter"
-  },
-  {
-    "objectID": "week5a.html#lowest-common-factors-lcm",
-    "href": "week5a.html#lowest-common-factors-lcm",
-    "title": " MKTG100 Numeracy Skills",
-    "section": "1.7 Lowest common factors (lcm)",
-    "text": "1.7 Lowest common factors (lcm)\nThe lowest common factors is also called the the lowest common multiple. LCM of number A (say 2) and B (say 5) is the lowest number that can be divided by A and B without a remainder. For example, the lcm for 2 and 5 is 10 because 10 can be divided by 2 and 5 without a remainder.\n\n1.7.1 Problem\nFind the lcm of 6 and 10.\n\n\n1.7.2 Watch\n\n\n\n\n1.7.3 Exercises\n\nFind the lcm of 2 and 5.\nFind the lcm of 3 and 6.\n\n\n\n1.7.4 Check Your Calculation\n\n\n\n\n\n\nExcel\n\n\n\nType in\n= LCM (3,6)\npress Enter"
+    "objectID": "week8b.html#market-growth",
+    "href": "week8b.html#market-growth",
+    "title": "Week 8b",
+    "section": "3 Market Growth",
+    "text": "3 Market Growth\n\n3.1 Problem\n\n\n3.2 Watch\n\n\n\n\n3.3 Exercises"
   },
   {
     "objectID": "index.html",
@@ -186,7 +130,7 @@
     "href": "index.html#program-structure",
     "title": " MKTG100 Numeracy Skills",
     "section": "Program Structure",
-    "text": "Program Structure\nThe module runs from week 5 - 9 in the Michaelmas term. In week 9, you take a test in your workshop slot.\nAll workshop activities are conducted online. You must log onto teams. Your tutors are available virtually during workshop time. If you need any help, you can send a message or request to talk to your tutors.\nDuring the workshops, you must attempt the weekly exercises. If you cannot finish them during the workshop, you must complete them outside of the workshop time and make sure they are finished before the next session the week after.\nThe structure of the program can be seen below.\n\n\n\nWeek\nSection\nTopic\n\n\n\n\n5\n5a\nArithmetic of whole numbers\n\n\n5\n5b\nFraction\n\n\n5\n5b\nDecimal numbers\n\n\n6\n6a\nPercentage and ratio\n\n\n6\n6b\nAlgebra\n\n\n7\n7a\nIndices\n\n\n7\n7b\nSimplifying algebraic expressions\n\n\n8\n8\nBasic Marketing Math\n\n\n9\n\nTest"
+    "text": "Program Structure\nThe module runs from week 5 - 9 in the Michaelmas term. In week 9, you take a test in your workshop slot.\nAll workshop activities are conducted online. You must log onto teams. Your tutors are available virtually during workshop time. If you need any help, you can send a message or request to talk to your tutors.\nDuring the workshops, you must attempt the weekly exercises. If you cannot finish them during the workshop, you must complete them outside of the workshop time and make sure they are finished before the next session the week after.\nThe structure of the program can be seen below.\n\n\n\n\n\n\n\n\nWeek\nSection\nTopic\n\n\n\n\n5\n5\nArithmetic of whole numbers\n\n\n6\n6\nFraction and Decimal Numbers\n\n\n7\n7a\nPercentage and Ratio\n\n\n7\n7b\nExponent and Roots\n\n\n8\n8a\nBasic Marketing Math: Profit\n\n\n8\n8b\nBasic Marketing Math: Market Share and Growth\n\n\n9\n\nTest"
   },
   {
     "objectID": "index.html#assessment",
@@ -238,6 +182,55 @@
     "text": "1.3 Significant Figures\n\n1.3.1 Problem\nWrite 76 to one significant figure (1 sf).\n\n\n1.3.2 Watch\n\n\n\n\n1.3.3 Exercises\n\nWrite 52 to one significant figure (3 sf).\nWrite 35.572 to 3 sf.\nWrite 0.0473 to 1 sf.\nWrite 695.3 to 2 sf.\nWrite 49.222 to 2 s.f."
   },
   {
+    "objectID": "sol5.html",
+    "href": "sol5.html",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "",
+    "text": "Michaelmas Term 2023\nSolutions to weekly problems and exercises"
+  },
+  {
+    "objectID": "sol5.html#what-is-arithmetic",
+    "href": "sol5.html#what-is-arithmetic",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.1 What Is Arithmetic",
+    "text": "1.1 What Is Arithmetic\nWhat is the answer to a multiplication problem called? Product\n\nWhat is the answer to a multiplication problem called? Product\nWhat is the answer to a division problem called? Quotient\nWhat is the answer to a addition problem called? Sum\nWhat is the answer to a subtraction problem called? Difference"
+  },
+  {
+    "objectID": "sol5.html#order-of-operations-bodmas-rule",
+    "href": "sol5.html#order-of-operations-bodmas-rule",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.2 Order of Operations: BODMAS rule",
+    "text": "1.2 Order of Operations: BODMAS rule\nHow to work this out: 10:2(2+1) = 15\n\n3 + 4 * 2 = 11\n( 1 + 2 ) 5 - 2 * 3 = 9\n8 : 2 ( 2 + 1 ) = 12\n2 - 2 + 2 = 2\n(10 : 2) * 3 - 2 = 13\n5 * \\(5^2\\) = 125"
+  },
+  {
+    "objectID": "sol5.html#prime-numbers",
+    "href": "sol5.html#prime-numbers",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.3 Prime Numbers",
+    "text": "1.3 Prime Numbers\nIs 5 a prime number? Yes\n\nIs 13 a prime number? Yes\nIs 33 a prime number? No"
+  },
+  {
+    "objectID": "sol5.html#prime-factorization",
+    "href": "sol5.html#prime-factorization",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.4 Prime Factorization",
+    "text": "1.4 Prime Factorization\nFind the prime factorization of 75. 3*5*5 = 3*\\(5^2\\)\n\nFind the prime factorization of 136. 2*2*2*17= \\(2^3*17\\)\nFind the prime factorization of 100. 2*2*5*5= \\(2^2*5^2\\)\nFind the prime factorization of 124. 2*2*31= \\(2^2 * 31\\)"
+  },
+  {
+    "objectID": "sol5.html#greatest-common-factor",
+    "href": "sol5.html#greatest-common-factor",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.6 Greatest Common Factor",
+    "text": "1.6 Greatest Common Factor\nWhat is the greatest common divisor of 18 and 21? 3\n\nFind the hcf of 12 and 20. 4\nFind the gcd of 35 and 100. 5\nFind the gcd of 3 and 12. 3\nFind the gcd of 3, 6, and 12.3"
+  },
+  {
+    "objectID": "sol5.html#lowest-common-factors",
+    "href": "sol5.html#lowest-common-factors",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.7 Lowest Common Factors",
+    "text": "1.7 Lowest Common Factors\nFind the lcm of 6 and 10. 30\n\nFind the lcm of 2 and 5. 10\nFind the lcm of 3 and 6. 6"
+  },
+  {
     "objectID": "summary.html",
     "href": "summary.html",
     "title": " MKTG100 Numeracy Skills",
@@ -245,32 +238,25 @@
     "text": "1 Summary\nIn summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "week6b.html",
-    "href": "week6b.html",
-    "title": "Week 6b",
-    "section": "",
-    "text": "Michaelmas Term 2023"
-  },
-  {
-    "objectID": "week6a.html",
-    "href": "week6a.html",
+    "objectID": "sol6.html",
+    "href": "sol6.html",
     "title": " MKTG100 Numeracy Skills",
     "section": "",
-    "text": "Michaelmas Term 2023"
+    "text": "Michaelmas Term 2023\nSolutions to weekly problems and exercises"
   },
   {
-    "objectID": "week6a.html#learning-goals",
-    "href": "week6a.html#learning-goals",
+    "objectID": "sol6.html#fraction-and-decimal-number",
+    "href": "sol6.html#fraction-and-decimal-number",
     "title": " MKTG100 Numeracy Skills",
-    "section": "1.1 Learning goals",
-    "text": "1.1 Learning goals\n\nUnderstand the meaning of percentages and ratio.\nKnow how to perform calculation with percentages and ratio.\nKnow how to calculate percentage changes.\n\n\n1.1.1 Percentages and Ratio\n\n\n1.1.2 Problem\nTransform 3.6 into a percentage.\n\n\n1.1.3 Watch\n\n\n\n\n1.1.4 Exercises\n\nTransform 2.5 into a percentage.\nCalculate 12% of 60."
+    "section": "1.1 Fraction and Decimal Number",
+    "text": "1.1 Fraction and Decimal Number\nExpress 0.142 as a proper fraction in its simplest form. \\(1\\frac{3}{200}\\)\n\nExpress 0.015 as a proper fraction in its simplest form. \\(\\frac{83}{250}\\)\nExpress 4.6 as a mixed fraction in its simplest form. \\(4\\frac{3}{5}\\)\nWrite \\(\\frac{1}{100}+\\frac{5}{1000}\\) as a decimal number. 0.015\nRound 24.362 to 3 decimal places (3 dp). 24.4\nRound 0.0452 to 2 dp. 0.05\nIn this fraction \\(\\frac{1}{6}\\), the numerator is 1 and the denominator is 6."
   },
   {
-    "objectID": "week6a.html#calculating-percentages-changes",
-    "href": "week6a.html#calculating-percentages-changes",
+    "objectID": "sol6.html#significant-figures",
+    "href": "sol6.html#significant-figures",
     "title": " MKTG100 Numeracy Skills",
-    "section": "1.2 Calculating Percentages Changes",
-    "text": "1.2 Calculating Percentages Changes\nLast month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?\n\n1.2.1 Problem\n\n\n1.2.2 Watch\n\n\n\n\n1.2.3 Exercises"
+    "section": "1.2 Significant Figures",
+    "text": "1.2 Significant Figures\nWrite 76 to one significant figure (1 sf). 80\n\nWrite 52 to one significant figure (3 sf). 52.0\nWrite 35.572 to 3 sf. 35.6\nWrite 0.0473 to 1 sf. 0.05\nWrite 695.3 to 2 sf. 700\nWrite 49.222 to 2 sf. 49"
   },
   {
     "objectID": "week7a.html",
@@ -283,29 +269,127 @@
     "objectID": "week7a.html#learning-goals",
     "href": "week7a.html#learning-goals",
     "title": " MKTG100 Numeracy Skills",
+    "section": "1.1 Learning goals",
+    "text": "1.1 Learning goals\n\nUnderstand the meaning of percentages and ratio.\nKnow how to perform calculation with percentages and ratio.\nKnow how to calculate percentage changes.\n\n\n1.1.1 Percentages and Ratio\n\n\n1.1.2 Problem\nTransform 3.6 into a percentage.\n\n\n1.1.3 Watch\n\n\n\n\n1.1.4 Exercises\n\nTransform 2.5 into a percentage.\nCalculate 12% of 60."
+  },
+  {
+    "objectID": "week7a.html#calculating-percentages-changes",
+    "href": "week7a.html#calculating-percentages-changes",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.2 Calculating Percentages Changes",
+    "text": "1.2 Calculating Percentages Changes\n\n1.2.1 Problem\nLast month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?\n\n\n1.2.2 Watch\n\n\n\n\n1.2.3 Exercises\n\nLast month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage change in sale?\nYesterday there were 250 unique visitors clicking a website. Today, you found that there is a 5% increase in visit. How many cclicks are there?"
+  },
+  {
+    "objectID": "week6.html",
+    "href": "week6.html",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "",
+    "text": "Michaelmas Term 2023"
+  },
+  {
+    "objectID": "week6.html#learning-goals",
+    "href": "week6.html#learning-goals",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.1 Learning Goals",
+    "text": "1.1 Learning Goals\n\nUnderstand fraction and decimal number\nUnderstand rounding a number\nUnderstand significant figures"
+  },
+  {
+    "objectID": "week6.html#fraction-and-decimal-number",
+    "href": "week6.html#fraction-and-decimal-number",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.2 Fraction and Decimal Number",
+    "text": "1.2 Fraction and Decimal Number\n\n1.2.1 Problem\nExpress 0.142 as a proper fraction in its simplest form.\n\n\n1.2.2 Watch\n\n\n\n\n\n\n\n\n\n\n1.2.3 Exercises\n\nExpress 0.015 as a proper fraction in its simplest form.\nExpress 4.6 as a mixed fraction in its simplest form.\nWrite \\(\\frac{1}{100}+\\frac{5}{1000}\\) as a decimal number.\nRound 24.362 to 3 decimal places (3 dp).\nRound 0.0452 to 2 dp.\nIn this fraction \\(\\frac{1}{6}\\), the numerator is … and the denominator is …."
+  },
+  {
+    "objectID": "week6.html#significant-figures",
+    "href": "week6.html#significant-figures",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.3 Significant Figures",
+    "text": "1.3 Significant Figures\n\n1.3.1 Problem\nWrite 76 to one significant figure (1 sf).\n\n\n1.3.2 Watch\n\n\n\n\n1.3.3 Exercises\n\nWrite 52 to one significant figure (3 sf).\nWrite 35.572 to 3 sf.\nWrite 0.0473 to 1 sf.\nWrite 695.3 to 2 sf.\nWrite 49.222 to 2 s.f."
+  },
+  {
+    "objectID": "week7b.html",
+    "href": "week7b.html",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "",
+    "text": "Michaelmas Term 2023"
+  },
+  {
+    "objectID": "week7b.html#learning-goals",
+    "href": "week7b.html#learning-goals",
+    "title": " MKTG100 Numeracy Skills",
     "section": "1.1 Learning Goals",
     "text": "1.1 Learning Goals"
   },
   {
-    "objectID": "week7a.html#exponents",
-    "href": "week7a.html#exponents",
+    "objectID": "week7b.html#exponents",
+    "href": "week7b.html#exponents",
     "title": " MKTG100 Numeracy Skills",
     "section": "1.2 Exponents",
     "text": "1.2 Exponents\n\n1.2.1 Problems\n\n\n1.2.2 Watch\n\n\n\n\n1.2.3 Exercises"
   },
   {
-    "objectID": "week7a.html#exponent-and-roots",
-    "href": "week7a.html#exponent-and-roots",
+    "objectID": "week7b.html#exponent-and-roots",
+    "href": "week7b.html#exponent-and-roots",
     "title": " MKTG100 Numeracy Skills",
     "section": "1.3 Exponent and Roots",
     "text": "1.3 Exponent and Roots\n\n1.3.1 Problems\n\n\n1.3.2 Watch\n\n\n\n\n1.3.3 Exercises"
   },
   {
-    "objectID": "week7b.html",
-    "href": "week7b.html",
-    "title": "Week 7b",
+    "objectID": "week5.html",
+    "href": "week5.html",
+    "title": " MKTG100 Numeracy Skills",
     "section": "",
     "text": "Michaelmas Term 2023"
+  },
+  {
+    "objectID": "week5.html#learning-goals",
+    "href": "week5.html#learning-goals",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.1 Learning Goals",
+    "text": "1.1 Learning Goals\n\nUnderstand what arithmetic is\nUnderstand BODMAS rule\nUnderstand Prime numbers\nKnow to how do prime factorisation\nUnderstand highest common factors (hcf) / greatest common divisor (gcd)\nUnderstand lowest common factors (lcm)"
+  },
+  {
+    "objectID": "week5.html#what-is-arithmetic",
+    "href": "week5.html#what-is-arithmetic",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.2 What Is Arithmetic?",
+    "text": "1.2 What Is Arithmetic?\n\n1.2.1 Problem\nWhat is the answer to a multiplication problem called?\n\n\n1.2.2 Watch\n\n\n\n\n1.2.3 Exercises\n\nWhat is the answer to a multiplication problem called?\nWhat is the answer to a division problem called?\nWhat is the answer to an addition problem called?\nWhat is the answer to a subtraction problem called?"
+  },
+  {
+    "objectID": "week5.html#order-of-operations-bodmas-rule",
+    "href": "week5.html#order-of-operations-bodmas-rule",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.3 Order of Operations: BODMAS rule",
+    "text": "1.3 Order of Operations: BODMAS rule\n“Operations” refer to mathematical operations such as addition, subtraction, multiplication, division, taking power (\\(a^n\\)) or roots (\\(\\sqrt[n]{a}\\)) (note: \\(\\sqrt[n]{a}=a^{1/n}\\)).\n\n1.3.1 Problem\nHow to work this out: 10:2(2+1) = ?\nWhat to do first? The answer is BODMAS.\nBODMAS = Bracket, Order, Division, Multiplication, Addition, and Subtraction.\n\nOrder of Operations and Priority\n\n\nSymbol\nMeaning\nOperation\nPriority\n\n\n\n\nB\nBracket\n\\(()\\)\n1\n\n\nO\nOrder\n\\(a^n\\)\n1\n\n\nD\nDivision\n\\(\\div\\)\n2\n\n\nM\nMultiplication\n\\(\\times\\)\n2\n\n\nA\nAddition\n\\(+\\)\n3\n\n\nS\nSubtraction\n\\(-\\)\n3\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nYou work out an expression from left to right in the order of BODMAS. Division and Multiplication are interchangeable (i.e., they have the same priority) and depend on which comes first in the expression. Similar rule applies for addition and subtraction as they have the same priority.\n\n\n\n\n1.3.2 Watch\n\n\n\n\n\n\n\n\nNote\n\n\n\nA BODMAS problem 6:2(1+2) got viral on the internet. Read the news here\nhttps://www.newsweek.com/this-viral-math-problem-has-internet-frenzy-1584710\nWatch the explanation in the video below.\n\n\n\n\n\n\n1.3.3 Exercises\nNote: * symbol is the same as \\(\\times\\)\n\n3 + 4 * 2 = …\n( 1 + 2 ) 5 - 2 * 3 = …\n8 : 2 ( 2 + 1 ) = …\n2 - 2 + 2 = …\n(10 : 2) * 3 - 2 = …\n5 * \\(5^2\\) = …"
+  },
+  {
+    "objectID": "week5.html#prime-numbers",
+    "href": "week5.html#prime-numbers",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.4 Prime Numbers",
+    "text": "1.4 Prime Numbers\n\n1.4.1 Problem\nIs 5 a prime number?\n\n\n1.4.2 Watch\n\n\n\n\n1.4.3 Exercises\n\nIs 13 a prime number?\nIs 33 a prime number?"
+  },
+  {
+    "objectID": "week5.html#prime-factorization",
+    "href": "week5.html#prime-factorization",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.5 Prime Factorization",
+    "text": "1.5 Prime Factorization\n\n1.5.1 Problem\nFind the prime factorization of 75.\n\n\n1.5.2 Watch\n\n\n\n\n1.5.3 Exercises\n\nFind the prime factorization of 136.\nFind the prime factorization of 100.\nFind the prime factorization of 124."
+  },
+  {
+    "objectID": "week5.html#greatest-common-factors-gcd",
+    "href": "week5.html#greatest-common-factors-gcd",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.6 Greatest common factors (gcd)",
+    "text": "1.6 Greatest common factors (gcd)\nThe greatest common divisor (gcd) is also called the highest common factor (hcf). GCD of two numbers is the number that divides them both. For instance GCD of 3 and 6 is 3.\n\n1.6.1 Problem\nWhat is the greatest common divisor of 18 and 21?\n\n\n1.6.2 Watch\n\n\n\n\n1.6.3 Exercises\n\nFind the hcf of 12 and 20.\nFind the gcd of 35 and 100.\nFind the gcd of 3 and 12.\nFind the gcd of 3, 6, and 12.\n\n\n\n1.6.4 Check Your Calculation\n\n\n\n\n\n\nExcel\n\n\n\nType in:\n= GCD(3,6,12)\npress Enter"
+  },
+  {
+    "objectID": "week5.html#lowest-common-factors-lcm",
+    "href": "week5.html#lowest-common-factors-lcm",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "1.7 Lowest common factors (lcm)",
+    "text": "1.7 Lowest common factors (lcm)\nThe lowest common factors is also called the the lowest common multiple. LCM of number A (say 2) and B (say 5) is the lowest number that can be divided by A and B without a remainder. For example, the lcm for 2 and 5 is 10 because 10 can be divided by 2 and 5 without a remainder.\n\n1.7.1 Problem\nFind the lcm of 6 and 10.\n\n\n1.7.2 Watch\n\n\n\n\n1.7.3 Exercises\n\nFind the lcm of 2 and 5.\nFind the lcm of 3 and 6.\n\n\n\n1.7.4 Check Your Calculation\n\n\n\n\n\n\nExcel\n\n\n\nType in\n= LCM (3,6)\npress Enter"
   },
   {
     "objectID": "references.html",
@@ -313,26 +397,5 @@
     "title": " MKTG100 Numeracy Skills",
     "section": "",
     "text": "References"
-  },
-  {
-    "objectID": "week8.html#market-share",
-    "href": "week8.html#market-share",
-    "title": "Week 8",
-    "section": "3 Market Share",
-    "text": "3 Market Share\n\n3.1 Problem\n\n\n3.2 Watch\n\n\n\n\n3.3 Exercises"
-  },
-  {
-    "objectID": "week8.html#market-growth",
-    "href": "week8.html#market-growth",
-    "title": "Week 8",
-    "section": "4 Market Growth",
-    "text": "4 Market Growth\n\n4.1 Problem\n\n\n4.2 Watch\n\n\n\n\n4.3 Exercises"
-  },
-  {
-    "objectID": "week8.html#profit",
-    "href": "week8.html#profit",
-    "title": "Week 8",
-    "section": "2 Profit",
-    "text": "2 Profit\n\n2.1 Problem\n\n\n2.2 Watch\n\n\n\n\n\n\n2.3 Exercises"
   }
 ]

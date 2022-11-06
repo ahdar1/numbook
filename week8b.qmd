@@ -1,0 +1,24 @@
+---
+title: "Week 8b"
+editor: visual
+---
+
+## Learning Goals
+
+* Understand market share
+* Understand market growth
+
+## Market Share
+### Problem
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7XifAlvu7-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Exercises
+
+## Market Growth
+### Problem
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_EWR3EJ564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Exercises
