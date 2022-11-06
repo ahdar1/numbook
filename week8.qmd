@@ -4,8 +4,34 @@ editor: visual
 ---
 ## Learning Goals
 
-* Understand how to calculate profit
-* Understand how to calculate mark up
-* Understand how to calculate market share
-* Understand how to calculate elasticity
-* Understand how to calculate return on investment (ROI)
+Know how to calculate
+
+* Profit
+* Market share
+* Market growth
+* Elasticity
+* Return on investment (ROI)
+
+## Profit
+### Problem
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMI5GRVRBg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e2DI6B7BWzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Exercises
+
+## Market Share
+### Problem
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7XifAlvu7-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Exercises
+
+## Market Growth
+### Problem
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_EWR3EJ564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Exercises
