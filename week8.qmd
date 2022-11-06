@@ -2,3 +2,9 @@
 title: "Week 8"
 editor: visual
 ---
+## Learning Goals
+
+* Understand how to calculate profit
+* Understand how to calculate mark up
+* Understand how to calculate market share
+* Understand how to calculate return on investment (ROI)

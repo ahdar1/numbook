@@ -48,7 +48,7 @@ The structure of the program can be seen below.
 |  6   |  6b    |       Algebra              |
 |  7   |  7a    |        Indices              |
 |  7   |  7b    |Simplifying algebraic expressions |
-|  8   |  8    | Functions             |
+|  8   |  8    | Basic Marketing Math            |
 |  9   |      |       Test            |
 
 ## Assessment {.unnumbered}

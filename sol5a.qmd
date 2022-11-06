@@ -2,7 +2,7 @@ Solutions to weekly problems and exercises
 
 # Week 5a {.unnumbered}
 
-## 1.1 What is arithmetic {.unnumbered}
+## 1.1 What Is Arithmetic {.unnumbered}
 
 What is the answer to a multiplication problem called? `Product`
 
@@ -14,7 +14,7 @@ What is the answer to a multiplication problem called? `Product`
 
 4.  What is the answer to a subtraction problem called? `Difference`
 
-## 1.2 Order or Operations: BODMAS rule {.unnumbered}
+## 1.2 Order of Operations: BODMAS rule {.unnumbered}
 
 How to work this out: 10:2(2+1) = 15
 

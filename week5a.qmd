@@ -1,6 +1,6 @@
 # Week 5a
 
-## Learning goals
+## Learning Goals
 
 -   Understand what arithmetic is
 -   Understand BODMAS rule
@@ -9,7 +9,7 @@
 -   Understand highest common factors (hcf) / greatest common divisor (gcd)
 -   Understand lowest common factors (lcm)
 
-## What is arithmetic?
+## What Is Arithmetic?
 
 ### Problem
 
@@ -31,7 +31,7 @@ What is the answer to a multiplication problem called?
 
 4.  What is the answer to a subtraction problem called?
 
-## Order or Operations: BODMAS rule
+## Order of Operations: BODMAS rule
 
 "Operations" refer to mathematical operations such as addition, subtraction, multiplication, division, taking power ($a^n$) or roots ($\sqrt[n]{a}$) (note: $\sqrt[n]{a}=a^{1/n}$).
 
