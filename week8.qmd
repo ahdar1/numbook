@@ -7,4 +7,5 @@ editor: visual
 * Understand how to calculate profit
 * Understand how to calculate mark up
 * Understand how to calculate market share
+* Understand how to calculate elasticity
 * Understand how to calculate return on investment (ROI)
