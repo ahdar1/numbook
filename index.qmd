@@ -1,6 +1,9 @@
 # Outline {.unnumbered}
+## Preface {.unnumbered}
 
-## Module Leader/Tutor {.unnumbered}
+Employers such business firms, government institutions expect marketing graduate to have good analytical thinking and basic numeracy skills. However, many of you may be shy away from numbers because of lack of confidence. Indeed, majority of marketing students choose the subject because "...they perceive a lower-level requirement of quantitative skills in marketing as compared to other business disciplines such as accounting, finance, and information technology" [@Ganesh2010, pp. 47]. This is in contrast to the high demand and expectation from employers for these skills for marketing students to have. We want to help you to meet the challenge and design this course. In return, we want you to seriously engage in this module. 
+
+## The Team {.unnumbered}
 
 Module leader/tutor: [Ahmad Daryanto (Anto](https://sites.google.com/view/ahmaddaryanto)). Email a.daryanto[at]lancaster.ac.uk.
 
@@ -58,6 +61,8 @@ Make sure you don’t miss out your examinations as they are mandatory for compl
 ## Textbook {.unnumbered}
 
 No textbook is needed. But if you want to buy a book, I recommend @Dar2020. This is a compilation book whereby its chapters are taken from @Croft2006 and @Berenson2012. The book had been used as a textbook of the module in previous years. It also contains chapters on basic statistics covered in MKTG200 Basic Statistics, which you will take in your second year. Several copies of the book are available in the library. 
+
+
 
 ## Excel {.unnumbered}
 
