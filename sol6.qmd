@@ -10,13 +10,13 @@ Express 0.142 as a proper fraction in its simplest form. $1\frac{3}{200}$
 
 2.  Express 4.6 as a mixed fraction in its simplest form. $4\frac{3}{5}$
 
-3.  Write $\frac{1}{100}+\frac{5}{1000}$ as a decimal number. 0.015
+3.  Write $\frac{1}{100}+\frac{5}{1000}$ as a decimal number. `0.015`
 
 4.  Round 24.362 to 3 decimal places (3 dp). `24.4`
 
 5.  Round 0.0452 to 2 dp. `0.05`
 
-5. In this fraction $\frac{1}{6}$, the numerator is `1` and the denominator is `6`.
+6.  In this fraction $\frac{1}{6}$, the numerator is `1` and the denominator is `6`.
 
 ## 1.2 Significant Figures {.unnumbered}
 
