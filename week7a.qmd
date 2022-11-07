@@ -1,4 +1,4 @@
-# Week 7a 
+# Week 7a
 
 ## Learning goals
 
@@ -31,10 +31,13 @@ Transform 3.6 into a percentage.
 Last month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?
 
 ### Watch
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QZs8y0Y_3Vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QZs8y0Y_3Vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
 
 ### Exercises
 
-1. Last month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage change in sale?
+1.  Last month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage change in sale?
 
-2. Yesterday there were 250 unique visitors clicking a website. Today, you found that there is a 5% increase in visit. How many cclicks are there?
+2.  Yesterday there were 250 unique visitors clicking a website. Today, you found that there is a 5% increase in visit. How many clicks are there today?

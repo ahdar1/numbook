@@ -7,9 +7,20 @@ editor: visual
 
 Know how to calculate
 
+-   Break-Even Analysis
 -   Profitability ratios
 -   Operating profit and profit margin
 -   Gross profit and gross profit margin
+
+## Break-Even Analysis
+
+### Problem
+
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vUT8lZLZpKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Exercises
 
 
 ## Profit
@@ -48,26 +59,3 @@ Know how to calculate
 
 ### Exercises
 
-## Market Share
-
-### Problem
-
-### Watch
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7XifAlvu7-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-### Exercises
-
-## Market Growth
-
-### Problem
-
-### Watch
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_EWR3EJ564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-### Exercises

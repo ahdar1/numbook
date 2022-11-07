@@ -42,7 +42,7 @@ Express 0.142 as a proper fraction in its simplest form.
 
 5.  Round 0.0452 to 2 dp.
 
-6. In this fraction $\frac{1}{6}$, the numerator is ... and the denominator is ....
+6.  In this fraction $\frac{1}{6}$, the numerator is ... and the denominator is ....
 
 ## Significant Figures
 

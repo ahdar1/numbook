@@ -2,33 +2,49 @@
 title: "Week 8"
 editor: visual
 ---
+
 ## Learning Goals
 
 Know how to calculate
 
-* Profitability ratios
-* Operating profit and profit margin
-* Gross profit and gross profit margin
-* Market share
-* Market growth
-
+-   Profitability ratios
+-   Operating profit and profit margin
+-   Gross profit and gross profit margin
+-   Market share
+-   Market growth
 
 ## Profit
+
 ### Problem
+
 ### Watch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ROqkmlVuXKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ROqkmlVuXKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
 
 ### Exercises
 
 ### Operating profit and profit margin
+
 ### Problem
+
 ### Watch
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iMI5GRVRBg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMI5GRVRBg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
 ### Exercises
 
 ### Gross profit and gross profit margin
+
 ### Problem
+
 ### Watch
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e2DI6B7BWzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e2DI6B7BWzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
 ### Exercises

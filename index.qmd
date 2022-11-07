@@ -47,8 +47,8 @@ The structure of the program can be seen below.
 |  5   |  5    | Arithmetic of whole numbers    |
 |  6   |  6   |       Fraction and Decimal Numbers              |
 |  7   |  7a    | Percentage and Ratio        |
-|  7   |  7b    |        Exponent and Roots              |
-|  8   |  8a    | Basic Marketing Math: Profit           |
+|  7   |  7b    |        Exponents and Roots              |
+|  8   |  8a    | Basic Marketing Math: Break-Even and Profit           |
 |  8   |  8b    | Basic Marketing Math: Market Share and Growth            |
 |  9   |      |       Test            |
 
