@@ -58,8 +58,6 @@ What is the greatest common divisor of 18 and 21? `3`
 
 3.  Find the gcd of 3 and 12. `3`
 
-4.  Find the gcd of 3, 6, and 12.`3`
-
 ## 1.7 Lowest Common Factors {.unnumbered}
 
 Find the lcm of 6 and 10. `30`

@@ -152,8 +152,6 @@ What is the greatest common divisor of 18 and 21?
 
 3.  Find the gcd of 3 and 12.
 
-4.  Find the gcd of 3, 6, and 12.
-
 ### Check Your Calculation
 
 ::: callout-warning
