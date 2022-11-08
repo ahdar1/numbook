@@ -42,10 +42,9 @@ website:
           - sol5.qmd
           - sol6.qmd
           - sol7a.qmd
-    
-      
-bibliography: references.bib
+  
 
+bibliography: references.bib
 
 format:
   html:
@@ -53,6 +52,6 @@ format:
     css: styles.css
     toc: true
     number-sections: true
-    
+
 editor: visual
 
