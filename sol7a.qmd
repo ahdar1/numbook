@@ -1,0 +1,22 @@
+Solutions to weekly problems and exercises
+
+# Week 7a {.unnumbered}
+
+### Percentages and Ratio {.unnumbered}
+
+
+Transform 3.6 into a percentage.
+
+1.  Transform 2.5 into a percentage.
+
+2.  Calculate 12% of 60.
+
+3.  Calculate 11.4% of 100.
+
+## Calculating Percentages Changes {.unnumbered}
+
+Last month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?
+
+1.  Last month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage change in sale?
+
+2.  Yesterday there were 250 unique visitors clicking a website. Today, you found that there is a 5% increase in visit. How many clicks are there today?

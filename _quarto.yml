@@ -41,6 +41,7 @@ website:
         contents:
           - sol5.qmd
           - sol6.qmd
+          - sol7a.qmd
     
       
 bibliography: references.bib

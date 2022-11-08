@@ -1,42 +1,44 @@
-# Week 7a
+# Week 7a {.unnumbered}
 
-## Learning goals
+## Learning goals {.unnumbered}
 
 -   Understand the meaning of percentages and ratio.
 -   Know how to perform calculation with percentages and ratio.
 -   Know how to calculate percentage changes.
 
-### Percentages and Ratio
+### Percentages and Ratio {.unnumbered}
 
-### Problem
+### Problem {.unnumbered}
 
 Transform 3.6 into a percentage.
 
-### Watch
+### Watch {.unnumbered}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JeVSmq1Nrpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 
-### Exercises
+### Exercises {.unnumbered} 
 
 1.  Transform 2.5 into a percentage.
 
 2.  Calculate 12% of 60.
 
-## Calculating Percentages Changes
+3.  Calculate 11.4% of 100.
 
-### Problem
+## Calculating Percentages Changes {.unnumbered}
+
+### Problem {.unnumbered}
 
 Last month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?
 
-### Watch
+### Watch {.unnumbered}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QZs8y0Y_3Vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 
-### Exercises
+### Exercises {.unnumbered}
 
 1.  Last month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage change in sale?
 

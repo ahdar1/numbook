@@ -29,5 +29,3 @@ Write 76 to one significant figure (1 sf). `80`
 3.  Write 0.0473 to 1 sf. `0.05`
 
 4.  Write 695.3 to 2 sf. `700`
-
-

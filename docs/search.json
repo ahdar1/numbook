@@ -130,7 +130,7 @@
     "href": "index.html#program-structure",
     "title": " MKTG100 Numeracy Skills",
     "section": "Program Structure",
-    "text": "Program Structure\nThe module runs from week 5 - 9 in the Michaelmas term. In week 9, you take a test in your workshop slot.\nAll workshop activities are conducted online. You must log onto teams. Your tutors are available virtually during workshop time. If you need any help, you can send a message or request to talk to your tutors.\nDuring the workshops, you must attempt the weekly exercises. If you cannot finish them during the workshop, you must complete them outside of the workshop time and make sure they are finished before the next session the week after.\nThe structure of the program can be seen below.\n\n\n\n\n\n\n\n\n\nWeek\nSection\nTopic\nQuestions\n\n\n\n\n5\n5\nArithmetic of whole numbers\n20\n\n\n6\n6\nFraction and Decimal Numbers\n10\n\n\n7\n7a\nPercentage and Ratio\ntba\n\n\n7\n7b\nExponents and Roots\ntba\n\n\n8\n8a\nBasic Marketing Math: Break-Even and Profit\ntba\n\n\n8\n8b\nBasic Marketing Math: Market Share and Growth\ntba\n\n\n9\n\nTest\n20"
+    "text": "Program Structure\nThe module runs from week 5 - 9 in the Michaelmas term. In week 9, you take a test in your workshop slot.\nAll workshop activities are conducted online. You must log onto teams. Your tutors are available virtually during workshop time. If you need any help, you can send a message or request to talk to your tutors.\nDuring the workshops, you must attempt the weekly exercises. If you cannot finish them during the workshop, you must complete them outside of the workshop time and make sure they are finished before the next session the week after.\nThe structure of the program can be seen below.\n\n\n\n\n\n\n\n\n\nWeek\nSection\nTopic\nQuestions\n\n\n\n\n5\n5\nArithmetic of whole numbers\n20\n\n\n6\n6\nFraction and Decimal Numbers\n10\n\n\n7\n7a\nPercentage and Ratio\ntba\n\n\n7\n7b\nExponents and Roots\ntba\n\n\n8\n8a\nBasic Marketing Math: Break-Even and Profit\ntba\n\n\n8\n8b\nBasic Marketing Math: Market Share and Growth\ntba\n\n\n9\nAll\nTest\n20"
   },
   {
     "objectID": "index.html#assessment",
@@ -241,15 +241,15 @@
     "objectID": "week7a.html#learning-goals",
     "href": "week7a.html#learning-goals",
     "title": " MKTG100 Numeracy Skills",
-    "section": "1.1 Learning goals",
-    "text": "1.1 Learning goals\n\nUnderstand the meaning of percentages and ratio.\nKnow how to perform calculation with percentages and ratio.\nKnow how to calculate percentage changes.\n\n\n1.1.1 Percentages and Ratio\n\n\n1.1.2 Problem\nTransform 3.6 into a percentage.\n\n\n1.1.3 Watch\n\n\n\n\n1.1.4 Exercises\n\nTransform 2.5 into a percentage.\nCalculate 12% of 60."
+    "section": "Learning goals",
+    "text": "Learning goals\n\nUnderstand the meaning of percentages and ratio.\nKnow how to perform calculation with percentages and ratio.\nKnow how to calculate percentage changes.\n\n\nPercentages and Ratio\n\n\nProblem\nTransform 3.6 into a percentage.\n\n\nWatch\n\n\n\n\nExercises\n\nTransform 2.5 into a percentage.\nCalculate 12% of 60.\nCalculate 11.4% of 100."
   },
   {
     "objectID": "week7a.html#calculating-percentages-changes",
     "href": "week7a.html#calculating-percentages-changes",
     "title": " MKTG100 Numeracy Skills",
-    "section": "1.2 Calculating Percentages Changes",
-    "text": "1.2 Calculating Percentages Changes\n\n1.2.1 Problem\nLast month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?\n\n\n1.2.2 Watch\n\n\n\n\n1.2.3 Exercises\n\nLast month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage change in sale?\nYesterday there were 250 unique visitors clicking a website. Today, you found that there is a 5% increase in visit. How many clicks are there today?"
+    "section": "Calculating Percentages Changes",
+    "text": "Calculating Percentages Changes\n\nProblem\nLast month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?\n\n\nWatch\n\n\n\n\nExercises\n\nLast month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage change in sale?\nYesterday there were 250 unique visitors clicking a website. Today, you found that there is a 5% increase in visit. How many clicks are there today?"
   },
   {
     "objectID": "week6.html",
@@ -362,6 +362,20 @@
     "title": " MKTG100 Numeracy Skills",
     "section": "1.7 Lowest common factors (lcm)",
     "text": "1.7 Lowest common factors (lcm)\nThe lowest common factors is also called the the lowest common multiple. LCM of number A (say 2) and B (say 5) is the lowest number that can be divided by A and B without a remainder. For example, the lcm for 2 and 5 is 10 because 10 can be divided by 2 and 5 without a remainder.\n\n1.7.1 Problem\nFind the lcm of 6 and 10.\n\n\n1.7.2 Watch\n\n\n\n\n1.7.3 Exercises\n\nFind the lcm of 2 and 5.\nFind the lcm of 3 and 6.\n\n\n\n1.7.4 Check Your Calculation\n\n\n\n\n\n\nExcel\n\n\n\nType in\n= LCM (3,6)\npress Enter"
+  },
+  {
+    "objectID": "sol7a.html",
+    "href": "sol7a.html",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "",
+    "text": "Michaelmas Term 2023\nSolutions to weekly problems and exercises"
+  },
+  {
+    "objectID": "sol7a.html#calculating-percentages-changes",
+    "href": "sol7a.html#calculating-percentages-changes",
+    "title": " MKTG100 Numeracy Skills",
+    "section": "Calculating Percentages Changes",
+    "text": "Calculating Percentages Changes\nLast month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?\n\nLast month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage change in sale?\nYesterday there were 250 unique visitors clicking a website. Today, you found that there is a 5% increase in visit. How many clicks are there today?"
   },
   {
     "objectID": "references.html",

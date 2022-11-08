@@ -50,7 +50,7 @@ The structure of the program can be seen below.
 |  7   |  7b    |        Exponents and Roots  | tba |
 |  8   |  8a    | Basic Marketing Math: Break-Even and Profit           | tba |
 |  8   |  8b    | Basic Marketing Math: Market Share and Growth            | tba |
-|  9   |      |       Test            | 20 |
+|  9   | All     |       Test            | 20 |
 
 ## Assessment {.unnumbered}
 
