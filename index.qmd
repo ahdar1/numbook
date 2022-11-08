@@ -29,6 +29,7 @@ flowchart LR
   B --> E[No]
   E --> G[Watch Video]
   G --> F[Do Exercises]
+  F --> H[Attempt on Moodle]
 ```
 
 ## Program Structure {.unnumbered}
