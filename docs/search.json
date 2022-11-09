@@ -123,7 +123,7 @@
     "href": "index.html#how-to-study",
     "title": " MKTG100 Numeracy Skills",
     "section": "How to Study",
-    "text": "How to Study\nEach section in this website relates to a particular topic. The section has a skeleton that includes Problem, Watch, and Exercises. Your learning journey on a topic will take the following routes described by this flowchart:\n\n\n\n\nflowchart LR\n  A[Problem] --> B{Got it?}\n  B --> D[Yes]\n  D --> G[Watch Video]\n  D --> F[Go to Exercises]\n  B --> E[No]\n  E --> G[Watch Video]\n  G --> F[Do Exercises]\n  F --> H[Attempt on Moodle]"
+    "text": "How to Study\nEach section in this website relates to a particular topic. The section has a skeleton that includes Problem, Watch, and Exercises. Your learning journey on a topic will take the following routes described by this flowchart:\n\n\n\n\nflowchart LR\n  A[Problem] --> B{Solved it?}\n  B --> D[Yes]\n  D --> G[Watch Video]\n  D --> F[Go to Exercises]\n  B --> E[No]\n  E --> G[Watch Video]\n  G --> F[Do Exercises]\n  F --> H[Attempt on Moodle]"
   },
   {
     "objectID": "index.html#program-structure",
