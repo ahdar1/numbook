@@ -36,7 +36,7 @@ flowchart LR
 
 ## Program Structure {.unnumbered}
 
-The module runs from week 5 - 9 in the Michaelmas term. In week 9, you take a test in your workshop slot.
+The module runs from week 5 - 9 in the Michaelmas term. In week 9, you take a test on Moodle during your workshop.
 
 All workshop activities are conducted online. You must log onto **teams**. Your tutors are available virtually during workshop time. If you need any help, you can send a message or request to talk to your tutors.
 
