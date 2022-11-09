@@ -65,6 +65,9 @@ You work out an expression from left to right in the order of BODMAS. Division a
 </iframe>
 
 ::: callout-note
+
+## Millions people got it wrong: 6:2(1+2) = ?
+
 A BODMAS problem 6:2(1+2) got viral on the internet. Read the news here
 
 <https://www.newsweek.com/this-viral-math-problem-has-internet-frenzy-1584710>
