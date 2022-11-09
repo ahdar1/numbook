@@ -1,4 +1,4 @@
-# Outline {.unnumbered}
+# Outline \[BETA VERSION\] {.unnumbered}
 
 ## Preface {.unnumbered}
 
