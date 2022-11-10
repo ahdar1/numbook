@@ -66,4 +66,13 @@ Write 76 to one significant figure (1 sf).
 
 4.  Write 695.3 to 2 sf.
 
+## Attempt the Exercises on Moodle
+At this point, you would have worked on the above exercise questions. 
 
+Now, I want you to attempt these questions on Moodle. 
+
+Please click the link below:
+
+[Week 6 Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012497)
+
+When you are done, you have completed this week's topic.  
