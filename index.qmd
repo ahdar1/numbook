@@ -56,7 +56,7 @@ The structure of the program can be seen below.
 
 ## Exercises and Week 9 Test on Moodle {.unnumbered}
 
-At the end of your journey (see flowchart), you must attempt the weekly exercises on Moodle. Direct links to the weekly exercises are given at the end of each page or alternatively you can log on Moodle and visit the course page. Once you submit all your answers, you have completed the weekly topic.
+At the end of your journey (see flowchart), you must attempt the weekly exercises on Moodle. Direct links to the weekly exercises are given at the end of each page or alternatively you can log onto Moodle and visit the course page. Once you submit all your answers, you have completed the weekly topic.
 
 ![Weekly Exercises and Week 9 Test On Moodle](images/moodle_exercises.png){#fig-modex fig-align="center" width="25%"}
 
