@@ -10,7 +10,7 @@ What is the answer to a multiplication problem called? `Product`
 
 2.  What is the answer to a division problem called? `Quotient`
 
-3.  What is the answer to a addition problem called? `Sum`
+3.  What is the answer to an addition problem called? `Sum`
 
 4.  What is the answer to a subtraction problem called? `Difference`
 
