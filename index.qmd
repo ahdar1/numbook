@@ -54,6 +54,12 @@ The structure of the program can be seen below.
 |  8   |   8b    | Basic Marketing Math: Market Share and Growth |    tba    |
 |  9   |   All   |                     Test                      |    20     |
 
+## Weekly Exercises and Test on Moodle {.unnumbered}
+
+At the end of your journey (see flowchart), you must attempt the weekly exercises on Moodle. Direct links to the weekly exercises are given at the end of each page or alternatively you can log on Moodle and visit the course page. Once you submit all your answers, you have completed the weekly topic.
+
+![Weekly Exercises On Moodle](images/moodle_exercises.png){#fig-modex fig-align="center" width="25%"}
+
 ## Assessment {.unnumbered}
 
 Exam or test will take place on Moodle in the last workshop of week 9. The exam will last for 40 min for 20 questions. The pass mark is 40%. If you fail, you will have a chance to take a resit -- the fails will be contacted by a module leader. The test link on Moodle for week 9 test is `password protected`. Your tutor will reveal the password in the workshop.
