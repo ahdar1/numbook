@@ -32,10 +32,12 @@ editor: visual
 
 ### Exercises
 
+At this point, you would have worked on the above exercise questions.
+
+Now, I want you to attempt these questions on Moodle.
+
+Please click the link below:
 
 [Week 8 Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012499)
 
-When you are done, you have completed this week's topic.  
-
-
-
+After you submit all your answers on Moodle, you have completed this week's topic.
