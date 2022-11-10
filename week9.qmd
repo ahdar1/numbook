@@ -6,3 +6,5 @@ editor: visual
 This is an exam week for this module. The exam will last for 40 min on Moodle. Make sure you don't miss out your examinations as they are mandatory for completion of your module. The link on Moodle for week 9 test is password protected. Your tutor will reveal the password for you in your workshop.
 
 Now, go to Moodle, and click a link \`Week 9 Test\`
+
+or you can directly click this link [Week 9 Test](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012500)

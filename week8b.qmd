@@ -5,20 +5,37 @@ editor: visual
 
 ## Learning Goals
 
-* Understand market share
-* Understand market growth
+-   Understand market share
+-   Understand market growth
 
 ## Market Share
+
 ### Problem
+
 ### Watch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7XifAlvu7-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7XifAlvu7-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
 ### Exercises
 
 ## Market Growth
+
 ### Problem
+
 ### Watch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_EWR3EJ564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_EWR3EJ564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
 
 ### Exercises
+
+
+[Week 8 Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012499)
+
+When you are done, you have completed this week's topic.  
+
+
+
