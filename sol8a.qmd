@@ -1,0 +1,4 @@
+Solutions to weekly problems and exercises
+
+# Week 8a {.unnumbered}
+You sell a product with a price of £20 per unit. The variable cost of the product is £10 per unit. The fixed costs associated with the product is £20,000. How many products should you sell to make a target profit of £10,000?

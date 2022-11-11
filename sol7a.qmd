@@ -4,7 +4,6 @@ Solutions to weekly problems and exercises
 
 ### Percentages and Ratio {.unnumbered}
 
-
 Transform 3.6 into a percentage.
 
 1.  Transform 2.5 into a percentage.
