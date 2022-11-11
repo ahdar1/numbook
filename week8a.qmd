@@ -55,6 +55,10 @@ dat %>%
 
 ## Break-even analysis
 
+$Break-even \ quantity = \frac{Fixed \ cost}{Contribution}$
+
+$Contribution = Selling \ Price - Variable \ Cost$
+
 ![Break-even chart](images/bep.png){#fig-bep width="60%" fig-align="left"}
 
 
