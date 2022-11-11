@@ -11,21 +11,21 @@ Know how to calculate
 -   Break-even analysis
 -   Profitability ratios
 
-
 ## Fixed cost and variable cost
 
-Fixed costs are expenses that a firm must pay whatever amounts of products the firm sells. Examples of fixed cost are rent and advertising expenditure. 
+Fixed costs are expenses that a firm must pay whatever amounts of products the firm sells. Examples of fixed cost are rent and advertising expenditure.
 
 Variable costs are expenses that varies in relation to how many products the firm sells. Examples of variable costs are delivery costs, packaging costs.
 
 Total cost = Fixed Costs + Variable Costs $\times$ Outputs
 
-
 ### Problem
 
 ### Watch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E7qWYu0xJfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E7qWYu0xJfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
 
 ### Exercises
 
@@ -34,6 +34,7 @@ Look at the table below.
 Calculate total cost.
 
 <!--#\captionof{table}{}  -->
+
 ```{r balance, message=FALSE, warning=FALSE, echo=FALSE, include=TRUE}
 rm(list=ls())
 library(readxl)
@@ -52,22 +53,17 @@ dat %>%
 
 ```
 
-
 ## Break-even analysis
 
 $Break-even \ quantity = \frac{Fixed \ cost}{Contribution}$
 
 $Contribution = Selling \ Price - Variable \ Cost$
 
-![Break-even chart](images/bep.png){#fig-bep width="60%" fig-align="left"}
-
-
+![Break-even chart](images/bep.png){#fig-bep fig-align="center" width="60%"}
 
 ### Problem
+
 You sell a product with a price of £20 per unit. The variable cost of the product is £10 per unit. The fixed costs associated with the product is £20,000. How many products should you sell to achieve break-even?
-
-
-
 
 ### Watch
 
@@ -77,7 +73,7 @@ You sell a product with a price of £20 per unit. The variable cost of the produ
 
 ### Exercises
 
-A company’s variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £10, calculate the break-even quantity.
+A company's variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £10, calculate the break-even quantity.
 
 ## Profit
 
@@ -90,4 +86,3 @@ A company’s variable costs per product are £5. The daily fixed costs are £10
 </iframe>
 
 ### Exercises
-
