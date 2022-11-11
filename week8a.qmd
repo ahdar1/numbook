@@ -44,8 +44,9 @@ library(knitr)
 
 dat <-read_excel("/Users/ahmaddaryanto/OneDrive - Lancaster University/numbook/data/balance.xlsx")
 
-kable(dat, booktabs=TRUE) %>%
-  kable_styling(latex_options = "scale_down")
+dat %>%
+  kbl(caption = "Your Business (December)") %>%
+  kable_classic(full_width = F, html_font = "Cambria")
 
 ```
 
