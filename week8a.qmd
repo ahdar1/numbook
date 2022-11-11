@@ -14,11 +14,13 @@ Know how to calculate
 
 ## Fixed cost and variable cost
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E7qWYu0xJfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Total cost = Fixed Costs + Variable Costs $\times$ Output
 
 ### Problem
 
 ### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E7qWYu0xJfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Exercises
 
