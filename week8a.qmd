@@ -46,7 +46,8 @@ dat <-read_excel("/Users/ahmaddaryanto/OneDrive - Lancaster University/numbook/d
 
 dat %>%
   kbl(caption = "Your Business (December)") %>%
-  kable_classic(full_width = F, html_font = "Cambria")
+  kable_classic(full_width = F, html_font = "Cambria") %>%
+  row_spec(6, color = 'white', background = 'black') 
 
 ```
 
