@@ -7,15 +7,29 @@ editor: visual
 
 Know how to calculate
 
--   Break-Even Analysis
+-   Fixed cost and variable cost
+-   Break-Even analysis
 -   Profitability ratios
--   Operating profit and profit margin
--   Gross profit and gross profit margin
+
+
+## Fixed cost and variable cost
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E7qWYu0xJfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Problem
+
+### Watch
+
+### Exercises
 
 ## Break-Even Analysis
 
+![Break-even chart](images/bep.png){#fig-bep width="60%" fig-align="left"}
+
+
+
 ### Problem
-You sell a product with a price of £20 per unit. The variable cost of the product is £10 per unit. The fixed costs associated with the product is £20,000. How many products should you sell to make a target profit of £10,000?
+You sell a product with a price of £20 per unit. The variable cost of the product is £10 per unit. The fixed costs associated with the product is £20,000. How many products should you sell to achieve break-even?
 
 
 
@@ -27,6 +41,8 @@ You sell a product with a price of £20 per unit. The variable cost of the produ
 </iframe>
 
 ### Exercises
+
+A company’s variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £1, calculate the break-even quantity.
 
 ## Profit
 
@@ -40,26 +56,3 @@ You sell a product with a price of £20 per unit. The variable cost of the produ
 
 ### Exercises
 
-### Operating profit and profit margin
-
-### Problem
-
-### Watch
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iMI5GRVRBg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-### Exercises
-
-### Gross profit and gross profit margin
-
-### Problem
-
-### Watch
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e2DI6B7BWzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-### Exercises
