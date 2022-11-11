@@ -29,6 +29,27 @@ Total cost = Fixed Costs + Variable Costs $\times$ Outputs
 
 ### Exercises
 
+Look at the table below.
+
+Calculate total cost.
+
+<!--#\captionof{table}{}  -->
+```{r balance, message=FALSE, warning=FALSE, echo=FALSE, include=TRUE}
+rm(list=ls())
+library(readxl)
+library(knitr)
+library(kableExtra)
+library(knitr)
+
+
+dat <-read_excel("/Users/ahmaddaryanto/OneDrive - Lancaster University/numbook/data/balance.xlsx")
+
+kable(dat, booktabs=TRUE) %>%
+  kable_styling(latex_options = "scale_down")
+
+```
+
+
 ## Break-Even Analysis
 
 ![Break-even chart](images/bep.png){#fig-bep width="60%" fig-align="left"}
