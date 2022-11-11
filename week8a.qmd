@@ -14,7 +14,12 @@ Know how to calculate
 
 ## Fixed cost and variable cost
 
-Total cost = Fixed Costs + Variable Costs $\times$ Output
+Fixed costs are expenses that a firm must pay whatever amounts of products the firm sells. Examples of fixed cost are rent and advertising expenditure. 
+
+Variable costs are expenses that varies in relation to how many products the firm sells. Examples of variable costs are delivery costs, packaging costs.
+
+Total cost = Fixed Costs + Variable Costs $\times$ Outputs
+
 
 ### Problem
 
