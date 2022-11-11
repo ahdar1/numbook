@@ -73,7 +73,7 @@ You sell a product with a price of £20 per unit. The variable cost of the produ
 
 ### Exercises
 
-A company’s variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £1, calculate the break-even quantity.
+A company’s variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £10, calculate the break-even quantity.
 
 ## Profit
 
