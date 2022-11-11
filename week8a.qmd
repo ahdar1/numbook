@@ -51,7 +51,7 @@ dat %>%
 ```
 
 
-## Break-Even Analysis
+## Break-even analysis
 
 ![Break-even chart](images/bep.png){#fig-bep width="60%" fig-align="left"}
 
