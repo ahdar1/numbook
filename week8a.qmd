@@ -48,7 +48,7 @@ dat %>%
   kbl(caption = "Your Business (December)") %>%
   kable_classic(full_width = F, html_font = "Cambria") %>%
   row_spec(6, color = 'white', background = 'black') %>%
- add_footnote(c("Number in the last row is a count"), notation = "symbol")
+ add_footnote(c("Note: Number in the last row is a count"), notation = "symbol")
 
 ```
 
