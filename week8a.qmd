@@ -8,7 +8,7 @@ editor: visual
 Know how to calculate
 
 -   Fixed cost and variable cost
--   Break-Even analysis
+-   Break-even analysis
 -   Profitability ratios
 
 
