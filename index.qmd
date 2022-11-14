@@ -44,7 +44,7 @@ During the workshops, you must attempt the weekly exercises. If you cannot finis
 
 The structure of the program can be seen below.
 
-| Week | Section |                     Topic                     | Questions |
+| Week | Section |                     Topic                     | Exercises |
 |:----:|:-------:|:---------------------------------------------:|:---------:|
 |  5   |    5    |          Arithmetic of whole numbers          |    20     |
 |  6   |    6    |         Fraction and Decimal Numbers          |    10     |
