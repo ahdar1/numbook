@@ -21,6 +21,15 @@ Total cost = Fixed Costs + Variable Costs $\times$ Outputs
 
 ### Problem
 
+A digital advertising agency is specialized in designing ad campaigns on TikTok. The total cost of creating 4 ad campaigns is £20000, and the total cost of creating 2 ad campaign is £15000. Assuming that the fixed cost is constant within this range of activity, what is the variable cost per ad campaign?
+
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E7qWYu0xJfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+### Exercises
 
 Look at the table below.
 
@@ -45,14 +54,6 @@ dat %>%
  add_footnote(c("Note: Number in the last row is a count"), notation = "symbol")
 
 ```
-
-### Watch
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E7qWYu0xJfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-### Exercises
 
 
 ## Break-even analysis
