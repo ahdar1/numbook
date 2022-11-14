@@ -9,7 +9,6 @@ Know how to calculate
 
 -   Fixed cost and variable cost
 -   Break-even analysis
--   Profitability ratios
 
 ## Fixed cost and variable cost
 
@@ -80,14 +79,3 @@ You sell a product with a price of £20 per unit. The variable cost of the produ
 
 2. If you increase the selling price by 5%, calculate the new break-even quantity.
 
-## Profit
-
-### Problem
-
-### Watch
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ROqkmlVuXKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-### Exercises
