@@ -21,13 +21,6 @@ Total cost = Fixed Costs + Variable Costs $\times$ Outputs
 
 ### Problem
 
-### Watch
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E7qWYu0xJfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-### Exercises
 
 Look at the table below.
 
@@ -53,6 +46,15 @@ dat %>%
 
 ```
 
+### Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E7qWYu0xJfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+### Exercises
+
+
 ## Break-even analysis
 
 $Break-even \ quantity = \frac{Fixed \ cost}{Contribution}$
@@ -73,7 +75,9 @@ You sell a product with a price of £20 per unit. The variable cost of the produ
 
 ### Exercises
 
-A company's variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £10, calculate the break-even quantity.
+1. A company's variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £10, calculate the break-even quantity.
+
+2. If you increase the selling price by 5%, calculate the new break-even quantity.
 
 ## Profit
 
