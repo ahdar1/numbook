@@ -2,6 +2,10 @@
 
 ## Learning Goals
 
+- Know how to evaluate exponential expressions
+- Know how to write exponential expressions when multiplying or dividing with the same base.
+- Know how to find roots.
+
 ## Exponents
 
 ### Problems
