@@ -1,4 +1,4 @@
-# Outline {.unnumbered}
+# Module Outline {.unnumbered}
 
 ## Preface {.unnumbered}
 

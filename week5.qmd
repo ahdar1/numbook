@@ -15,6 +15,16 @@
 
 What is the answer to a multiplication problem called?
 
+Select the correct answer:
+
+a\. Product
+
+b\. Sum
+
+c\. Quotient
+
+d\. Difference
+
 ### Watch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IwW0GJWKH98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
