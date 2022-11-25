@@ -312,7 +312,7 @@
     "href": "week7b.html#exponents",
     "title": " MKTG100 Numeracy Skills",
     "section": "1.2 Exponents",
-    "text": "1.2 Exponents\n\n1.2.1 Problems\n\n\n1.2.2 Watch\n\n\n\n\n1.2.3 Exercises"
+    "text": "1.2 Exponents\nRules:\n\n\\(a^m \\times a^n = a^{m+n}\\)\n\\(\\frac{a^m}{a^n} = a^{m-n}\\)\n\\((a^m)^n=a^{mn}\\)\n\\(a^{-m}=\\frac{1}{a^{m}}\\)\n\n\n1.2.1 Problems\nSimply:\n\n\\(x^2 \\times x^3\\) = …\n\\(\\frac{3^5}{3^2}\\) = …\n\\((4^5)^2\\) = …\n\\(2^{-3}\\) = …\n\n\n\n1.2.2 Watch\n\n\n\n\n1.2.3 Exercises\nSimply:\n\n\\(z^3 \\times z^2\\) = …\n\\(\\frac{4^3}{4^2}\\) = …\n\\((5^2)^3\\) = …\n\\(3^{-2}\\) = …"
   },
   {
     "objectID": "week7b.html#exponent-and-roots",

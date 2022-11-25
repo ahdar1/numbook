@@ -8,7 +8,27 @@
 
 ## Exponents
 
+Rules:
+
+1. $a^m \times  a^n  = a^{m+n}$
+
+2. $\frac{a^m}{a^n}  = a^{m-n}$
+
+3. $(a^m)^n=a^{mn}$
+
+4.  $a^{-m}=\frac{1}{a^{m}}$
+
 ### Problems
+
+Simply:
+
+1. $x^2 \times x^3$ = ...
+
+2. $\frac{3^5}{3^2}$ = ...
+
+3. $(4^5)^2$ = ...
+
+4. $2^{-3}$ = ...
 
 ### Watch
 
@@ -17,6 +37,16 @@
 </iframe>
 
 ### Exercises
+
+Simply:
+
+1. $z^3 \times z^2$ = ...
+
+2. $\frac{4^3}{4^2}$ = ...
+
+3. $(5^2)^3$ = ...
+
+4. $3^{-2}$ = ...
 
 ## Exponent and Roots
 
