@@ -1,24 +1,24 @@
-# Week 7a {.unnumbered}
+# Week 7a  
 
-## Learning goals {.unnumbered}
+## Learning goals 
 
 -   Understand the meaning of percentages and ratio.
 -   Know how to perform calculation with percentages and ratio.
 -   Know how to calculate percentage changes.
 
-### Percentages and Ratio {.unnumbered}
+## Percentages and Ratio 
 
-### Problem {.unnumbered}
+### Problem 
 
 Transform 3.6 into a percentage.
 
-### Watch {.unnumbered}
+### Watch 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JeVSmq1Nrpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 
-### Exercises {.unnumbered} 
+### Exercises 
 
 1.  Transform 2.5 into a percentage.
 
@@ -26,20 +26,32 @@ Transform 3.6 into a percentage.
 
 3.  Calculate 11.4% of 100.
 
-## Calculating Percentages Changes {.unnumbered}
+## Calculating Percentages Changes 
 
-### Problem {.unnumbered}
+### Problem
 
 Last month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?
 
-### Watch {.unnumbered}
+### Watch 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QZs8y0Y_3Vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 
-### Exercises {.unnumbered}
+### Exercises 
 
 1.  Last month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage change in sale?
 
 2.  Yesterday there were 250 unique visitors clicking a website. Today, you found that there is a 5% increase in visit. How many clicks are there today?
+
+## Attempt the Exercises on Moodle
+
+At this point, you would have worked on the above exercise questions.
+
+Now, I want you to attempt these questions on Moodle.
+
+Please click the link below:
+
+[Week 7a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012497)
+
+Once you submit all your answers on Moodle, you complete your learning on this week's topic.
