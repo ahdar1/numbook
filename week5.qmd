@@ -11,6 +11,8 @@
 
 ## What Is Arithmetic?
 
+Arithmetic is a branch of mathematics that deals with numbers and their operations, which includes addition, subtraction, multiplication, and division.
+
 ### Problem
 
 What is the answer to a multiplication problem called?

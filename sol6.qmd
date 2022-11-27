@@ -4,7 +4,11 @@ Solutions to weekly problems and exercises
 
 ## 1.2 Fraction and Decimal Number {.unnumbered}
 
+**Problem**
+
 Express 0.142 as a proper fraction in its simplest form. $1\frac{3}{200}$
+
+**Exercises**
 
 1.  Express 0.015 as a proper fraction in its simplest form. $\frac{83}{250}$
 
@@ -20,7 +24,11 @@ Express 0.142 as a proper fraction in its simplest form. $1\frac{3}{200}$
 
 ## 1.3 Significant Figures {.unnumbered}
 
+**Problem**
+
 Write 76 to one significant figure (1 sf). `80`
+
+**Exercises**
 
 1.  Write 52 to one significant figure (3 sf). `52.0`
 

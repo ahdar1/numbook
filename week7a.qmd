@@ -42,16 +42,18 @@ Percentages \; changes &= \frac{Change \; between \; values}{Original \; value} 
 
 **Calculating new price**.
 
-A luxury bag costs £350. Now the price is increased by 4%. Calculate the new price.
+This year, your monthly rent is £750. Next year,the monthly rent is increased by 4%. Calculate the new rent.
 
-Answer: The resulting price is $(100 \% + 4 \%) \times £ 350 = 104 \% \times £350 = £364$
+Answer: The new rent is $(100 \% + 4 \%) \times £ 750 = 104 \% \times £750 = £780$
 
 
 
 ### Problem
 
 
-Last month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage increase in sale?
+- Last month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage increase in sale?
+
+- This year, your monthly rent is £750. Next year,the monthly rent is reduced by 5%. Calculate the new rent.
 
 
 ### Watch
