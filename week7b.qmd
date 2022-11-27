@@ -60,7 +60,7 @@ That is $\sqrt[4]{16}=16^\frac{1}{4}=2$. You can prove that $2 \times 2 \times 2
 
 ### Problems
 
-Evaluate $\sqrt[3]{16}$ (you can use your calculator or excel)
+Evaluate $\sqrt[3]{16}$ (you can use a scientific calculator or excel)
 
 ### Watch
 
