@@ -30,9 +30,9 @@ Simply:
 
 **Problem**
 
-Evaluate $\sqrt[3]{16}$ (you can use a scientific calculator or excel)
+Evaluate $\sqrt[3]{16}$ (you can use a scientific calculator or `Excel`)
 
-In Excel: `=16^(1/3)` = 2.52
+In `Excel`: `=16^(1/3)` = 2.52
 
 **Exercises**
 

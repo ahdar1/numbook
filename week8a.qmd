@@ -33,14 +33,17 @@ Look at the table below.
 
 Calculate total cost.
 
-
 ## Break-even analysis
 
 $Break-even \ quantity = \frac{Fixed \ cost}{Contribution}$
 
 $Contribution = Selling \ Price - Variable \ Cost$
 
-![Break-even chart](images/bep.png){#fig-bep fig-align="center" width="60%"}
+![Break-even chart](images/bep.png){fig-align="center" width="60%"}
+
+::: callout-tip
+When you calculate the break-even quantity, the number can be with decimals (e.g., 25.3 units). How would you handle the decimal? You can not sell 25.3 units. What you can do is to round the number up to the next whole number regardless of the decimals. In this example, the next whole number is 26. Thus, you must sell 26 units.
+:::
 
 ### Problem
 
@@ -69,4 +72,3 @@ Please click the link below:
 [Week 8a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012497)
 
 Once you submit all your answers on Moodle, you complete your learning on this week's topic.
-

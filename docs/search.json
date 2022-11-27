@@ -53,7 +53,7 @@
     "href": "week8a.html#break-even-analysis",
     "title": " MKTG100 Numeracy Skills",
     "section": "1.3 Break-even analysis",
-    "text": "1.3 Break-even analysis\n\\(Break-even \\ quantity = \\frac{Fixed \\ cost}{Contribution}\\)\n\\(Contribution = Selling \\ Price - Variable \\ Cost\\)\n\n\n\nFigure 1: Break-even chart\n\n\n\n1.3.1 Problem\nYou sell a product with a price of £20 per unit. The variable cost of the product is £10 per unit. The fixed costs associated with the product is £20,000. How many products should you sell to achieve break-even?\n\n\n1.3.2 Watch\n\n\n\n\n1.3.3 Exercises\n\nA company’s variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £10, calculate the break-even quantity.\nIf you increase the selling price by 5%, calculate the new break-even quantity."
+    "text": "1.3 Break-even analysis\n\\(Break-even \\ quantity = \\frac{Fixed \\ cost}{Contribution}\\)\n\\(Contribution = Selling \\ Price - Variable \\ Cost\\)\n\n\n\nBreak-even chart\n\n\n\n\n\n\n\n\nTip\n\n\n\nWhen you calculate the break-even quantity, the number can be with decimals (e.g., 25.3 units). How would you handle the decimal? You can not sell 25.3 units. What you can do is to round the number up to the next whole number regardless of the decimals. In this example, the next whole number is 26. Thus, you must sell 26 units.\n\n\n\n1.3.1 Problem\nYou sell a product with a price of £20 per unit. The variable cost of the product is £10 per unit. The fixed costs associated with the product is £20,000. How many products should you sell to achieve break-even?\n\n\n1.3.2 Watch\n\n\n\n\n1.3.3 Exercises\n\nA company’s variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £10, calculate the break-even quantity.\nIf you increase the selling price by 5%, calculate the new break-even quantity."
   },
   {
     "objectID": "week8a.html#attempt-the-exercises-on-moodle",
@@ -480,6 +480,6 @@
     "href": "sol7b.html#exponent-and-roots",
     "title": " MKTG100 Numeracy Skills",
     "section": "1.3 Exponent and Roots",
-    "text": "1.3 Exponent and Roots\nProblem\nEvaluate \\(\\sqrt[3]{16}\\) (you can use a scientific calculator or excel)\nIn Excel: =16^(1/3) = 2.52\nExercises\n\n\\(\\sqrt[3]{81}=4.327\\)\n\\(\\sqrt[4]{256}=4\\)\n\\(\\sqrt{81}=9\\)\n\\(\\sqrt[3]{216}=4\\)\n\\(\\sqrt[4]{625}=5\\)\n\\(\\sqrt[3]{15.63} = 2.5\\)"
+    "text": "1.3 Exponent and Roots\nProblem\nEvaluate \\(\\sqrt[3]{16}\\) (you can use a scientific calculator or Excel)\nIn Excel: =16^(1/3) = 2.52\nExercises\n\n\\(\\sqrt[3]{81}=4.327\\)\n\\(\\sqrt[4]{256}=4\\)\n\\(\\sqrt{81}=9\\)\n\\(\\sqrt[3]{216}=4\\)\n\\(\\sqrt[4]{625}=5\\)\n\\(\\sqrt[3]{15.63} = 2.5\\)"
   }
 ]
