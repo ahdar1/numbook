@@ -2,6 +2,8 @@ Solutions to weekly problems and exercises
 
 # Week 8a {.unnumbered}
 
+## 1.2. Fixed cost and variable cost {.unnumbered}
+
 **Problem**
 
 You sell a product with a price of £20 per unit. The variable cost of the product is £10 per unit. The fixed costs associated with the product is £20,000. How many products should you sell to achieve break-even?
@@ -12,6 +14,101 @@ $Break-even \ quantity = \frac{Fixed \ cost}{Contribution}$
 
 $Contribution = Selling \ Price - Variable \ Cost$
 
-$Break-even \ quantity = \frac{20000}{20-10}$ = `r 20000/10`
+$Break-even \ quantity = \frac{20000}{20-10}$ = 2000
 
 You must sell 2000 units to achieve break-even.
+
+**Exercise**
+
+Look at the table below.
+
+![](images/businesscosts.png){#fig-bep fig-align="center" width="60%"}
+
+Calculate total cost.
+
+Answer:
+
+![Total cost](images/totalcost.png){fig-align="center" width="100%"}
+
+## Break-even analysis {.unnumbered}
+
+**Problem**
+
+You sell a product with a price of £20 per unit. The variable cost of the product is £10 per unit. The fixed costs associated with the product is £20,000. How many products should you sell to achieve break-even?
+
+*Answer:*
+
+Fixed cost = £20000
+
+Selling price = £20
+
+Variable cost per product = £10
+
+\begin{align}
+
+Contribution &= Selling \; Price - Variable \; Cost \\
+
+&= £20 - £10 = £10
+
+\end{align}
+
+
+\begin{align}
+
+BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
+&= \frac{£20000}{£10} \\
+&= 2000
+
+\end{align}
+
+
+Thus, you should sell 2000 units.
+
+**Exercises**
+
+1.  A company's variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £10, calculate the break-even quantity.
+
+*Answer*
+
+\begin{align}
+
+Contribution &= Selling \; Price - Variable \; Cost \\
+
+&= £10 - £5 = £5
+
+\end{align}
+
+
+\begin{align}
+
+BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
+&= \frac{£100}{£5} \\
+&= 20
+
+\end{align}
+
+
+2.  If you increase the selling price by 5%, calculate the new break-even quantity.
+
+*Answer*
+
+New selling price = $105 \% \times £10 = 10.5$ 
+
+\begin{align}
+
+Contribution &= Selling \; Price - Variable \; Cost \\
+
+&= £10.5 - £5 = £5.5
+
+\end{align}
+
+
+\begin{align}
+
+BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
+&= \frac{£100}{£5.5} \\
+&= 18.18 
+
+\end{align}
+
+The BE quantity is 18.18. You may round up to avoid loss (rule: always round up to the next whole number). Thus,  you must sell at least 19 units.

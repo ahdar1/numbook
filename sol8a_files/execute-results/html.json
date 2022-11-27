@@ -1,0 +1,16 @@
+{
+  "hash": "b0e09b52fea617e2b8f05714a1d1a8ea",
+  "result": {
+    "markdown": "Solutions to weekly problems and exercises\n\n# Week 8a {.unnumbered}\n\n## 1.2. Fixed cost and variable cost {.unnumbered}\n\n**Problem**\n\nYou sell a product with a price of £20 per unit. The variable cost of the product is £10 per unit. The fixed costs associated with the product is £20,000. How many products should you sell to achieve break-even?\n\nAnswer:\n\n$Break-even \\ quantity = \\frac{Fixed \\ cost}{Contribution}$\n\n$Contribution = Selling \\ Price - Variable \\ Cost$\n\n$Break-even \\ quantity = \\frac{20000}{20-10}$ = 2000\n\nYou must sell 2000 units to achieve break-even.\n\n**Exercise**\n\nLook at the table below.\n\n![](images/businesscosts.png){#fig-bep fig-align=\"center\" width=\"60%\"}\n\nCalculate total cost.\n\nAnswer:\n\n![Total cost](images/totalcost.png){fig-align=\"center\" width=\"100%\"}\n\n## Break-even analysis {.unnumbered}\n\n**Problem**\n\nYou sell a product with a price of £20 per unit. The variable cost of the product is £10 per unit. The fixed costs associated with the product is £20,000. How many products should you sell to achieve break-even?\n\n*Answer:*\n\nFixed cost = £20000\n\nSelling price = £20\n\nVariable cost per product = £10\n\n\\begin{align}\n\nContribution &= Selling \\; Price - Variable \\; Cost \\\\\n\n&= £20 - £10 = £10\n\n\\end{align}\n\n\n\\begin{align}\n\nBE \\; quantity &= \\frac{Fixed \\ cost}{Contribution} \\\\\n&= \\frac{£20000}{£10} \\\\\n&= 2000\n\n\\end{align}\n\n\nThus, you should sell 2000 units.\n\n**Exercises**\n\n1.  A company's variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £10, calculate the break-even quantity.\n\n*Answer*\n\n\\begin{align}\n\nContribution &= Selling \\; Price - Variable \\; Cost \\\\\n\n&= £10 - £5 = £5\n\n\\end{align}\n\n\n\\begin{align}\n\nBE \\; quantity &= \\frac{Fixed \\ cost}{Contribution} \\\\\n&= \\frac{£100}{£5} \\\\\n&= 20\n\n\\end{align}\n\n\n2.  If you increase the selling price by 5%, calculate the new break-even quantity.\n",
+    "supporting": [
+      "sol8a_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
