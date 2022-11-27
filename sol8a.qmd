@@ -111,4 +111,4 @@ BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
 
 \end{align}
 
-The BE quantity is 18.18. You may round up to avoid loss (rule: always round up to the next whole number). Thus,  you must sell at least 19 units.
+The BE quantity is 18.18. You can not sell partial units. You may round up to the next whole number (if you round down, you will incur a profit loss). Thus,  you must sell at least 19 units.
