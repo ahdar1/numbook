@@ -28,15 +28,31 @@ Transform 3.6 into a percentage.
 
 ## Calculating Percentages Changes
 
-$Percentages \; changes = \frac{Change \; between \; values}{original \; value} \times 100 \%$
+\begin{align}
+
+Percentages \; changes &= \frac{Change \; between \; values}{Original \; value} \times 100 \% \\
+
+ &= \frac{New \; value - Original \; value}{Original \; value} \times 100 \%
+\end{align}
+
 
 * If the percentage change is positive, it is called the percentage increase.
 
 * If the percentage change is negative, it is called a percentage decrease.
 
+**Calculating new price**.
+
+A luxury bag costs £350. Now the price is increased by 4%. Calculate the new price.
+
+Answer: The resulting price is $(100 \% + 4 \%) \times £ 350 = 104 \% \times £350 = £364$
+
+
+
 ### Problem
 
+
 Last month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage increase in sale?
+
 
 ### Watch
 
