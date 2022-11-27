@@ -1,4 +1,4 @@
-# Week 7b
+# Week 7b: Exponents and Roots
 
 ## Learning Goals
 
@@ -48,7 +48,20 @@ Simply:
 
 4.  $3^{-2}$ = ...
 
-## Exponent and Roots
+## Attempt the Exercises on Moodle
+
+At this point, you would have worked on the above exercise questions.
+
+Now, I want you to attempt these questions on Moodle.
+
+Please click the link below:
+
+[Week 7a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012499)
+
+Once you submit all your answers on Moodle, you complete your learning on this week's topic.
+
+
+## Roots
 
 **Square roots**. 4 is called a square root of 16 because $4^2=16$. The symbol $\sqrt[2]{}$ or $\sqrt{}$ is used to represent square root. For example, $\sqrt{16}=4$. $\sqrt{16}$ can be written as $16^\frac{1}{2}$.
 

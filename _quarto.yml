@@ -29,7 +29,7 @@ website:
           - week7b.qmd
       - section: "Week 8"
         contents:
-          - week8a.qmd   
+          - week8a.qmd 
           - week8b.qmd 
       - week9.qmd
       - section: "Solutions"

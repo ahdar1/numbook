@@ -1,4 +1,4 @@
-# Week 7a
+# Week 7a: Percentages and ratio
 
 ## Learning goals
 
@@ -79,3 +79,5 @@ Please click the link below:
 [Week 7a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012497)
 
 Once you submit all your answers on Moodle, you complete your learning on this week's topic.
+
+

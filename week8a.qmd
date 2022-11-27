@@ -1,7 +1,4 @@
----
-title: "Week 8a"
-editor: visual
----
+# Week 8a: Business Cost and Break-Even Analysis
 
 ## Learning Goals
 
@@ -72,3 +69,4 @@ Please click the link below:
 [Week 8a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012497)
 
 Once you submit all your answers on Moodle, you complete your learning on this week's topic.
+
