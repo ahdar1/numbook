@@ -13,5 +13,3 @@ $Contribution = Selling \ Price - Variable \ Cost$
 $Break-even \ quantity = \frac{20000}{20-10}$ = `r 20000/10`
 
 You must sell 2000 units to achieve break-even.
-
-

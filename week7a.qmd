@@ -28,6 +28,8 @@ Transform 3.6 into a percentage.
 
 ## Calculating Percentages Changes
 
+$Percentages \; changes = \frac{Change \; between \; values}{original \; value} \times 100 \%$
+
 ### Problem
 
 Last month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?

@@ -277,7 +277,7 @@
     "href": "week7a.html#calculating-percentages-changes",
     "title": " MKTG100 Numeracy Skills",
     "section": "1.3 Calculating Percentages Changes",
-    "text": "1.3 Calculating Percentages Changes\n\n1.3.1 Problem\nLast month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?\n\n\n1.3.2 Watch\n\n\n\n\n1.3.3 Exercises\n\nLast month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage reduction in sale?\nYesterday there were 250 unique visitors clicking a website. Today, you found that there is a 10% increase in visit. How many clicks are there today?"
+    "text": "1.3 Calculating Percentages Changes\n\\(Percentages \\; changes = \\frac{Change \\; between \\; values}{original \\; value} \\times 100 \\%\\)\n\n1.3.1 Problem\nLast month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?\n\n\n1.3.2 Watch\n\n\n\n\n1.3.3 Exercises\n\nLast month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage decrease in sale?\nYesterday there were 250 unique visitors clicking a website. Today, you found that there is a 10% increase in visit. How many clicks are there today?"
   },
   {
     "objectID": "week7a.html#attempt-the-exercises-on-moodle",
@@ -431,7 +431,7 @@
     "href": "sol7a.html#calculating-percentages-changes",
     "title": " MKTG100 Numeracy Skills",
     "section": "1.3 Calculating Percentages Changes",
-    "text": "1.3 Calculating Percentages Changes\nLast month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?\n\\(\\frac{420-250}{250} \\times 100 \\% =\\frac{170}{250} \\times 100 \\% =68 \\%\\)\n\nLast month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage reduction in sale?\n\n\\(\\frac{100-250}{250} \\times 100 \\% =\\frac{150}{250} \\times 100 \\% = -0.6 \\ 100% = -60 \\%\\). In an absolute term, the percentage reduction is 60%.\n\nYesterday there were 250 unique visitors clicking a website. Today, you found that there is a 10% increase in visit. How many clicks are there today?\n\n\\(110 \\% \\times 250 = 275\\)"
+    "text": "1.3 Calculating Percentages Changes\nLast month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?\n\\(\\frac{420-250}{250} \\times 100 \\% =\\frac{170}{250} \\times 100 \\% =68 \\%\\)\n\nLast month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage decrease in sale?\n\n\\(\\frac{100-250}{250} \\times 100 \\% =\\frac{150}{250} \\times 100 \\% = -0.6 \\ 100% = -60 \\%\\). In an absolute term, the percentage reduction is 60%.\n\nYesterday there were 250 unique visitors clicking a website. Today, you found that there is a 10% increase in visit. How many clicks are there today?\n\n\\(110 \\% \\times 250 = 275\\)"
   },
   {
     "objectID": "references.html",
