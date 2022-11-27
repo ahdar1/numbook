@@ -40,7 +40,7 @@ Last month, 250 consumers bought a new smartphone. This month, the number is 420
 
 ### Exercises
 
-1.  Last month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage reduction in sale?
+1.  Last month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage decrease in sale?
 
 2.  Yesterday there were 250 unique visitors clicking a website. Today, you found that there is a 10% increase in visit. How many clicks are there today?
 

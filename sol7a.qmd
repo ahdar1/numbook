@@ -22,7 +22,7 @@ Last month, 250 consumers bought a new smartphone. This month, the number is 420
 
 $\frac{420-250}{250} \times 100 \% =\frac{170}{250} \times 100 \% =68 \%$
 
-1.  Last month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage reduction in sale?
+1.  Last month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage decrease in sale?
 
 $\frac{100-250}{250} \times 100 \% =\frac{150}{250} \times 100 \% = -0.6 \ 100% = -60 \%$. In an absolute term, the percentage reduction is 60%. 
 
