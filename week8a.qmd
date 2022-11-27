@@ -32,27 +32,9 @@ A digital advertising agency is specialized in designing ad campaigns on TikTok.
 
 Look at the table below.
 
+![](images/businesscosts.png){#fig-bep fig-align="center" width="60%"}
+
 Calculate total cost.
-
-<!--#\captionof{table}{}  -->
-
-```{r balance, message=FALSE, warning=FALSE, echo=FALSE, include=TRUE}
-rm(list=ls())
-library(readxl)
-library(knitr)
-library(kableExtra)
-library(knitr)
-
-
-dat <-read_excel("/Users/ahmaddaryanto/OneDrive - Lancaster University/numbook/data/balance.xlsx")
-
-dat %>%
-  kbl(caption = "Your Business (December)") %>%
-  kable_classic(full_width = F, html_font = "Cambria") %>%
-  row_spec(6, color = 'white', background = 'black') %>%
- add_footnote(c("Note: Number in the last row is a count"), notation = "symbol")
-
-```
 
 
 ## Break-even analysis
@@ -75,9 +57,9 @@ You sell a product with a price of £20 per unit. The variable cost of the produ
 
 ### Exercises
 
-1. A company's variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £10, calculate the break-even quantity.
+1.  A company's variable costs per product are £5. The daily fixed costs are £100. If the product is sold at £10, calculate the break-even quantity.
 
-2. If you increase the selling price by 5%, calculate the new break-even quantity.
+2.  If you increase the selling price by 5%, calculate the new break-even quantity.
 
 ## Attempt the Exercises on Moodle
 
@@ -90,5 +72,3 @@ Please click the link below:
 [Week 8a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012497)
 
 Once you submit all your answers on Moodle, you complete your learning on this week's topic.
-
-

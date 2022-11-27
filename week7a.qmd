@@ -1,24 +1,24 @@
-# Week 7a  
+# Week 7a
 
-## Learning goals 
+## Learning goals
 
 -   Understand the meaning of percentages and ratio.
 -   Know how to perform calculation with percentages and ratio.
 -   Know how to calculate percentage changes.
 
-## Percentages and Ratio 
+## Percentages and Ratio
 
-### Problem 
+### Problem
 
 Transform 3.6 into a percentage.
 
-### Watch 
+### Watch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JeVSmq1Nrpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 
-### Exercises 
+### Exercises
 
 1.  Transform 2.5 into a percentage.
 
@@ -26,23 +26,23 @@ Transform 3.6 into a percentage.
 
 3.  Calculate 11.4% of 100.
 
-## Calculating Percentages Changes 
+## Calculating Percentages Changes
 
 ### Problem
 
 Last month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage change in sale?
 
-### Watch 
+### Watch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QZs8y0Y_3Vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 
-### Exercises 
+### Exercises
 
-1.  Last month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage change in sale?
+1.  Last month, 250 consumers bought a new smartphone. This month, the number is down to 100. What is the percentage reduction in sale?
 
-2.  Yesterday there were 250 unique visitors clicking a website. Today, you found that there is a 5% increase in visit. How many clicks are there today?
+2.  Yesterday there were 250 unique visitors clicking a website. Today, you found that there is a 10% increase in visit. How many clicks are there today?
 
 ## Attempt the Exercises on Moodle
 
