@@ -73,9 +73,9 @@ Significant means important. If I want you to report a number with 2 significant
 
 Significant figures of a number relates to how we want to express the accuracy of the number. To decide how many significant figures we want to report, we count at the first non-zero digit. All the zeros **after the decimal point** that are on the right of the last non-zero digit are considered to be significant. For example, 0.05670 contains four significant digits; 8150 contains four significant figures.
 
-![0.05670 contains four significant figures](images/sif1.png){#fig-sif1 width="50%" fig-align="left"}
+![0.05670 contains four significant figures](images/sif1.png){#fig-sif1 width="40%" fig-align="left"}
 
-![8150 contains four significant figures](images/sif2.png){#fig-sif2 width="50%" fig-align="left"}
+![8150 contains four significant figures](images/sif2.png){#fig-sif2 width="40%" fig-align="left"}
 
 
 ### Problem

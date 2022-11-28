@@ -1,4 +1,4 @@
-# Week 5: Arithmetic
+# Week 5: Arithmetic 
 
 ## Learning Goals
 
