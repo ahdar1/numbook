@@ -28,7 +28,7 @@ Decimal means a number based on 10. The word comes from Latin decima: a tenth pa
 
 ::: callout-warning
 
-In the UK system, the decimal point is denoted by a `dot`. In many countries, the decimal point is denoted by a comma!
+In the UK system, the decimal point is denoted by a `dot`. In other countries, the decimal point is denoted by a comma!
 
 :::
 ### Problem
