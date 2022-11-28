@@ -8,7 +8,7 @@
 
 ## Fraction and Decimal Number
 
-### Fraction
+**Fraction**
 
 $\frac{1}{2}$ and $\frac{4}{3}$ are fractions. The top number in a fraction is called `numerator`, and the bottom number is called `denominator`. $\frac{1}{2}$ is a proper fraction.
 
@@ -22,9 +22,9 @@ $\frac{4}{3}$ is not a proper fraction. We write $\frac{4}{3}$ as $1 \frac{1}{3}
 
 $\frac{2}{4}$ is a proper fraction because its numerator is less than the denominator. However, $\frac{2}{4}$ is not in its simplest form because it can be simplified as $\frac{1}{2}$.
 
-### Decimal
+**Decimal**
 
-Decimal means a number based on 10. The word comes from Latin decima: a tenth part. 56.8 has 5 tens, 6 ones and 8 tenths. The dot is a decimal point. 
+Decimal means a number based on 10. The word comes from Latin decima: a tenth part. 56.8 has 5 tens, 6 ones and 8 tenths. 
 
 ::: callout-warning
 
