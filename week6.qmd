@@ -58,6 +58,11 @@ Express 0.142 as a proper fraction in its simplest form.
 
 ## Significant Figures
 
+Significant figures of a number relates to how we want to express the accuracy of the number. To decide how many significant figures we want to report, we count at the first non-zero digit. All the zeros **after the decimal point** that are on the right of the last non-zero digit are considered to be significant. For example, 0.05670 contains four significant digits.
+
+![0.05670 contains four significant figures](images/sif1.png){#fig-lvdiagram1 width="50%" fig-align="left"}
+
+
 ### Problem
 
 Write 76 to one significant figure (1 sf).
@@ -70,7 +75,7 @@ Write 76 to one significant figure (1 sf).
 
 ### Exercises
 
-1.  Write 52 to one significant figure (3 sf).
+1.  Write 52 to three significant figure (3 sf).
 
 2.  Write 35.572 to 3 sf.
 

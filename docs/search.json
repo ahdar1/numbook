@@ -333,7 +333,7 @@
     "href": "week6.html#significant-figures",
     "title": " MKTG100 Numeracy Skills",
     "section": "1.3 Significant Figures",
-    "text": "1.3 Significant Figures\n\n1.3.1 Problem\nWrite 76 to one significant figure (1 sf).\n\n\n1.3.2 Watch\n\n\n\n\n1.3.3 Exercises\n\nWrite 52 to one significant figure (3 sf).\nWrite 35.572 to 3 sf.\nWrite 0.0473 to 1 sf.\nWrite 695.3 to 2 sf."
+    "text": "1.3 Significant Figures\nSignificant figures of a number relates to how we want to express the accuracy of the number. To decide how many significant figures we want to report, we count at the first non-zero digit. All the zeros after the decimal point that are on the right of the last non-zero digit are considered to be significant. For example, 0.05670 contains four significant digits.\n\n\n\nFigure 1: 0.05670 contains four significant figures\n\n\n\n1.3.1 Problem\nWrite 76 to one significant figure (1 sf).\n\n\n1.3.2 Watch\n\n\n\n\n1.3.3 Exercises\n\nWrite 52 to three significant figure (3 sf).\nWrite 35.572 to 3 sf.\nWrite 0.0473 to 1 sf.\nWrite 695.3 to 2 sf."
   },
   {
     "objectID": "week6.html#attempt-the-exercises-on-moodle",

@@ -30,7 +30,7 @@ Write 76 to one significant figure (1 sf). `80`
 
 **Exercises**
 
-1.  Write 52 to one significant figure (3 sf). `52.0`
+1.  Write 52 to three significant figure (3 sf). `52.0`
 
 2.  Write 35.572 to 3 sf. `35.6`
 
