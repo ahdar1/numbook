@@ -18,7 +18,7 @@ A proper fraction is a fraction in which the numerator is less than the denomina
 
 
 
-$\frac{4}{3}$ is not a proper fraction. We write $\frac{4}{3}$ as $1 \frac{1}{3}$. The latter is a mixed fraction. A mixed fraction is a mix of a whole number and a proper fraction.
+$\frac{4}{3}$ is not a proper fraction. We can write $\frac{4}{3}$ as $1 \frac{1}{3}$. The latter is a mixed fraction. A mixed fraction is a mix of a whole number and a proper fraction.
 
 $\frac{2}{4}$ is a proper fraction because its numerator is less than the denominator. However, $\frac{2}{4}$ is not in its simplest form because it can be simplified as $\frac{1}{2}$.
 
@@ -73,9 +73,9 @@ Significant means important. If I want you to report a number with 2 significant
 
 Significant figures of a number relates to how we want to express the accuracy of the number. To decide how many significant figures we want to report, we count at the first non-zero digit. All the zeros **after the decimal point** that are on the right of the last non-zero digit are considered to be significant. For example, 0.05670 contains four significant digits; 8150 contains four significant figures.
 
-![0.05670 contains four significant figures](images/sif1.png){#fig-sif1 width="50%" fig-align="left"}
+![0.05670 contains four significant figures](images/sif1.png){#fig-sif1 width="40%" fig-align="center"}
 
-![8150 contains four significant figures](images/sif2.png){#fig-sif2 width="50%" fig-align="left"}
+![8150 contains four significant figures](images/sif2.png){#fig-sif2 width="30%" fig-align="center"}
 
 
 ### Problem
