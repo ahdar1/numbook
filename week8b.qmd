@@ -39,6 +39,7 @@ The statement can be interpreted as follows:
 2.2. Facebook has a substantial base of satisfied and loyal customers/users (**TRUE or FALSE?**).
 
 
+
 ## Attempt the Exercises on Moodle
 
 At this point, you would have worked on the above exercise questions.
@@ -46,8 +47,6 @@ At this point, you would have worked on the above exercise questions.
 Now, I want you to attempt these questions on Moodle.
 
 Please click the link below:
-
-## Attempt the Exercises on Moodle
 
 [Week 8b Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012499)
 
