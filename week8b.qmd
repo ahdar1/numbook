@@ -1,15 +1,20 @@
 
-# Week 8b: Market Share and Market Growth
+# Week 8b: Market Share 
 
 
 ## Learning Goals
 
 -   Understand market share
--   Understand market growth
 
 ## Market Share
 
+Market share of a firm is the firm's market share of the served market. Market share is one of the determinants how profitable a business is. A firm that has a high market share is more likely to be profitable than their smaller-share competitors. Market share can be calculated based on sales: the percentage of firm's sales obtained by the firm:
+
+Market Share (%) = (Firm's Sales / Total Market Sales) × 100
+
 ### Problem
+
+Firm A and Firm B are two companies competing in the luxury car market. Firm A sold 330k units last year, while Firm B sold 440k units in the same period. Calculate the market share of each company based on the given sales figures.
 
 ### Watch
 
@@ -19,30 +24,20 @@
 
 ### Exercises
 
-## Attempt the Exercises on Moodle
 
-At this point, you would have worked on the above exercise questions.
-
-Now, I want you to attempt these questions on Moodle.
-
-Please click the link below:
-
-[Week 8a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012499)
-
-Once you submit all your answers on Moodle, you complete your learning on this week's topic.
+1. In the leather jacket market, two companies are the main players in the market that fiercely compete to each other. Company X reported GBP 120 million in sales last year, while Company Y reported GBP 80 million. Calculate the market share based on the sales revenue. 
 
 
-## Market Growth
+Now, imagine that Company X launches a new marketing campaign that increases its sales to $140 million this year, while Company Y's sales remain the same. Calculate the new market shares for both companies.
 
-### Problem
+2. Read this statement: "In June 2023, Facebook’s market share reached 55 percent in the United Kingdom..." ([www.statista.com](https://www.statista.com/statistics/280301/market-share-held-by-facebook-in-the-united-kingdom-uk/))
 
-### Watch
+The statement can be interpreted as follows: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_EWR3EJ564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+2.1. Facebook is more popular that its competitors in the UK (**TRUE or FALSE?**).
 
-</iframe>
+2.2. Facebook has a substantial base of satisfied and loyal customers/users (**TRUE or FALSE?**).
 
-### Exercises
 
 ## Attempt the Exercises on Moodle
 
@@ -51,7 +46,9 @@ At this point, you would have worked on the above exercise questions.
 Now, I want you to attempt these questions on Moodle.
 
 Please click the link below:
+
+## Attempt the Exercises on Moodle
 
 [Week 8b Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012499)
 
-Once you submit all your answers on Moodle, you complete your learning on this week's topic.
+Once you submit all your answers on Moodle, you have completed your learning on this week's topic.

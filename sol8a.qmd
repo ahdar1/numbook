@@ -44,6 +44,7 @@ Selling price = £20
 
 Variable cost per product = £10
 
+```{=tex}
 \begin{align}
 
 Contribution &= Selling \; Price - Variable \; Cost \\
@@ -51,8 +52,8 @@ Contribution &= Selling \; Price - Variable \; Cost \\
 &= £20 - £10 = £10
 
 \end{align}
-
-
+```
+```{=tex}
 \begin{align}
 
 BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
@@ -60,8 +61,7 @@ BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
 &= 2000
 
 \end{align}
-
-
+```
 Thus, you should sell 2000 units.
 
 **Exercises**
@@ -70,6 +70,7 @@ Thus, you should sell 2000 units.
 
 *Answer*
 
+```{=tex}
 \begin{align}
 
 Contribution &= Selling \; Price - Variable \; Cost \\
@@ -77,8 +78,8 @@ Contribution &= Selling \; Price - Variable \; Cost \\
 &= £10 - £5 = £5
 
 \end{align}
-
-
+```
+```{=tex}
 \begin{align}
 
 BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
@@ -86,14 +87,14 @@ BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
 &= 20
 
 \end{align}
-
-
+```
 2.  If you increase the selling price by 5%, calculate the new break-even quantity.
 
 *Answer*
 
-New selling price = $105 \% \times £10 = 10.5$ 
+New selling price = $105 \% \times £10 = 10.5$
 
+```{=tex}
 \begin{align}
 
 Contribution &= Selling \; Price - Variable \; Cost \\
@@ -101,8 +102,8 @@ Contribution &= Selling \; Price - Variable \; Cost \\
 &= £10.5 - £5 = £5.5
 
 \end{align}
-
-
+```
+```{=tex}
 \begin{align}
 
 BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
@@ -110,5 +111,5 @@ BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
 &= 18.18 
 
 \end{align}
-
-The BE quantity is 18.18. You can not sell partial units. You may round up to the next whole number (if you round down, you will incur a profit loss). Thus,  you must sell at least 19 units.
+```
+The BE quantity is 18.18. You can not sell partial units. You may round up to the next whole number (if you round down, you will incur a profit loss). Thus, you must sell at least 19 units.

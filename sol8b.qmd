@@ -1,0 +1,49 @@
+Solutions to weekly problems and exercises
+
+# Week 8b {.unnumbered}
+
+## 1.2. Market Share {.unnumbered}
+
+**Problem**
+
+
+
+Answer:
+
+Market Share (%) = (Firm's Sales / Total Market Sales) × 100
+
+Total Market Share = 330k + 440k = 770k
+
+Firm A's market share = $\frac{330k}{770k}$ x 100 = 43.87 % (2dp) 
+
+Firm B's market share = $\frac{440k}{770k}$ x 100 = 47.14 % (2dp). 
+
+Firm A's market share and Firm's B market share should make 100%. However, because of the decimal places involve, the two numbers did not add to 100%. Alternatively, as there are only two firms involved, you can find the market share of the other firm by: 100 % - market share's of the other firm.
+
+
+**Exercise**
+
+1. In the leather jacket market, two companies are the main players in the market that fiercely compete to each other. Company X reported GBP 120 million in sales last year, while Company Y reported GBP 80 million. Calculate the market share based on the sales revenue. 
+
+Total revenues = 120 + 80 = 200 million
+
+**Answer**: 
+
+Company X's market share = $\frac{120k}{200k}$ x 100 = 60 %  
+Company Y's market share = 100-60 = 40 % 
+
+Now, imagine that Company X launches a new marketing campaign that increases its sales to $140 million this year, while Company Y's sales remain the same. Calculate the new market shares for both companies.
+
+Total revenues = 140 + 80 = 220 million
+
+Company X's market share = $\frac{140k}{200k}$ x 100 = 63.6 %  
+Company Y's market share = 1-63.6 = 36.4 % 
+
+2. Read this statement: "In June 2023, Facebook’s market share reached 55 percent in the United Kingdom". ([www.statista.com](https://www.statista.com/statistics/280301/market-share-held-by-facebook-in-the-united-kingdom-uk/))
+
+The statement can be interpreted as follows:
+
+2.1. Facebook is more popular that its competitors in the UK (**TRUE**).
+
+2.2. 2.2. Facebook has a substantial base of satisfied and loyal customers/users (**TRUE**). 
+

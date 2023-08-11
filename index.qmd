@@ -51,7 +51,7 @@ The structure of the program can be seen below.
 |  7   |   7a    |                Percentage and Ratio                 |    tba    |
 |  7   |   7b    |                 Exponents and Roots                 |    tba    |
 |  8   |   8a    | Basic Marketing Math: Business Costs and Break-Even |    tba    |
-|  8   |   8b    |    Basic Marketing Math: Market Share and Growth    |    tba    |
+|  8   |   8b    |    Basic Marketing Math: Market Share               |    tba    |
 |  9   |   All   |                        Test                         |    20     |
 
 ## Exercises and Week 9 Test on Moodle {.unnumbered}
@@ -68,8 +68,8 @@ Make sure you don't miss out your examinations as they are mandatory for complet
 
 ## Textbook {.unnumbered}
 
-No textbook is needed. But if you want to buy a book, I recommend @Dar2020. This is a compilation book whereby its chapters are taken from @Croft2006 and @Berenson2012. The book had been used as a textbook of the module in previous years. It also contains chapters on basic statistics covered in MKTG200 Basic Statistics, which you will take in your second year. Several copies of the book are available in the library.
+**A textbook is not needed**. The information in this site is meant to be sufficient. But if you really want to buy a book, I recommend @Dar2020. This is a compilation book whereby its chapters are taken from @Croft2006 and @Berenson2012. The book had been used as a textbook of the module in previous years. It also contains chapters on basic statistics covered in MKTG200 Basic Statistics, which you will take in your second year. Several copies of the book are available in the library.
 
 ## Excel {.unnumbered}
 
-I assume you know how to use `Excel` to calculate a basic mathematical operation e.g., 1+1. To answer certain problems in this manual, I provide `Excel` commands. This is a nice tool to use but also dangerous. Without an understanding, the use of `Excel` can put you in the dark forever. Make sure you understand how to solve the problems manually before using `Excel`.
+I assume you know how to use `Excel` to calculate a basic mathematical operation e.g., 1+1. To answer certain problems in this manual, I provide `Excel` commands. This is a nice tool to use but also dangerous. Without an understanding, the use of `Excel` can put you in the dark forever. Make sure you understand how to manually solve the weekly problems/exercises before resorting to `Excel`.

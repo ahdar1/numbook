@@ -1,4 +1,4 @@
-# Week 5: Arithmetic 
+# Week 5: Arithmetic
 
 ## Learning Goals
 
@@ -220,4 +220,4 @@ Please click the link below:
 
 [Week 5 Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012123)
 
-Once you submit all your answers on Moodle, you complete your learning on this week's topic.
+Once you submit all your answers on Moodle, you have completed your learning on this week's topic.
