@@ -12,11 +12,9 @@
 
 $\frac{1}{2}$ and $\frac{4}{3}$ are fractions. The top number in a fraction is called `numerator`, and the bottom number is called `denominator`. $\frac{1}{2}$ is a proper fraction.
 
-::: callout-important 
-A proper fraction is a fraction in which the numerator is less than the denominator. 
+::: callout-important
+A proper fraction is a fraction in which the numerator is less than the denominator.
 :::
-
-
 
 $\frac{4}{3}$ is not a proper fraction. We can write $\frac{4}{3}$ as $1 \frac{1}{3}$. The latter is a mixed fraction. A mixed fraction is a mix of a whole number and a proper fraction.
 
@@ -24,13 +22,12 @@ $\frac{2}{4}$ is a proper fraction because its numerator is less than the denomi
 
 **Decimal**
 
-Decimal means a number based on 10. The word comes from Latin decima: a tenth part. 56.8 has 5 tens, 6 ones and 8 tenths. 
+Decimal means a number based on 10. The word comes from Latin decima: a tenth part. 56.8 has 5 tens, 6 ones and 8 tenths.
 
 ::: callout-warning
-
 In the UK system, the decimal point is denoted by a `dot`. In other countries, the decimal point is denoted by a comma!
-
 :::
+
 ### Problem
 
 Express 0.142 as a proper fraction in its simplest form.
@@ -61,7 +58,7 @@ Express 0.142 as a proper fraction in its simplest form.
 
 3.  Write $\frac{1}{100}+\frac{5}{1000}$ as a decimal number.
 
-4.  Round 24.362 to 3 decimal places (3 dp).
+4.  Round 24.362 to 1 decimal places (1 dp).
 
 5.  Round 0.0452 to 2 dp.
 
@@ -69,14 +66,13 @@ Express 0.142 as a proper fraction in its simplest form.
 
 ## Significant Figures
 
-Significant means important. If I want you to report a number with 2 significant figures, it means the two digits in the number are important. 
+Significant means important. If I want you to report a number with 2 significant figures, it means the two digits in the number are important.
 
 Significant figures of a number relates to how we want to express the accuracy of the number. To decide how many significant figures we want to report, we count at the first non-zero digit. All the zeros **after the decimal point** that are on the right of the last non-zero digit are considered to be significant. For example, 0.05670 contains four significant digits; 8150 contains four significant figures.
 
 ![0.05670 contains four significant figures](images/sif1.png){#fig-sif1 width="40%" fig-align="center"}
 
 ![8150 contains four significant figures](images/sif2.png){#fig-sif2 width="30%" fig-align="center"}
-
 
 ### Problem
 

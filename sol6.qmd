@@ -16,7 +16,7 @@ Express 0.142 as a proper fraction in its simplest form. $1\frac{3}{200}$
 
 3.  Write $\frac{1}{100}+\frac{5}{1000}$ as a decimal number. `0.015`
 
-4.  Round 24.362 to 3 decimal places (3 dp). `24.4`
+4.  Round 24.362 to 1 decimal place (1 dp). `24.4`
 
 5.  Round 0.0452 to 2 dp. `0.05`
 
