@@ -17,7 +17,7 @@ Total cost = Fixed Costs + Variable Costs $\times$ Outputs
 
 ### Problem
 
-You sell a product with a price of £20 per unit. The variable cost of the product is £10 per unit. The fixed costs associated with the product is £20,000. How many products should you sell to achieve break-even?
+The cost of making a one unit of a product is £40. What is the cost to make 20 units?
 
 ### Watch
 
@@ -69,6 +69,6 @@ Now, I want you to attempt these questions on Moodle.
 
 Please click the link below:
 
-[Week 8a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012497)
+[Week 8a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012499)
 
 Once you submit all your answers on Moodle, you complete your learning on this week's topic.

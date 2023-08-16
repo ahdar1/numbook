@@ -1,7 +1,14 @@
 # Week 9 Test
 
-This is an exam week for this module. The exam will last for 40 min on Moodle. Make sure you don't miss out your examinations as they are mandatory for the completion of your module. The link on Moodle for week 9 test is password protected. Your tutor will reveal the password for you in your workshop.
+This is an exam week for this module. The exam will last for 40 min on Moodle. There are 20 questions on the tests each worth 1 point. The pass mark is 8 points (40%). The pass mark is quite low given the level of the questions. Therefore, I don't expect to see fails on this test unless you have never attempted any of the weekly problems/exercises. Furthermore the test contain questions of the weekly test questions.
 
-Now, go to Moodle, and click a link \`Week 9 Test\`
+:::callout-important
+Make sure you don't miss out your examinations as they are mandatory for the completion of your module.
+:::
 
-or you can directly click this link [Week 9 Test](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012500)
+The link on Moodle for week 9 test is **password protected**. Your tutor will reveal the password for you in your workshop.
+
+
+Now, go to Moodle, and click the link \`Week 9 Test\`
+
+Alternatively, if you are connected to the internet campus, you can directly click this link [Week 9 Test](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012500)

@@ -28,17 +28,17 @@ Transform 3.6 into a percentage.
 
 ## Calculating Percentages Changes
 
+```{=tex}
 \begin{align}
 
 Percentages \; changes &= \frac{Change \; between \; values}{Original \; value} \times 100 \% \\
 
  &= \frac{New \; value - Original \; value}{Original \; value} \times 100 \%
 \end{align}
+```
+-   If the percentage change is positive, it is called the percentage increase.
 
-
-* If the percentage change is positive, it is called the percentage increase.
-
-* If the percentage change is negative, it is called a percentage decrease.
+-   If the percentage change is negative, it is called a percentage decrease.
 
 **Calculating new price**.
 
@@ -46,15 +46,11 @@ This year, your monthly rent is £750. Next year, the monthly rent is increased 
 
 Answer: The new rent is $(100 \% + 4 \%) \times £ 750 = 104 \% \times £750 = £780$
 
-
-
 ### Problem
 
+-   Last month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage increase in sale?
 
-- Last month, 250 consumers bought a new smartphone. This month, the number is 420. What is the percentage increase in sale?
-
-- This year, your monthly rent is £750. Next year, the monthly rent is reduced by 5%. Calculate the new rent.
-
+-   This year, your monthly rent is £750. Next year, the monthly rent is reduced by 5%. Calculate the new rent.
 
 ### Watch
 
@@ -76,8 +72,7 @@ Now, I want you to attempt these questions on Moodle.
 
 Please click the link below:
 
-[Week 7a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012497)
+[Week 7a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2012498)
 
 Once you submit all your answers on Moodle, you complete your learning on this week's topic.
-
 
