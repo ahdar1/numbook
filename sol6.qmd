@@ -10,7 +10,7 @@ Express 0.142 as a proper fraction in its simplest form. $1\frac{3}{200}$
 
 **Exercises**
 
-1.  Express 0.015 as a proper fraction in its simplest form. $\frac{83}{250}$
+1.  Express 0.015 as a proper fraction in its simplest form. $\frac{3}{200}$
 
 2.  Express 4.6 as a mixed fraction in its simplest form. $4\frac{3}{5}$
 
