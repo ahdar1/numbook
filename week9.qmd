@@ -1,6 +1,6 @@
 # Week 9 Test
 
-This is an exam week for this module. The exam will last for 40 min on Moodle. There are 20 questions on the tests each worth 1 point. The pass mark is 8 points (40%). The pass mark is quite low given the level of the questions. Therefore, I don't expect to see fails on this test unless you have never attempted any of the weekly problems/exercises. Furthermore the test contain questions of the weekly test questions.
+This is an exam week for this module. The exam will last for 40 min on Moodle. There are 20 questions of 20 points in total. The pass mark is 8 points (40%). The pass mark is quite low given the level of the questions. Therefore, I don't expect to see fails on this test unless you have never attempted any of the weekly problems/exercises. Furthermore the test contain questions of the weekly test questions.
 
 :::callout-important
 Make sure you don't miss out your examinations as they are mandatory for the completion of your module.
