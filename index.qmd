@@ -44,15 +44,15 @@ During the workshops, you must attempt the weekly exercises. If you cannot finis
 
 The structure of the program can be seen below.
 
-| Week | Section |                        Topic                        | Exercises |
-|:----------:|:----------:|:------------------------------------:|:----------:|
-|  5   |    5    |             Arithmetic of whole numbers             |    20     |
-|  6   |    6    |            Fraction and Decimal Numbers             |    10     |
-|  7   |   7a    |                Percentage and Ratio                 |    tba    |
-|  7   |   7b    |                 Exponents and Roots                 |    tba    |
-|  8   |   8a    | Basic Marketing Math: Business Costs and Break-Even |    tba    |
-|  8   |   8b    |    Basic Marketing Math: Market Share               |    tba    |
-|  9   |   All   |                        Test                         |    20     |
+| Week | Section |                        Topic                        
+|:----------:|:----------:|:------------------------------------:|
+|  5   |    5    |             Arithmetic of whole numbers            
+|  6   |    6    |            Fraction and Decimal Numbers      
+|  7   |   7a    |                Percentage and Ratio                
+|  7   |   7b    |                 Exponents and Roots              
+|  8   |   8a    | Basic Marketing Math: Business Costs and Break-Even
+|  8   |   8b    |    Basic Marketing Math: Market Share            
+|  9   |   All   |                        Exam (on Moodle)                        
 
 ## Exercises and Week 9 Test on Moodle {.unnumbered}
 
