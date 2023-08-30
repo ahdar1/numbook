@@ -32,7 +32,16 @@ website:
           - week8a.qmd 
           - week8b.qmd 
       - week9.qmd
-      
+      - section: "Solutions"
+        contents:
+          - sol5.qmd
+          - sol6.qmd
+          - sol7a.qmd
+          - sol7b.qmd
+          - sol8a.qmd
+          - sol8b.qmd
+  
+
 bibliography: references.bib
 
 format:
