@@ -1,4 +1,12 @@
-Solutions to weekly problems and exercises
+---
+title: "Solutions to weekly problems and exercises: Week 7a"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    highlight-style: github
+---
+
 
 # Week 7a {.unnumbered}
 

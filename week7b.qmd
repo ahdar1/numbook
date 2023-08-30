@@ -1,3 +1,13 @@
+---
+title: "Solutions to weekly problems and exercises: Week 7b"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    highlight-style: github
+---
+
+
 # Week 7b: Exponents and Roots
 
 ## Learning Goals

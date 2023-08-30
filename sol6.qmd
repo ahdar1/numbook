@@ -1,4 +1,12 @@
-Solutions to weekly problems and exercises
+---
+title: "Solutions to weekly problems and exercises: Week 6"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    highlight-style: github
+---
+
 
 # Week 6 {.unnumbered}
 

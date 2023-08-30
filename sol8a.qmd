@@ -1,4 +1,14 @@
 Solutions to weekly problems and exercises
+---
+title: "Solutions to weekly problems and exercises: Week 8a"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    highlight-style: github
+---
+
+
 
 # Week 8a {.unnumbered}
 
@@ -6,7 +16,7 @@ Solutions to weekly problems and exercises
 
 **Problem**
 
-The cost of making a one unit of a product is £40. What is the cost to make 20 units? 
+The cost of making a one unit of a product is £40. What is the cost to make 20 units?
 
 Answer:
 
