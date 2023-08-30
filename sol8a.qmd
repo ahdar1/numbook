@@ -1,14 +1,13 @@
-Solutions to weekly problems and exercises
 ---
-title: "Solutions to weekly problems and exercises: Week 8a"
+title: "MKTG100 Numeracy"
+subtitle: "Solutions To Week 8a's Exercises"
+author: AD
 format:
   pdf:
     toc: true
     number-sections: true
     highlight-style: github
 ---
-
-
 
 # Week 8a {.unnumbered}
 
@@ -50,20 +49,20 @@ Variable cost per product = £10
 
 ```{=tex}
 \begin{align}
-
 Contribution &= Selling \; Price - Variable \; Cost \\
-
-&= £20 - £10 = £10
-
+&= £20 - £10 \\
+&= £10
 \end{align}
 ```
+
+Therefore,
+
+
 ```{=tex}
 \begin{align}
-
 BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
 &= \frac{£20000}{£10} \\
 &= 2000
-
 \end{align}
 ```
 Thus, you should sell 2000 units.
@@ -74,22 +73,23 @@ Thus, you should sell 2000 units.
 
 *Answer*
 
+
 ```{=tex}
 \begin{align}
-
 Contribution &= Selling \; Price - Variable \; Cost \\
-
-&= £10 - £5 = £5
-
+&= £10 - £5 \\
+&= £5
 \end{align}
 ```
+
+
+Therefore,
+
 ```{=tex}
 \begin{align}
-
 BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
 &= \frac{£100}{£5} \\
 &= 20
-
 \end{align}
 ```
 2.  If you increase the selling price by 5%, calculate the new break-even quantity.
@@ -100,20 +100,20 @@ New selling price = $105 \% \times £10 = 10.5$
 
 ```{=tex}
 \begin{align}
-
 Contribution &= Selling \; Price - Variable \; Cost \\
-
-&= £10.5 - £5 = £5.5
-
+&= £10.5 - £5 \\
+& = £5.5
 \end{align}
 ```
+
+Therefore,
+
 ```{=tex}
 \begin{align}
-
 BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
 &= \frac{£100}{£5.5} \\
 &= 18.18 
-
 \end{align}
 ```
+
 The BE quantity is 18.18. You can not sell partial units. You may round up to the next whole number (if you round down, you will incur a profit loss). Thus, you must sell at least 19 units.
