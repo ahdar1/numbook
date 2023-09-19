@@ -3,12 +3,12 @@ title: "MKTG100 Numeracy "
 subtitle: "Solutions To Week 6's Exercises"
 author: AD
 format:
-  pdf:
+  html:
+    theme: cosmo
+    css: styles.css
     toc: true
     number-sections: true
-    highlight-style: github
 ---
-
 
 # Week 6 {.unnumbered}
 

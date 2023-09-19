@@ -3,10 +3,11 @@ title: "MKTG100 Numeracy"
 subtitle: "Solutions To Week 8a's Exercises"
 author: AD
 format:
-  pdf:
+  html:
+    theme: cosmo
+    css: styles.css
     toc: true
     number-sections: true
-    highlight-style: github
 ---
 
 # Week 8a {.unnumbered}
@@ -54,9 +55,7 @@ Contribution &= Selling \; Price - Variable \; Cost \\
 &= £10
 \end{align}
 ```
-
 Therefore,
-
 
 ```{=tex}
 \begin{align}
@@ -73,7 +72,6 @@ Thus, you should sell 2000 units.
 
 *Answer*
 
-
 ```{=tex}
 \begin{align}
 Contribution &= Selling \; Price - Variable \; Cost \\
@@ -81,8 +79,6 @@ Contribution &= Selling \; Price - Variable \; Cost \\
 &= £5
 \end{align}
 ```
-
-
 Therefore,
 
 ```{=tex}
@@ -105,7 +101,6 @@ Contribution &= Selling \; Price - Variable \; Cost \\
 & = £5.5
 \end{align}
 ```
-
 Therefore,
 
 ```{=tex}
@@ -115,5 +110,4 @@ BE \; quantity &= \frac{Fixed \ cost}{Contribution} \\
 &= 18.18 
 \end{align}
 ```
-
 The BE quantity is 18.18. You can not sell partial units. You may round up to the next whole number (if you round down, you will incur a profit loss). Thus, you must sell at least 19 units.

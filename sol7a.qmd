@@ -3,12 +3,12 @@ title: "MKTG100 Numeracy "
 subtitle: "Solutions To Week 7a's Exercises"
 author: AD
 format:
-  pdf:
+  html:
+    theme: cosmo
+    css: styles.css
     toc: true
     number-sections: true
-    highlight-style: github
 ---
-
 
 # Week 7a {.unnumbered}
 
