@@ -17,7 +17,7 @@ Total cost = Fixed Costs + Variable Costs $\times$ Outputs
 
 ### Problem
 
-The cost of making a one unit of a product is £40. What is the cost to make 20 units?
+The cost of making a one unit of a product is £40. What is the cost of making 20 units?
 
 ### Watch
 
