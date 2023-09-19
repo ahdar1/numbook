@@ -1,14 +1,3 @@
----
-title: "MKTG100 Numeracy "
-subtitle: "Solutions To Week 7b's Exercises"
-author: AD
-format:
-  pdf:
-    toc: true
-    number-sections: true
-    highlight-style: github
----
-
 
 # Week 7b: Exponents and Roots
 
