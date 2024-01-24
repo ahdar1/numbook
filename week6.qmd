@@ -38,17 +38,26 @@ Express 0.142 as a proper fraction in its simplest form.
 
 </iframe>
 
+[Click this video](https://www.youtube.com/embed/CA9XLJpQp3c)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AtBUQH8Tkqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
+
+[Click this video](https://www.youtube.com/embed/CA9XLJpQp3c)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mst8iZjIpFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 
+[Click this video](https://www.youtube.com/embed/Mst8iZjIpFE)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qRL_taeUAPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
+
+[Click this video](https://www.youtube.com/embed/qRL_taeUAPw)
 
 ### Exercises
 
@@ -83,6 +92,8 @@ Write 76 to one significant figure (1 sf).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-X0amVzMKFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
+
+[Click this video](https://www.youtube.com/embed/-X0amVzMKFo)
 
 ### Exercises
 

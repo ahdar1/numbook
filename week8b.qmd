@@ -1,4 +1,3 @@
-
 # Week 8b: Market Share
 
 ## Learning Goals
@@ -20,6 +19,8 @@ Firm A and Firm B are two companies competing in the luxury car market. Firm A s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7XifAlvu7-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
+
+[Click this video](https://www.youtube.com/embed/7XifAlvu7-k)
 
 ### Exercises
 

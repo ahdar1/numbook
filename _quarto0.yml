@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: " MKTG100 Numeracy Skills" 
+  body-header: | 
+      Michaelmas Term 2023
+  margin-header: | 
+      ![](/images/cover.png)
+  page-navigation: true
+  page-footer: " Creator Ahmad Daryanto, Last Update: 14-09-2023"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Introduction"
+        contents:
+          - index.qmd
+      - section: "Week 5"
+        contents:
+          - week5.qmd
+      - section: "Week 6"
+        contents:
+          - week6.qmd
+      - section: "Week 7"
+        contents:
+          - week7a.qmd
+          - week7b.qmd
+      - section: "Week 8"
+        contents:
+          - week8a.qmd 
+          - week8b.qmd 
+      - week9.qmd
+      
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    number-sections: true
+    
+
+editor: visual
+

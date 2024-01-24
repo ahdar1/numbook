@@ -18,6 +18,8 @@ Transform 3.6 into a percentage.
 
 </iframe>
 
+[Click this video](https://www.youtube.com/embed/JeVSmq1Nrpw)
+
 ### Exercises
 
 1.  Transform 2.5 into a percentage.
@@ -28,17 +30,16 @@ Transform 3.6 into a percentage.
 
 ## Calculating Percentages Changes
 
-```{=tex}
-\begin{align}
+$$
+Percentages \; changes = \frac{Change \; between \; values}{Original \;value} \times 100 \%   \label{eq1}
+$$
+$$
+  = \frac{New \; value - Original \;value}{Original \;value} \times 100 \%  \label{eq2}
+$$
 
-Percentages \; changes &= \frac{Change \; between \; values}{Original \; value} \times 100 \% \\
+* If the percentage change is positive, it is called a percentage increase.
 
- &= \frac{New \; value - Original \; value}{Original \; value} \times 100 \%
-\end{align}
-```
--   If the percentage change is positive, it is called the percentage increase.
-
--   If the percentage change is negative, it is called a percentage decrease.
+* If the percentage change is negative, it is called a percentage decrease.
 
 **Calculating new price**.
 
@@ -57,6 +58,8 @@ Answer: The new rent is $(100 \% + 4 \%) \times £ 750 = 104 \% \times £750 = �
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QZs8y0Y_3Vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
+
+[Click this video](https://www.youtube.com/embed/QZs8y0Y_3Vk)
 
 ### Exercises
 

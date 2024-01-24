@@ -33,6 +33,8 @@ d\. Difference
 
 </iframe>
 
+[Click this video](https://www.youtube.com/embed/IwW0GJWKH98)
+
 ### Exercises
 
 1.  What is the answer to a multiplication problem called?
@@ -76,6 +78,8 @@ You work out an expression from left to right in the order of BODMAS. Division a
 
 </iframe>
 
+[Click this video](https://www.youtube.com/embed/ClYdw4d4OmA)
+
 ::: callout-note
 ## Millions people got it wrong: 6:2(1+2) = ?
 
@@ -87,8 +91,12 @@ Watch the explanation in the video below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/URcUvFIUIhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
+
+[Click this video](https://www.youtube.com/embed/URcUvFIUIhQ)
+
 </iframe>
 :::
+
 
 ### Exercises
 
@@ -118,6 +126,8 @@ Is 5 a prime number?
 
 </iframe>
 
+[Click this video](https://www.youtube.com/embed/mIStB5X4U8M)
+
 ### Exercises
 
 1.  Is 13 a prime number?
@@ -135,6 +145,8 @@ Find the prime factorization of 75.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZKKDTfHcsG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
+
+[Click this video](https://www.youtube.com/embed/ZKKDTfHcsG0)
 
 ### Exercises
 
@@ -157,6 +169,8 @@ What is the greatest common divisor of 18 and 21?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uE9O8N5JYB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
+
+[Click this video](https://www.youtube.com/embed/uE9O8N5JYB4)
 
 ### Exercises
 
@@ -191,6 +205,8 @@ Find the lcm of 6 and 10.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RMJs_I9Nydw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
+
+[Click this video](https://www.youtube.com/embed/RMJs_I9Nydw)
 
 ### Exercises
 
