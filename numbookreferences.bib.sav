@@ -59,4 +59,11 @@
   publisher = {INFORMS},
 }
 
+@Book{Weiglin2002,
+  author    = {Weiglin, Peter C},
+  publisher = {Sage},
+  title     = {Survival math for marketers},
+  year      = {2002},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
