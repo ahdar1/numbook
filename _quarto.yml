@@ -1,58 +1,47 @@
 project:
+  type: website
   output-dir: docs
-  type: book
 
-book:
-  title: "MKTG100 Numeracy"
-  page-footer:
-    left: |
-      Intro.
-    right: |
-      This book was built with <a href="https://quarto.org/">Quarto</a>.
-  
-  author: "Ahmad Daryanto"
-  date: " 9 September 2024"
-
- 
-  chapters: 
-    - index.qmd
-    - week5.qmd
-    - week6.qmd
-    - week7a.qmd
-    - week7b.qmd
-    - week8a.qmd
-    - week8b.qmd
-    - week9.qmd
-    
-    - references.qmd
+website:
+  title: " MKTG100 Numeracy Skills" 
+  body-header: | 
+      Michaelmas Term 2024
+  margin-header: | 
+      ![](/images/cover.png)
+  page-navigation: true
+  page-footer: " Creator Ahmad Daryanto, Last Update: 14-09-2023"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Introduction"
+        contents:
+          - index.qmd
+      - section: "Week 5"
+        contents:
+          - week5.qmd
+      - section: "Week 6"
+        contents:
+          - week6.qmd
+      - section: "Week 7"
+        contents:
+          - week7a.qmd
+          - week7b.qmd
+      - section: "Week 8"
+        contents:
+          - week8a.qmd 
+          - week8b.qmd 
+      - week9.qmd
       
-bibliography: references.bib
-format:
-  pdf:
-    latex_engine: xelatex
-    toc: true
-    number-sections: true
-    colorlinks: true
-    prefer-html: true
+bibliography: numbookreferences.bib
 
-  latex:
-    documentclass: book
-    papersize: a4paper
-    classoption: oneside
-    lof: true
-    lot: true
-    colorlinks: false
-    fontsize: 11pt
-  
+format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
     number-sections: true
-
-execute:
-  freeze: true 
-  debug: true    
+    
 
 editor: visual
 

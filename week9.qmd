@@ -10,4 +10,4 @@ The link on Moodle for week 9 test is **password protected**. Your tutor will re
 
 Now, go to Moodle, and click the link \`Week 9 Test\`
 
-Alternatively, if you are connected to the internet campus, you can directly click this link [Week 9 Test](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2235178)
+Alternatively, if you are connected to the internet campus, you can directly click this link [Week 9 Test](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2468619)

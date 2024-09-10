@@ -46,7 +46,6 @@ Express 0.142 as a proper fraction in its simplest form.
 
 [Click this video](https://www.youtube.com/embed/CA9XLJpQp3c)
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mst8iZjIpFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
@@ -113,6 +112,6 @@ Now, I want you to attempt these questions on Moodle.
 
 Please click the link below:
 
-[Week 6 Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2235173)
+[Week 6 Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2468614)
 
 Once you submit all your answers on Moodle, you complete your learning on this week's topic.

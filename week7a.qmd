@@ -32,14 +32,13 @@ Transform 3.6 into a percentage.
 
 $$
 Percentages \; changes = \frac{Change \; between \; values}{Original \;value} \times 100 \%   \label{eq1}
-$$
-$$
+$$ $$
   = \frac{New \; value - Original \;value}{Original \;value} \times 100 \%  \label{eq2}
 $$
 
-* If the percentage change is positive, it is called a percentage increase.
+-   If the percentage change is positive, it is called a percentage increase.
 
-* If the percentage change is negative, it is called a percentage decrease.
+-   If the percentage change is negative, it is called a percentage decrease.
 
 **Calculating new price**.
 
@@ -75,6 +74,6 @@ Now, I want you to attempt these questions on Moodle.
 
 Please click the link below:
 
-[Week 7a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2235174)
+[Week 7a Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2468615)
 
 Once you submit all your answers on Moodle, you complete your learning on this week's topic.

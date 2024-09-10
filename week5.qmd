@@ -91,12 +91,10 @@ Watch the explanation in the video below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/URcUvFIUIhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
-
 [Click this video](https://www.youtube.com/embed/URcUvFIUIhQ)
 
 </iframe>
 :::
-
 
 ### Exercises
 
@@ -234,6 +232,6 @@ Now, I want you to attempt these questions on Moodle.
 
 Please click the link below:
 
-[Week 5 Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2235172)
+[Week 5 Exercises on Moodle](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2468613)
 
 Once you submit all your answers on Moodle, you have completed your learning on this week's topic.

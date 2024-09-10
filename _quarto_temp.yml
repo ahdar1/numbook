@@ -1,0 +1,58 @@
+project:
+  output-dir: docs
+  type: book
+
+book:
+  title: "MKTG100 Numeracy"
+  page-footer:
+    left: |
+      Intro.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  
+  author: "Ahmad Daryanto"
+  date: " 9 September 2024"
+
+ 
+  chapters: 
+    - index.qmd
+    - week5.qmd
+    - week6.qmd
+    - week7a.qmd
+    - week7b.qmd
+    - week8a.qmd
+    - week8b.qmd
+    - week9.qmd
+    
+    - references.qmd
+      
+bibliography: references.bib
+format:
+  pdf:
+    latex_engine: xelatex
+    toc: true
+    number-sections: true
+    colorlinks: true
+    prefer-html: true
+
+  latex:
+    documentclass: book
+    papersize: a4paper
+    classoption: oneside
+    lof: true
+    lot: true
+    colorlinks: false
+    fontsize: 11pt
+  
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    number-sections: true
+
+execute:
+  freeze: true 
+  debug: true    
+
+editor: visual
+
