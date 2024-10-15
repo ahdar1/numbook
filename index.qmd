@@ -10,9 +10,14 @@ Module leader/tutor: [Ahmad Daryanto (Anto](https://sites.google.com/view/ahmadd
 
 Tutor:
 
--   Felix Martin. Email: f.martin\[at\]lancaster.ac.uk
+-   Dr. Raja Patricia Sharah. Email: s.fatricia\[at\]lancaster.ac.uk
 
--   Jiahui Zhao. Email: j.zhao24\[at\]lancaster.ac.uk
+-   Shanjun Xie. Email: s.xie8\[at\]lancaster.ac.uk
+
+-   Shuntao Nian. Email: s.nian\[at\]lancaster.ac.uk
+
+
+
 
 ## Learning Objectives {.unnumbered}
 
@@ -21,6 +26,10 @@ Tutor:
 2.  To increase students' appreciation of the importance of gaining those skills in the marketing environment.
 
 3.  As a preparation for advanced modules in Part 2.
+
+## Workshops {-}
+
+See Moodle
 
 ## How to Study {.unnumbered}
 
