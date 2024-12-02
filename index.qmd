@@ -82,7 +82,7 @@ At the end of your journey (see flowchart), you must attempt the weekly exercise
 
 ## Assessment {.unnumbered}
 
-Exam or test will take place on Moodle in the last workshop of week 9. The exam will last for 40 min for 20 questions. The pass mark is 40%. If you fail, you will have a chance to take a resit -- the fails will be contacted by a module leader. The test link on Moodle for week 9 test is `password protected`. Your tutor will reveal the password in the workshop.
+Exam or test will take place on Moodle in the last workshop of week 9. The exam will last for 45 min for 20 questions. The pass mark is 40%. If you fail, you will have a chance to take a resit -- the fails will be contacted by a module leader. The test link on Moodle for week 9 test is `password protected`. Your tutor will reveal the password in the workshop.
 
 Make sure you don't miss out your examinations as they are mandatory for completion of your module.
 
