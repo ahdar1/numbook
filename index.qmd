@@ -1,6 +1,6 @@
 # Module Outline {.unnumbered}
 
-## Introduction Video {-}
+## Introduction Video {.unnumbered}
 
 [Video: Introduction to the Module](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=31afd8c6-5757-451b-afca-b21a00de0f95)
 
@@ -20,9 +20,6 @@ Tutor:
 
 -   Shuntao Nian. Email: s.nian\[at\]lancaster.ac.uk
 
-
-
-
 ## Learning Objectives {.unnumbered}
 
 1.  To improve basic numeracy skills.
@@ -31,12 +28,11 @@ Tutor:
 
 3.  As a preparation for advanced modules in Part 2.
 
-## Workshops {-}
+## Workshops {.unnumbered}
+
 You have been allocated to an online workshop slot -- Check your timetable.
 
-Find and click the link to join your online workshop: [https://modules.lancaster.ac.uk/course/view.php?id=43669](https://modules.lancaster.ac.uk/course/view.php?id=43669)
-
-
+Find and click the link to join your online workshop: <https://modules.lancaster.ac.uk/course/view.php?id=43669>
 
 ## How to Study {.unnumbered}
 
@@ -93,3 +89,6 @@ Make sure you don't miss out your examinations as they are mandatory for complet
 ## Excel {.unnumbered}
 
 I assume you know how to use `Excel` to calculate a basic mathematical operation e.g., 1+1. To answer certain problems in this manual, I provide `Excel` commands. This is a nice tool to use but also dangerous. Without an understanding, the use of `Excel` can put you in the dark forever. Make sure you understand how to manually solve the weekly problems/exercises before resorting to `Excel`.
+
+ “Tell me and I forget, teach me and I may remember, involve me and I learn.” — Benjamin Franklin
+
