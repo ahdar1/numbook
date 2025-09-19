@@ -14,11 +14,13 @@ Module leader: [Ahmad Daryanto (Anto](https://sites.google.com/view/ahmaddaryant
 
 Tutor:
 
--   Shanjun Xie. Email: s.xie8\[at\]lancaster.ac.uk
+-   Ahmad Daryanto; a.daryanto\[at\]lancaster.ac.uk
 
--   Shuntao Nian. Email: s.nian\[at\]lancaster.ac.uk
+-   Shanjun Xie; s.xie8\[at\]lancaster.ac.uk
 
--   Howard Yang. Email: c.yang28\[at\]lancaster.ac.uk
+-   Shuntao Nian; s.nian\[at\]lancaster.ac.uk
+
+-   Howard Yang; c.yang28\[at\]lancaster.ac.uk
 
 ## Learning Objectives {.unnumbered}
 
