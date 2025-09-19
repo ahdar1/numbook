@@ -14,11 +14,11 @@ Module leader: [Ahmad Daryanto (Anto](https://sites.google.com/view/ahmaddaryant
 
 Tutor:
 
--   Dr. Raja Patricia Sharah. Email: s.fatricia\[at\]lancaster.ac.uk
-
 -   Shanjun Xie. Email: s.xie8\[at\]lancaster.ac.uk
 
 -   Shuntao Nian. Email: s.nian\[at\]lancaster.ac.uk
+
+-   Howard Yang. Email: c.yang28\[at\]lancaster.ac.uk
 
 ## Learning Objectives {.unnumbered}
 
@@ -32,7 +32,7 @@ Tutor:
 
 You have been allocated to an online workshop slot -- Check your timetable.
 
-Find and click the link to join your online workshop: <https://modules.lancaster.ac.uk/course/view.php?id=43669>
+Find and click the link to join your online workshop: <https://modules.lancaster.ac.uk/course/view.php?id=45985>
 
 ## How to Study {.unnumbered}
 

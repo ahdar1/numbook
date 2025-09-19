@@ -8,4 +8,4 @@ Make sure you don't miss out your examinations as they are mandatory for the com
 
 Now, go to Moodle, and click the link \`Week 9 Test\`
 
-Alternatively, if you are connected to the internet campus, you can directly click this link [Week 9 Test](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2468619)
+Alternatively, if you are connected to the internet campus, you can directly click this link [Week 9 Test](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2666851)
