@@ -1,6 +1,8 @@
-# Week 9 Test
+# Week 18 Test
 
-This is an exam week for this module. The exam will last for 45 min on Moodle. There are 20 questions of 20 points in total. The pass mark is 8 points (40%). The pass mark is quite low given the level of the questions. Therefore, I don't expect to see fails on this test unless you have never attempted any of the weekly problems/exercises. Furthermore the test contain questions of the weekly test questions.
+Your test will be taking place in week 18 (next term). This is a combined multiple-choice test, which means it covers the basic numeracy course in Term 1 and the basic statistics course in Term 2. The test will last for 2 hours and will consist of 40 questions. 
+
+<!---
 
 ::: callout-important
 Make sure you don't miss out your examinations as they are mandatory for the completion of your module.
@@ -9,3 +11,5 @@ Make sure you don't miss out your examinations as they are mandatory for the com
 Now, go to Moodle, and click the link \`Week 9 Test\`
 
 Alternatively, if you are connected to the internet campus, you can directly click this link [Week 9 Test](https://modules.lancaster.ac.uk/mod/quiz/view.php?id=2666851)
+
+--->

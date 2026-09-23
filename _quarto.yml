@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: " MKTG100 Numeracy Skills" 
+  title: " MKTG4005: Numeracy Skills" 
   body-header: | 
-      Michaelmas Term 2025
+      Michaelmas Term 2026
   margin-header: | 
       ![](/images/cover.png)
   page-navigation: true
-  page-footer: " Creator Ahmad Daryanto, Last Update: 14-09-2023"
+  page-footer: " Creator Ahmad Daryanto, Last Update: 23-09-2026"
   sidebar:
     style: "docked"
     search: true
@@ -31,8 +31,7 @@ website:
         contents:
           - week8a.qmd 
           - week8b.qmd 
-      - week9.qmd
-      
+
 bibliography: numbookreferences.bib
 
 format:

@@ -15,9 +15,7 @@ Module leader: [Ahmad Daryanto (Anto](https://sites.google.com/view/ahmaddaryant
 Tutor:
 
 
--   Shanjun Xie; s.xie8\[at\]lancaster.ac.uk
-
--   Shuntao Nian; s.nian\[at\]lancaster.ac.uk
+-   Dr. Rebecca Liu; rebecca.lui\[at\]lancaster.ac.uk
 
 -   Howard Yang; c.yang28\[at\]lancaster.ac.uk
 
@@ -27,7 +25,7 @@ Tutor:
 
 2.  To increase students' appreciation of the importance of gaining those skills in the marketing environment.
 
-3.  As a preparation for advanced modules in Part 2.
+3.  As a preparation for advanced modules in your second and third year.
 
 ## Workshops {.unnumbered}
 
@@ -69,19 +67,21 @@ The structure of the program can be seen below.
 |  7   |   7b    |                 Exponents and Roots                 |
 |  8   |   8a    | Basic Marketing Math: Business Costs and Break-Even |
 |  8   |   8b    |         Basic Marketing Math: Market Share          |
-|  9   |   All   |                  Exam (on Moodle)                   |
+|  18   |   All   |                  Exam (on Moodle)                   |
 
-## Exercises and Week 9 Test on Moodle {.unnumbered}
+## Exercises and Week 18 Test on Moodle {.unnumbered}
 
 At the end of your journey (see flowchart), you must attempt the weekly exercises on Moodle. Direct links to the weekly exercises are given at the end of each page or alternatively you can log onto Moodle and visit the course page. Once you submit all your answers, you have completed the weekly topic.
 
-![Weekly Exercises and Week 9 Test On Moodle](images/moodle_exercises.png){#fig-modex fig-align="center" width="25%"}
+<!--
+
+![Weekly Exercises and Week 18 Test On Moodle](images/moodle_exercises.png){#fig-modex fig-align="center" width="25%"}
+-->
 
 ## Assessment {.unnumbered}
 
-Exam or test will take place on Moodle in the last workshop of week 9. The exam will last for 45 min for 20 questions. The pass mark is 40%. If you fail, you will have a chance to take a resit -- the fails will be contacted by a module leader. The test link on Moodle for week 9 test is `password protected`. Your tutor will reveal the password in the workshop.
+The exam or test will take place on Moodle in week 19 in the lab. This is a combined multiple-choice test, which means it covers the basic numeracy course in Term 1 and the basic statistics course in Term 2. The test will last for 2 hours and will consist of 40 questions. 
 
-Make sure you don't miss out your examinations as they are mandatory for completion of your module.
 
 ## Textbook {.unnumbered}
 
