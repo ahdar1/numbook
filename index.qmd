@@ -39,7 +39,7 @@ You have been allocated to an online workshop slot -- Check your timetable.
 | 5-8 | Friday | 16.00 – 17:00 | FM | Online |
 
 
-Find and click the link to join your online workshop: <https://modules.lancaster.ac.uk/course/view.php?id=45985>
+Find and click the link to join your online workshop: <https://modules.lancaster.ac.uk/course/section.php?id=582498>
 
 ## How to Study {.unnumbered}
 
