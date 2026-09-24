@@ -29,17 +29,24 @@ Tutor:
 
 ## Workshops {.unnumbered}
 
+::: {.callout-note title="Workshop allocation"}
 You have been allocated to an online workshop slot -- Check your timetable.
 
-| Week | Day | Time | Tutor | Notes |
-|------|-----|------|---------|-------|-------|
-| 5-8 | Wednesday | 12.00 - 13.00 | FM | Online |
-|5-8 | Thursday | 14.00 - 15.00 | FM | Online |
-| 5-8 | Friday | 14.00 – 15.00 | RL | Online |
-| 5-8 | Friday | 16.00 – 17:00 | FM | Online |
-
-
 Find and click the link to join your online workshop: <https://modules.lancaster.ac.uk/course/section.php?id=582498>
+:::
+
+Type | Week | Day | Time | Tutor | Room |
+|------|------|-----|------|---------|-------|-------|
+| **Lecture**  | 4 | Mon | 12.00 - 13.00 | AD | George Fox LT 5 |
+| Workshop | 5-8 | Wednesday | 12.00 - 13.00 | FM | Online |
+| Workshop | 5-8 | Thursday | 14.00 – 15.00 | FM | Online |
+| Workshop | 5-8 | Friday | 14.00 – 15.00 | RL | Online |
+| Workshop | 5-8 | Friday | 16.00 – 17:00 | FM | Online |
+
+
+
+
+
 
 ## How to Study {.unnumbered}
 
