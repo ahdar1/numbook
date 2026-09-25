@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: " MKTG4005: Numeracy Skills" 
+  title: " MKTG4005: Term 1 Numeracy Skills" 
   body-header: | 
       Michaelmas Term 2026
   margin-header: | 
