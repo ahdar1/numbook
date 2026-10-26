@@ -103,4 +103,11 @@ The exam or test will take place on Moodle in week 19 in the lab. This is a comb
 
 I assume you know how to use `Excel` to calculate a basic mathematical operation e.g., 1+1. To answer certain problems in this manual, I provide `Excel` commands. This is a nice tool to use but also dangerous. Without an understanding, the use of `Excel` can put you in the dark forever. Make sure you understand how to manually solve the weekly problems/exercises before resorting to `Excel`.
 
-“Tell me and I forget, teach me and I may remember, involve me and I learn.” — Benjamin Franklin
+
+::: {.callout-important}
+**Tell me and I forget, teach me and I may remember, involve me and I learn.** 
+
+Benjamin Franklin
+:::
+
+:::
