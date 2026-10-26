@@ -63,7 +63,7 @@ flowchart LR
 
 ## Program Structure {.unnumbered}
 
-The module runs from week 5 - 9 in the Michaelmas term. In week 9, you take a test on Moodle during your workshop.
+The module runs from week 5 - 8 in the Michaelmas term. In week 18, you take a combined test on Moodle in computer labs.
 
 All workshop activities are conducted online. You must log onto **teams**. Your tutors are available virtually during workshop time. If you need any help, you can send a message or request to talk to your tutors.
 
